@@ -1,0 +1,3755 @@
+{
+  "verified": 625,
+  "records": [
+    {
+      "file": "clearance_10000_anchor.json",
+      "count": 2,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10000_global.json",
+      "count": 2,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10000_local.json",
+      "count": 2,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10000_oracle9.json",
+      "count": 2,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10000_raw.json",
+      "count": 2,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "clearance_1000_anchor.json",
+      "count": 2,
+      "panels": 116,
+      "precision": 192
+    },
+    {
+      "file": "clearance_1000_global.json",
+      "count": 2,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "clearance_1000_local.json",
+      "count": 2,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "clearance_1000_oracle9.json",
+      "count": 2,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "clearance_1000_raw.json",
+      "count": 2,
+      "panels": 116,
+      "precision": 192
+    },
+    {
+      "file": "clearance_100_anchor.json",
+      "count": 2,
+      "panels": 96,
+      "precision": 192
+    },
+    {
+      "file": "clearance_100_global.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "clearance_100_local.json",
+      "count": 2,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "clearance_100_oracle9.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "clearance_100_raw.json",
+      "count": 2,
+      "panels": 96,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10_anchor.json",
+      "count": 2,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10_global.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10_local.json",
+      "count": 2,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10_oracle9.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "clearance_10_raw.json",
+      "count": 2,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_anchor.json",
+      "count": 0,
+      "panels": 18,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_global.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_global2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_jet.json",
+      "count": 0,
+      "panels": 16,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_local.json",
+      "count": 0,
+      "panels": 18,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_local2.json",
+      "count": 0,
+      "panels": 16,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_oracle9.json",
+      "count": 0,
+      "panels": 18,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_oracle9_2.json",
+      "count": 0,
+      "panels": 16,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_raw.json",
+      "count": 0,
+      "panels": 18,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_1-2_raw2.json",
+      "count": 0,
+      "panels": 16,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_anchor.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_global.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_global2.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_jet.json",
+      "count": 0,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_local.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_local2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_oracle9.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_oracle9_2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_raw.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_2_raw2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_anchor.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_global.json",
+      "count": 2,
+      "panels": 54,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_global2.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_jet.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_local.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_local2.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_oracle9.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_oracle9_2.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_raw.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1-2_4_raw2.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_anchor.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_global.json",
+      "count": 0,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_global2.json",
+      "count": 0,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_jet.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_local.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_local2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_oracle9.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_oracle9_2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_raw.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_1-2_raw2.json",
+      "count": 0,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_anchor.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_global.json",
+      "count": 0,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_global2.json",
+      "count": 0,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_jet.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_local.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_local2.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_oracle9.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_oracle9_2.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_raw.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_2_raw2.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_anchor.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_global.json",
+      "count": 2,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_global2.json",
+      "count": 2,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_jet.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_local.json",
+      "count": 2,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_local2.json",
+      "count": 2,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_oracle9.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_oracle9_2.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_raw.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "delay_1_4_raw2.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_anchor.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_global.json",
+      "count": 0,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_global2.json",
+      "count": 0,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_jet.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_local.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_local2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_oracle9.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_oracle9_2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_raw.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_1-2_raw2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_anchor.json",
+      "count": 2,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_global.json",
+      "count": 2,
+      "panels": 144,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_global2.json",
+      "count": 2,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_jet.json",
+      "count": 2,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_local.json",
+      "count": 2,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_local2.json",
+      "count": 2,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_oracle9.json",
+      "count": 2,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_oracle9_2.json",
+      "count": 2,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_raw.json",
+      "count": 2,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_2_raw2.json",
+      "count": 2,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_anchor.json",
+      "count": 2,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_global.json",
+      "count": 2,
+      "panels": 156,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_global2.json",
+      "count": 2,
+      "panels": 142,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_jet.json",
+      "count": 2,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_local.json",
+      "count": 2,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_local2.json",
+      "count": 2,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_oracle9.json",
+      "count": 2,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_oracle9_2.json",
+      "count": 2,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_raw.json",
+      "count": 2,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "delay_2_4_raw2.json",
+      "count": 2,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_anchor.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_global.json",
+      "count": 0,
+      "panels": 276,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_global2.json",
+      "count": 0,
+      "panels": 276,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_jet.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_local.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_local2.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_oracle9.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_oracle9_2.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_raw.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_1-2_raw2.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_anchor.json",
+      "count": 2,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_global.json",
+      "count": 2,
+      "panels": 286,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_global2.json",
+      "count": 2,
+      "panels": 268,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_jet.json",
+      "count": 2,
+      "panels": 96,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_local.json",
+      "count": 2,
+      "panels": 106,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_local2.json",
+      "count": 2,
+      "panels": 98,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_oracle9.json",
+      "count": 2,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_oracle9_2.json",
+      "count": 2,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_raw.json",
+      "count": 2,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_2_raw2.json",
+      "count": 2,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_anchor.json",
+      "count": 6,
+      "panels": 146,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_global.json",
+      "count": 6,
+      "panels": 298,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_global2.json",
+      "count": 6,
+      "panels": 274,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_jet.json",
+      "count": 6,
+      "panels": 114,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_local.json",
+      "count": 6,
+      "panels": 134,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_local2.json",
+      "count": 6,
+      "panels": 120,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_oracle9.json",
+      "count": 6,
+      "panels": 146,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_oracle9_2.json",
+      "count": 6,
+      "panels": 144,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_raw.json",
+      "count": 6,
+      "panels": 146,
+      "precision": 192
+    },
+    {
+      "file": "delay_4_4_raw2.json",
+      "count": 6,
+      "panels": 144,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_1_anchor.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_1_global.json",
+      "count": 0,
+      "panels": 24,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_1_local.json",
+      "count": 0,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_1_oracle9.json",
+      "count": 0,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_1_raw.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_3_anchor.json",
+      "count": 4,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_3_global.json",
+      "count": 4,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_3_local.json",
+      "count": 4,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_3_oracle9.json",
+      "count": 4,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_3_raw.json",
+      "count": 4,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_6_anchor.json",
+      "count": 4,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_6_global.json",
+      "count": 4,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_6_local.json",
+      "count": 4,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_6_oracle9.json",
+      "count": 4,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1-2_6_raw.json",
+      "count": 4,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_1_anchor.json",
+      "count": 3,
+      "panels": 112,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_1_global.json",
+      "count": 3,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_1_local.json",
+      "count": 3,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_1_oracle9.json",
+      "count": 3,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_1_raw.json",
+      "count": 3,
+      "panels": 112,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_3_anchor.json",
+      "count": 8,
+      "panels": 118,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_3_global.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_3_local.json",
+      "count": 8,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_3_oracle9.json",
+      "count": 8,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_3_raw.json",
+      "count": 8,
+      "panels": 118,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_6_anchor.json",
+      "count": 8,
+      "panels": 130,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_6_global.json",
+      "count": 8,
+      "panels": 126,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_6_local.json",
+      "count": 8,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_6_oracle9.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "dominance_1_6_raw.json",
+      "count": 8,
+      "panels": 130,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_1_anchor.json",
+      "count": 14,
+      "panels": 180,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_1_global.json",
+      "count": 14,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_1_local.json",
+      "count": 14,
+      "panels": 54,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_1_oracle9.json",
+      "count": 14,
+      "panels": 114,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_1_raw.json",
+      "count": 14,
+      "panels": 180,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_3_anchor.json",
+      "count": 14,
+      "panels": 190,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_3_global.json",
+      "count": 14,
+      "panels": 182,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_3_local.json",
+      "count": 14,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_3_oracle9.json",
+      "count": 14,
+      "panels": 134,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_3_raw.json",
+      "count": 14,
+      "panels": 190,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_6_anchor.json",
+      "count": 14,
+      "panels": 222,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_6_global.json",
+      "count": 14,
+      "panels": 214,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_6_local.json",
+      "count": 14,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_6_oracle9.json",
+      "count": 14,
+      "panels": 170,
+      "precision": 192
+    },
+    {
+      "file": "dominance_2_6_raw.json",
+      "count": 14,
+      "panels": 222,
+      "precision": 192
+    },
+    {
+      "file": "lattice_00_anchor.json",
+      "count": 4,
+      "panels": 478,
+      "precision": 192
+    },
+    {
+      "file": "lattice_00_global.json",
+      "count": 4,
+      "panels": 236,
+      "precision": 192
+    },
+    {
+      "file": "lattice_00_local.json",
+      "count": 4,
+      "panels": 155,
+      "precision": 192
+    },
+    {
+      "file": "lattice_00_oracle9.json",
+      "count": 4,
+      "panels": 186,
+      "precision": 192
+    },
+    {
+      "file": "lattice_00_raw.json",
+      "count": 4,
+      "panels": 6960,
+      "precision": 192
+    },
+    {
+      "file": "lattice_01_anchor.json",
+      "count": 4,
+      "panels": 110,
+      "precision": 192
+    },
+    {
+      "file": "lattice_01_global.json",
+      "count": 4,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "lattice_01_local.json",
+      "count": 4,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "lattice_01_oracle9.json",
+      "count": 4,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "lattice_01_raw.json",
+      "count": 4,
+      "panels": 524,
+      "precision": 192
+    },
+    {
+      "file": "lattice_02_anchor.json",
+      "count": 20,
+      "panels": 268,
+      "precision": 192
+    },
+    {
+      "file": "lattice_02_global.json",
+      "count": 20,
+      "panels": 256,
+      "precision": 192
+    },
+    {
+      "file": "lattice_02_local.json",
+      "count": 20,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "lattice_02_oracle9.json",
+      "count": 20,
+      "panels": 256,
+      "precision": 192
+    },
+    {
+      "file": "lattice_02_raw.json",
+      "count": 20,
+      "panels": 599,
+      "precision": 192
+    },
+    {
+      "file": "lattice_03_anchor.json",
+      "count": 10,
+      "panels": 325,
+      "precision": 192
+    },
+    {
+      "file": "lattice_03_global.json",
+      "count": 10,
+      "panels": 187,
+      "precision": 192
+    },
+    {
+      "file": "lattice_03_local.json",
+      "count": 10,
+      "panels": 67,
+      "precision": 192
+    },
+    {
+      "file": "lattice_03_oracle9.json",
+      "count": 10,
+      "panels": 173,
+      "precision": 192
+    },
+    {
+      "file": "lattice_03_raw.json",
+      "count": 10,
+      "panels": 325,
+      "precision": 192
+    },
+    {
+      "file": "lattice_04_anchor.json",
+      "count": 4,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "lattice_04_global.json",
+      "count": 4,
+      "panels": 51,
+      "precision": 192
+    },
+    {
+      "file": "lattice_04_local.json",
+      "count": 4,
+      "panels": 19,
+      "precision": 192
+    },
+    {
+      "file": "lattice_04_oracle9.json",
+      "count": 4,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "lattice_04_raw.json",
+      "count": 4,
+      "panels": 861,
+      "precision": 192
+    },
+    {
+      "file": "lattice_05_anchor.json",
+      "count": 16,
+      "panels": 199,
+      "precision": 192
+    },
+    {
+      "file": "lattice_05_global.json",
+      "count": 16,
+      "panels": 182,
+      "precision": 192
+    },
+    {
+      "file": "lattice_05_local.json",
+      "count": 16,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "lattice_05_oracle9.json",
+      "count": 16,
+      "panels": 144,
+      "precision": 192
+    },
+    {
+      "file": "lattice_05_raw.json",
+      "count": 16,
+      "panels": 329,
+      "precision": 192
+    },
+    {
+      "file": "lattice_06_anchor.json",
+      "count": 4,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "lattice_06_global.json",
+      "count": 4,
+      "panels": 54,
+      "precision": 192
+    },
+    {
+      "file": "lattice_06_local.json",
+      "count": 4,
+      "panels": 25,
+      "precision": 192
+    },
+    {
+      "file": "lattice_06_oracle9.json",
+      "count": 4,
+      "panels": 45,
+      "precision": 192
+    },
+    {
+      "file": "lattice_06_raw.json",
+      "count": 4,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "lattice_07_anchor.json",
+      "count": 8,
+      "panels": 199,
+      "precision": 192
+    },
+    {
+      "file": "lattice_07_global.json",
+      "count": 8,
+      "panels": 159,
+      "precision": 192
+    },
+    {
+      "file": "lattice_07_local.json",
+      "count": 8,
+      "panels": 94,
+      "precision": 192
+    },
+    {
+      "file": "lattice_07_oracle9.json",
+      "count": 8,
+      "panels": 157,
+      "precision": 192
+    },
+    {
+      "file": "lattice_07_raw.json",
+      "count": 8,
+      "panels": 637,
+      "precision": 192
+    },
+    {
+      "file": "lattice_08_anchor.json",
+      "count": 2,
+      "panels": 37,
+      "precision": 192
+    },
+    {
+      "file": "lattice_08_global.json",
+      "count": 2,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "lattice_08_local.json",
+      "count": 2,
+      "panels": 21,
+      "precision": 192
+    },
+    {
+      "file": "lattice_08_oracle9.json",
+      "count": 2,
+      "panels": 25,
+      "precision": 192
+    },
+    {
+      "file": "lattice_08_raw.json",
+      "count": 2,
+      "panels": 1110,
+      "precision": 192
+    },
+    {
+      "file": "lattice_09_anchor.json",
+      "count": 6,
+      "panels": 79,
+      "precision": 192
+    },
+    {
+      "file": "lattice_09_global.json",
+      "count": 6,
+      "panels": 63,
+      "precision": 192
+    },
+    {
+      "file": "lattice_09_local.json",
+      "count": 6,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "lattice_09_oracle9.json",
+      "count": 6,
+      "panels": 63,
+      "precision": 192
+    },
+    {
+      "file": "lattice_09_raw.json",
+      "count": 6,
+      "panels": 299,
+      "precision": 192
+    },
+    {
+      "file": "lattice_10_anchor.json",
+      "count": 8,
+      "panels": 111,
+      "precision": 192
+    },
+    {
+      "file": "lattice_10_global.json",
+      "count": 8,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "lattice_10_local.json",
+      "count": 8,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "lattice_10_oracle9.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "lattice_10_raw.json",
+      "count": 8,
+      "panels": 111,
+      "precision": 192
+    },
+    {
+      "file": "lattice_11_anchor.json",
+      "count": 16,
+      "panels": 212,
+      "precision": 192
+    },
+    {
+      "file": "lattice_11_global.json",
+      "count": 16,
+      "panels": 182,
+      "precision": 192
+    },
+    {
+      "file": "lattice_11_local.json",
+      "count": 16,
+      "panels": 29,
+      "precision": 192
+    },
+    {
+      "file": "lattice_11_oracle9.json",
+      "count": 16,
+      "panels": 143,
+      "precision": 192
+    },
+    {
+      "file": "lattice_11_raw.json",
+      "count": 16,
+      "panels": 313,
+      "precision": 192
+    },
+    {
+      "file": "lattice_12_anchor.json",
+      "count": 6,
+      "panels": 315,
+      "precision": 192
+    },
+    {
+      "file": "lattice_12_global.json",
+      "count": 6,
+      "panels": 176,
+      "precision": 192
+    },
+    {
+      "file": "lattice_12_local.json",
+      "count": 6,
+      "panels": 110,
+      "precision": 192
+    },
+    {
+      "file": "lattice_12_oracle9.json",
+      "count": 6,
+      "panels": 176,
+      "precision": 192
+    },
+    {
+      "file": "lattice_12_raw.json",
+      "count": 6,
+      "panels": 3517,
+      "precision": 192
+    },
+    {
+      "file": "lattice_13_anchor.json",
+      "count": 2,
+      "panels": 33,
+      "precision": 192
+    },
+    {
+      "file": "lattice_13_global.json",
+      "count": 2,
+      "panels": 22,
+      "precision": 192
+    },
+    {
+      "file": "lattice_13_local.json",
+      "count": 2,
+      "panels": 18,
+      "precision": 192
+    },
+    {
+      "file": "lattice_13_oracle9.json",
+      "count": 2,
+      "panels": 21,
+      "precision": 192
+    },
+    {
+      "file": "lattice_13_raw.json",
+      "count": 2,
+      "panels": 1090,
+      "precision": 192
+    },
+    {
+      "file": "lattice_14_anchor.json",
+      "count": 6,
+      "panels": 86,
+      "precision": 192
+    },
+    {
+      "file": "lattice_14_global.json",
+      "count": 6,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "lattice_14_local.json",
+      "count": 6,
+      "panels": 24,
+      "precision": 192
+    },
+    {
+      "file": "lattice_14_oracle9.json",
+      "count": 6,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "lattice_14_raw.json",
+      "count": 6,
+      "panels": 86,
+      "precision": 192
+    },
+    {
+      "file": "lattice_15_anchor.json",
+      "count": 12,
+      "panels": 158,
+      "precision": 192
+    },
+    {
+      "file": "lattice_15_global.json",
+      "count": 12,
+      "panels": 135,
+      "precision": 192
+    },
+    {
+      "file": "lattice_15_local.json",
+      "count": 12,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "lattice_15_oracle9.json",
+      "count": 12,
+      "panels": 135,
+      "precision": 192
+    },
+    {
+      "file": "lattice_15_raw.json",
+      "count": 12,
+      "panels": 158,
+      "precision": 192
+    },
+    {
+      "file": "lattice_16_anchor.json",
+      "count": 2,
+      "panels": 392,
+      "precision": 192
+    },
+    {
+      "file": "lattice_16_global.json",
+      "count": 2,
+      "panels": 134,
+      "precision": 192
+    },
+    {
+      "file": "lattice_16_local.json",
+      "count": 2,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "lattice_16_oracle9.json",
+      "count": 2,
+      "panels": 133,
+      "precision": 192
+    },
+    {
+      "file": "lattice_16_raw.json",
+      "count": 2,
+      "panels": 392,
+      "precision": 192
+    },
+    {
+      "file": "lattice_17_anchor.json",
+      "count": 3,
+      "panels": 93,
+      "precision": 192
+    },
+    {
+      "file": "lattice_17_global.json",
+      "count": 3,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "lattice_17_local.json",
+      "count": 3,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "lattice_17_oracle9.json",
+      "count": 3,
+      "panels": 69,
+      "precision": 192
+    },
+    {
+      "file": "lattice_17_raw.json",
+      "count": 3,
+      "panels": 589,
+      "precision": 192
+    },
+    {
+      "file": "lattice_18_anchor.json",
+      "count": 4,
+      "panels": 127,
+      "precision": 192
+    },
+    {
+      "file": "lattice_18_global.json",
+      "count": 4,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "lattice_18_local.json",
+      "count": 4,
+      "panels": 41,
+      "precision": 192
+    },
+    {
+      "file": "lattice_18_oracle9.json",
+      "count": 4,
+      "panels": 66,
+      "precision": 192
+    },
+    {
+      "file": "lattice_18_raw.json",
+      "count": 4,
+      "panels": 478,
+      "precision": 192
+    },
+    {
+      "file": "lattice_19_anchor.json",
+      "count": 8,
+      "panels": 101,
+      "precision": 192
+    },
+    {
+      "file": "lattice_19_global.json",
+      "count": 8,
+      "panels": 99,
+      "precision": 192
+    },
+    {
+      "file": "lattice_19_local.json",
+      "count": 8,
+      "panels": 21,
+      "precision": 192
+    },
+    {
+      "file": "lattice_19_oracle9.json",
+      "count": 8,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "lattice_19_raw.json",
+      "count": 8,
+      "panels": 801,
+      "precision": 192
+    },
+    {
+      "file": "lattice_20_anchor.json",
+      "count": 3,
+      "panels": 511,
+      "precision": 192
+    },
+    {
+      "file": "lattice_20_global.json",
+      "count": 3,
+      "panels": 215,
+      "precision": 192
+    },
+    {
+      "file": "lattice_20_local.json",
+      "count": 3,
+      "panels": 162,
+      "precision": 192
+    },
+    {
+      "file": "lattice_20_oracle9.json",
+      "count": 3,
+      "panels": 215,
+      "precision": 192
+    },
+    {
+      "file": "lattice_20_raw.json",
+      "count": 3,
+      "panels": 2160,
+      "precision": 192
+    },
+    {
+      "file": "lattice_21_anchor.json",
+      "count": 4,
+      "panels": 51,
+      "precision": 192
+    },
+    {
+      "file": "lattice_21_global.json",
+      "count": 4,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "lattice_21_local.json",
+      "count": 4,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "lattice_21_oracle9.json",
+      "count": 4,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "lattice_21_raw.json",
+      "count": 4,
+      "panels": 51,
+      "precision": 192
+    },
+    {
+      "file": "lattice_22_anchor.json",
+      "count": 20,
+      "panels": 1223,
+      "precision": 192
+    },
+    {
+      "file": "lattice_22_global.json",
+      "count": 20,
+      "panels": 869,
+      "precision": 192
+    },
+    {
+      "file": "lattice_22_local.json",
+      "count": 20,
+      "panels": 519,
+      "precision": 192
+    },
+    {
+      "file": "lattice_22_oracle9.json",
+      "count": 20,
+      "panels": 800,
+      "precision": 192
+    },
+    {
+      "file": "lattice_22_raw.json",
+      "count": 20,
+      "panels": 2444,
+      "precision": 192
+    },
+    {
+      "file": "lattice_23_anchor.json",
+      "count": 1,
+      "panels": 112,
+      "precision": 192
+    },
+    {
+      "file": "lattice_23_global.json",
+      "count": 1,
+      "panels": 97,
+      "precision": 192
+    },
+    {
+      "file": "lattice_23_local.json",
+      "count": 1,
+      "panels": 61,
+      "precision": 192
+    },
+    {
+      "file": "lattice_23_oracle9.json",
+      "count": 1,
+      "panels": 85,
+      "precision": 192
+    },
+    {
+      "file": "lattice_23_raw.json",
+      "count": 1,
+      "panels": 2116,
+      "precision": 192
+    },
+    {
+      "file": "lattice_24_anchor.json",
+      "count": 10,
+      "panels": 143,
+      "precision": 192
+    },
+    {
+      "file": "lattice_24_global.json",
+      "count": 10,
+      "panels": 114,
+      "precision": 192
+    },
+    {
+      "file": "lattice_24_local.json",
+      "count": 10,
+      "panels": 37,
+      "precision": 192
+    },
+    {
+      "file": "lattice_24_oracle9.json",
+      "count": 10,
+      "panels": 114,
+      "precision": 192
+    },
+    {
+      "file": "lattice_24_raw.json",
+      "count": 10,
+      "panels": 1090,
+      "precision": 192
+    },
+    {
+      "file": "lattice_25_anchor.json",
+      "count": 4,
+      "panels": 89,
+      "precision": 192
+    },
+    {
+      "file": "lattice_25_global.json",
+      "count": 4,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "lattice_25_local.json",
+      "count": 4,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "lattice_25_oracle9.json",
+      "count": 4,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "lattice_25_raw.json",
+      "count": 4,
+      "panels": 438,
+      "precision": 192
+    },
+    {
+      "file": "lattice_26_anchor.json",
+      "count": 20,
+      "panels": 205,
+      "precision": 192
+    },
+    {
+      "file": "lattice_26_global.json",
+      "count": 20,
+      "panels": 182,
+      "precision": 192
+    },
+    {
+      "file": "lattice_26_local.json",
+      "count": 20,
+      "panels": 33,
+      "precision": 192
+    },
+    {
+      "file": "lattice_26_oracle9.json",
+      "count": 20,
+      "panels": 182,
+      "precision": 192
+    },
+    {
+      "file": "lattice_26_raw.json",
+      "count": 20,
+      "panels": 205,
+      "precision": 192
+    },
+    {
+      "file": "lattice_27_anchor.json",
+      "count": 2,
+      "panels": 318,
+      "precision": 192
+    },
+    {
+      "file": "lattice_27_global.json",
+      "count": 2,
+      "panels": 156,
+      "precision": 192
+    },
+    {
+      "file": "lattice_27_local.json",
+      "count": 2,
+      "panels": 125,
+      "precision": 192
+    },
+    {
+      "file": "lattice_27_oracle9.json",
+      "count": 2,
+      "panels": 146,
+      "precision": 192
+    },
+    {
+      "file": "lattice_27_raw.json",
+      "count": 2,
+      "panels": 6306,
+      "precision": 192
+    },
+    {
+      "file": "lattice_28_anchor.json",
+      "count": 2,
+      "panels": 112,
+      "precision": 192
+    },
+    {
+      "file": "lattice_28_global.json",
+      "count": 2,
+      "panels": 51,
+      "precision": 192
+    },
+    {
+      "file": "lattice_28_local.json",
+      "count": 2,
+      "panels": 35,
+      "precision": 192
+    },
+    {
+      "file": "lattice_28_oracle9.json",
+      "count": 2,
+      "panels": 51,
+      "precision": 192
+    },
+    {
+      "file": "lattice_28_raw.json",
+      "count": 2,
+      "panels": 1617,
+      "precision": 192
+    },
+    {
+      "file": "lattice_29_anchor.json",
+      "count": 20,
+      "panels": 210,
+      "precision": 192
+    },
+    {
+      "file": "lattice_29_global.json",
+      "count": 20,
+      "panels": 191,
+      "precision": 192
+    },
+    {
+      "file": "lattice_29_local.json",
+      "count": 20,
+      "panels": 29,
+      "precision": 192
+    },
+    {
+      "file": "lattice_29_oracle9.json",
+      "count": 20,
+      "panels": 191,
+      "precision": 192
+    },
+    {
+      "file": "lattice_29_raw.json",
+      "count": 20,
+      "panels": 444,
+      "precision": 192
+    },
+    {
+      "file": "lattice_30_anchor.json",
+      "count": 8,
+      "panels": 103,
+      "precision": 192
+    },
+    {
+      "file": "lattice_30_global.json",
+      "count": 8,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "lattice_30_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "lattice_30_oracle9.json",
+      "count": 8,
+      "panels": 87,
+      "precision": 192
+    },
+    {
+      "file": "lattice_30_raw.json",
+      "count": 8,
+      "panels": 313,
+      "precision": 192
+    },
+    {
+      "file": "lattice_31_anchor.json",
+      "count": 3,
+      "panels": 180,
+      "precision": 192
+    },
+    {
+      "file": "lattice_31_global.json",
+      "count": 3,
+      "panels": 105,
+      "precision": 192
+    },
+    {
+      "file": "lattice_31_local.json",
+      "count": 3,
+      "panels": 75,
+      "precision": 192
+    },
+    {
+      "file": "lattice_31_oracle9.json",
+      "count": 3,
+      "panels": 105,
+      "precision": 192
+    },
+    {
+      "file": "lattice_31_raw.json",
+      "count": 3,
+      "panels": 180,
+      "precision": 192
+    },
+    {
+      "file": "lattice_32_anchor.json",
+      "count": 4,
+      "panels": 55,
+      "precision": 192
+    },
+    {
+      "file": "lattice_32_global.json",
+      "count": 4,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "lattice_32_local.json",
+      "count": 4,
+      "panels": 20,
+      "precision": 192
+    },
+    {
+      "file": "lattice_32_oracle9.json",
+      "count": 4,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "lattice_32_raw.json",
+      "count": 4,
+      "panels": 836,
+      "precision": 192
+    },
+    {
+      "file": "lattice_33_anchor.json",
+      "count": 10,
+      "panels": 3287,
+      "precision": 192
+    },
+    {
+      "file": "lattice_33_global.json",
+      "count": 10,
+      "panels": 1526,
+      "precision": 192
+    },
+    {
+      "file": "lattice_33_local.json",
+      "count": 10,
+      "panels": 1216,
+      "precision": 192
+    },
+    {
+      "file": "lattice_33_oracle9.json",
+      "count": 10,
+      "panels": 1422,
+      "precision": 192
+    },
+    {
+      "file": "lattice_33_raw.json",
+      "count": 10,
+      "panels": 10185,
+      "precision": 192
+    },
+    {
+      "file": "lattice_34_anchor.json",
+      "count": 10,
+      "panels": 186,
+      "precision": 192
+    },
+    {
+      "file": "lattice_34_global.json",
+      "count": 10,
+      "panels": 154,
+      "precision": 192
+    },
+    {
+      "file": "lattice_34_local.json",
+      "count": 10,
+      "panels": 47,
+      "precision": 192
+    },
+    {
+      "file": "lattice_34_oracle9.json",
+      "count": 10,
+      "panels": 153,
+      "precision": 192
+    },
+    {
+      "file": "lattice_34_raw.json",
+      "count": 10,
+      "panels": 1446,
+      "precision": 192
+    },
+    {
+      "file": "lattice_35_anchor.json",
+      "count": 6,
+      "panels": 83,
+      "precision": 192
+    },
+    {
+      "file": "lattice_35_global.json",
+      "count": 6,
+      "panels": 65,
+      "precision": 192
+    },
+    {
+      "file": "lattice_35_local.json",
+      "count": 6,
+      "panels": 31,
+      "precision": 192
+    },
+    {
+      "file": "lattice_35_oracle9.json",
+      "count": 6,
+      "panels": 65,
+      "precision": 192
+    },
+    {
+      "file": "lattice_35_raw.json",
+      "count": 6,
+      "panels": 1050,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_anchor.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_global.json",
+      "count": 2,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_global2.json",
+      "count": 2,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_jet.json",
+      "count": 2,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_local.json",
+      "count": 2,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_local2.json",
+      "count": 2,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_oracle9.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_oracle9_2.json",
+      "count": 2,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_raw.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_00_raw2.json",
+      "count": 2,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_anchor.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_global.json",
+      "count": 2,
+      "panels": 178,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_global2.json",
+      "count": 2,
+      "panels": 162,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_jet.json",
+      "count": 2,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_local.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_local2.json",
+      "count": 2,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_oracle9.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_oracle9_2.json",
+      "count": 2,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_raw.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_01_raw2.json",
+      "count": 2,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_anchor.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_global.json",
+      "count": 0,
+      "panels": 104,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_global2.json",
+      "count": 0,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_jet.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_local.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_local2.json",
+      "count": 0,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_oracle9.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_oracle9_2.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_raw.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_02_raw2.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_anchor.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_global.json",
+      "count": 0,
+      "panels": 108,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_global2.json",
+      "count": 0,
+      "panels": 90,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_jet.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_local.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_local2.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_oracle9.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_oracle9_2.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_raw.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_03_raw2.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_anchor.json",
+      "count": 0,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_global.json",
+      "count": 0,
+      "panels": 110,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_global2.json",
+      "count": 0,
+      "panels": 106,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_jet.json",
+      "count": 0,
+      "panels": 54,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_local.json",
+      "count": 0,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_local2.json",
+      "count": 0,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_oracle9.json",
+      "count": 0,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_oracle9_2.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_raw.json",
+      "count": 0,
+      "panels": 62,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_04_raw2.json",
+      "count": 0,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_anchor.json",
+      "count": 0,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_global.json",
+      "count": 0,
+      "panels": 174,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_global2.json",
+      "count": 0,
+      "panels": 162,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_jet.json",
+      "count": 0,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_local.json",
+      "count": 0,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_local2.json",
+      "count": 0,
+      "panels": 70,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_oracle9.json",
+      "count": 0,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_oracle9_2.json",
+      "count": 0,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_raw.json",
+      "count": 0,
+      "panels": 78,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_05_raw2.json",
+      "count": 0,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_anchor.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_global.json",
+      "count": 0,
+      "panels": 166,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_global2.json",
+      "count": 0,
+      "panels": 162,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_jet.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_local.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_local2.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_oracle9.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_oracle9_2.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_raw.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_06_raw2.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_anchor.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_global.json",
+      "count": 0,
+      "panels": 150,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_global2.json",
+      "count": 0,
+      "panels": 138,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_jet.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_local.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_local2.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_oracle9.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_oracle9_2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_raw.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_07_raw2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_anchor.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_global.json",
+      "count": 0,
+      "panels": 104,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_global2.json",
+      "count": 0,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_jet.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_local.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_local2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_oracle9.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_oracle9_2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_raw.json",
+      "count": 0,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_08_raw2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_anchor.json",
+      "count": 2,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_global.json",
+      "count": 2,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_global2.json",
+      "count": 2,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_jet.json",
+      "count": 2,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_local.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_local2.json",
+      "count": 2,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_oracle9.json",
+      "count": 2,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_oracle9_2.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_raw.json",
+      "count": 2,
+      "panels": 42,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_09_raw2.json",
+      "count": 2,
+      "panels": 40,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_anchor.json",
+      "count": 0,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_global.json",
+      "count": 0,
+      "panels": 98,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_global2.json",
+      "count": 0,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_jet.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_local.json",
+      "count": 0,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_local2.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_oracle9.json",
+      "count": 0,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_oracle9_2.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_raw.json",
+      "count": 0,
+      "panels": 30,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_10_raw2.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_anchor.json",
+      "count": 0,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_global.json",
+      "count": 0,
+      "panels": 120,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_global2.json",
+      "count": 0,
+      "panels": 94,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_jet.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_local.json",
+      "count": 0,
+      "panels": 54,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_local2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_oracle9.json",
+      "count": 0,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_oracle9_2.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_raw.json",
+      "count": 0,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_11_raw2.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_anchor.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_global.json",
+      "count": 0,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_global2.json",
+      "count": 0,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_jet.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_local.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_local2.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_oracle9.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_oracle9_2.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_raw.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_12_raw2.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_anchor.json",
+      "count": 2,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_global.json",
+      "count": 2,
+      "panels": 128,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_global2.json",
+      "count": 2,
+      "panels": 118,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_jet.json",
+      "count": 2,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_local.json",
+      "count": 2,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_local2.json",
+      "count": 2,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_oracle9.json",
+      "count": 2,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_oracle9_2.json",
+      "count": 2,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_raw.json",
+      "count": 2,
+      "panels": 72,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_13_raw2.json",
+      "count": 2,
+      "panels": 60,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_anchor.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_global.json",
+      "count": 4,
+      "panels": 184,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_global2.json",
+      "count": 4,
+      "panels": 178,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_jet.json",
+      "count": 4,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_local.json",
+      "count": 4,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_local2.json",
+      "count": 4,
+      "panels": 76,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_oracle9.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_oracle9_2.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_raw.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_14_raw2.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_anchor.json",
+      "count": 0,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_global.json",
+      "count": 0,
+      "panels": 166,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_global2.json",
+      "count": 0,
+      "panels": 148,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_jet.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_local.json",
+      "count": 0,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_local2.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_oracle9.json",
+      "count": 0,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_oracle9_2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_raw.json",
+      "count": 0,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_15_raw2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_anchor.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_global.json",
+      "count": 0,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_global2.json",
+      "count": 0,
+      "panels": 88,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_jet.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_local.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_local2.json",
+      "count": 0,
+      "panels": 34,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_oracle9.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_oracle9_2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_raw.json",
+      "count": 0,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_16_raw2.json",
+      "count": 0,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_anchor.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_global.json",
+      "count": 0,
+      "panels": 160,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_global2.json",
+      "count": 0,
+      "panels": 140,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_jet.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_local.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_local2.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_oracle9.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_oracle9_2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_raw.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_17_raw2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_anchor.json",
+      "count": 0,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_global.json",
+      "count": 0,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_global2.json",
+      "count": 0,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_jet.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_local.json",
+      "count": 0,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_local2.json",
+      "count": 0,
+      "panels": 26,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_oracle9.json",
+      "count": 0,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_oracle9_2.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_raw.json",
+      "count": 0,
+      "panels": 32,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_18_raw2.json",
+      "count": 0,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_anchor.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_global.json",
+      "count": 2,
+      "panels": 94,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_global2.json",
+      "count": 2,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_jet.json",
+      "count": 2,
+      "panels": 36,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_local.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_local2.json",
+      "count": 2,
+      "panels": 38,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_oracle9.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_oracle9_2.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_raw.json",
+      "count": 2,
+      "panels": 52,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_19_raw2.json",
+      "count": 2,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_anchor.json",
+      "count": 2,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_global.json",
+      "count": 2,
+      "panels": 150,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_global2.json",
+      "count": 2,
+      "panels": 132,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_jet.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_local.json",
+      "count": 2,
+      "panels": 58,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_local2.json",
+      "count": 2,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_oracle9.json",
+      "count": 2,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_oracle9_2.json",
+      "count": 2,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_raw.json",
+      "count": 2,
+      "panels": 64,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_20_raw2.json",
+      "count": 2,
+      "panels": 56,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_anchor.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_global.json",
+      "count": 4,
+      "panels": 142,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_global2.json",
+      "count": 4,
+      "panels": 118,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_jet.json",
+      "count": 4,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_local.json",
+      "count": 4,
+      "panels": 80,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_local2.json",
+      "count": 4,
+      "panels": 74,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_oracle9.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_oracle9_2.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_raw.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_21_raw2.json",
+      "count": 4,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_anchor.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_global.json",
+      "count": 0,
+      "panels": 170,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_global2.json",
+      "count": 0,
+      "panels": 160,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_jet.json",
+      "count": 0,
+      "panels": 44,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_local.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_local2.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_oracle9.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_oracle9_2.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_raw.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_22_raw2.json",
+      "count": 0,
+      "panels": 46,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_anchor.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_global.json",
+      "count": 0,
+      "panels": 156,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_global2.json",
+      "count": 0,
+      "panels": 122,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_jet.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_local.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_local2.json",
+      "count": 0,
+      "panels": 48,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_oracle9.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_oracle9_2.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_raw.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "multidelay_23_raw2.json",
+      "count": 0,
+      "panels": 50,
+      "precision": 192
+    },
+    {
+      "file": "shift_0_anchor.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_0_global.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "shift_0_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "shift_0_raw.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_128_anchor.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_128_global.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "shift_128_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "shift_128_raw.json",
+      "count": 8,
+      "panels": 7512,
+      "precision": 192
+    },
+    {
+      "file": "shift_32_anchor.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_32_global.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "shift_32_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "shift_32_raw.json",
+      "count": 8,
+      "panels": 2098,
+      "precision": 192
+    },
+    {
+      "file": "shift_512_anchor.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_512_global.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "shift_512_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "shift_512_raw.json",
+      "count": 8,
+      "panels": 29344,
+      "precision": 192
+    },
+    {
+      "file": "shift_8_anchor.json",
+      "count": 8,
+      "panels": 102,
+      "precision": 192
+    },
+    {
+      "file": "shift_8_global.json",
+      "count": 8,
+      "panels": 84,
+      "precision": 192
+    },
+    {
+      "file": "shift_8_local.json",
+      "count": 8,
+      "panels": 28,
+      "precision": 192
+    },
+    {
+      "file": "shift_8_raw.json",
+      "count": 8,
+      "panels": 624,
+      "precision": 192
+    }
+  ]
+}

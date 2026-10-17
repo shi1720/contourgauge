@@ -1,0 +1,70 @@
+{
+  "cases": 90,
+  "certificates": 360,
+  "certified": 360,
+  "oracle_local_wins": 66,
+  "oracle_local_ties": 19,
+  "oracle_local_losses": 0,
+  "families": [
+    {
+      "family": "dominance",
+      "n": 9,
+      "raw_median_panels": 118,
+      "anchor_median_panels": 118,
+      "global_median_panels": 102,
+      "local_median_panels": 32,
+      "oracle_median_panels": 78,
+      "local_oracle_ratio": 2.1666666666666665,
+      "construction_ratio": 1.029665706280902,
+      "replay_ratio": 2.8739647643457595
+    },
+    {
+      "family": "clearance",
+      "n": 4,
+      "raw_median_panels": 106.0,
+      "anchor_median_panels": 106.0,
+      "global_median_panels": 59.0,
+      "local_median_panels": 57.0,
+      "oracle_median_panels": 59.0,
+      "local_oracle_ratio": 1.035625,
+      "construction_ratio": 0.31084419814457487,
+      "replay_ratio": 1.0862254691554085
+    },
+    {
+      "family": "lattice",
+      "n": 36,
+      "raw_median_panels": 594.0,
+      "anchor_median_panels": 135.0,
+      "global_median_panels": 102.0,
+      "local_median_panels": 37.5,
+      "oracle_median_panels": 96.0,
+      "local_oracle_ratio": 1.85,
+      "construction_ratio": 0.7279188548110204,
+      "replay_ratio": 1.9650212223490349
+    },
+    {
+      "family": "delay",
+      "n": 12,
+      "raw_median_panels": 47.0,
+      "anchor_median_panels": 47.0,
+      "global_median_panels": 109.0,
+      "local_median_panels": 45.0,
+      "oracle_median_panels": 47.0,
+      "local_oracle_ratio": 1.009433962264151,
+      "construction_ratio": 0.6704461153951906,
+      "replay_ratio": 2.1376802930740153
+    },
+    {
+      "family": "multidelay",
+      "n": 24,
+      "raw_median_panels": 50.0,
+      "anchor_median_panels": 50.0,
+      "global_median_panels": 124.0,
+      "local_median_panels": 46.0,
+      "oracle_median_panels": 50.0,
+      "local_oracle_ratio": 1.0166666666666666,
+      "construction_ratio": 0.9428922347779163,
+      "replay_ratio": 2.6072189220891833
+    }
+  ]
+}

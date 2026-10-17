@@ -1,0 +1,26 @@
+[
+  {
+    "family": "delay",
+    "n": 12,
+    "fixed": 42.0,
+    "real": 41.0,
+    "jet": 39.0,
+    "panel_ratio": 1.063894523326572,
+    "replay_ratio": 0.985144013541833,
+    "construction_ratio": 0.21772269630982816,
+    "wins": 7,
+    "ties": 5
+  },
+  {
+    "family": "multidelay",
+    "n": 24,
+    "fixed": 46.0,
+    "real": 44.0,
+    "jet": 44.0,
+    "panel_ratio": 1.0664488017429194,
+    "replay_ratio": 0.9679731281569343,
+    "construction_ratio": 0.2265567514238969,
+    "wins": 19,
+    "ties": 5
+  }
+]

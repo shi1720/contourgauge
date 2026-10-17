@@ -1,0 +1,3674 @@
+[
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.16e-37]",
+    "panels": 16,
+    "max_ratio": 0.726508018413058,
+    "attempts": 28,
+    "seconds": 0.0075028749999999644,
+    "replay_seconds": 0.0013855830000000235,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 3.83e-37]",
+    "panels": 36,
+    "max_ratio": 0.7856177923460588,
+    "attempts": 68,
+    "seconds": 0.012019999999999975,
+    "replay_seconds": 0.003238249999999998,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.16e-37]",
+    "panels": 16,
+    "max_ratio": 0.726508018413058,
+    "attempts": 28,
+    "seconds": 0.302371167,
+    "replay_seconds": 0.001400709,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.44e-37]",
+    "panels": 16,
+    "max_ratio": 0.726508018413058,
+    "attempts": 28,
+    "seconds": 0.025417208000000024,
+    "replay_seconds": 0.0015445410000000104,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.16e-37]",
+    "panels": 16,
+    "max_ratio": 0.726508018413058,
+    "attempts": 28,
+    "seconds": 0.10684787499999993,
+    "replay_seconds": 0.001368459000000044,
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 70
+      },
+      {
+        "center": "-7/16",
+        "panels": 60
+      },
+      {
+        "center": "-3/8",
+        "panels": 46
+      },
+      {
+        "center": "-5/16",
+        "panels": 40
+      },
+      {
+        "center": "-1/4",
+        "panels": 36
+      },
+      {
+        "center": "-3/16",
+        "panels": 28
+      },
+      {
+        "center": "-1/8",
+        "panels": 24
+      },
+      {
+        "center": "-1/16",
+        "panels": 18
+      },
+      {
+        "center": "0",
+        "panels": 16
+      }
+    ]
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.51e-37]",
+    "panels": 22,
+    "max_ratio": 0.6992991808971843,
+    "attempts": 40,
+    "seconds": 0.006875917000000009,
+    "replay_seconds": 0.001957375000000039,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 4.42e-37]",
+    "panels": 38,
+    "max_ratio": 0.734133653205882,
+    "attempts": 72,
+    "seconds": 0.012263583000000078,
+    "replay_seconds": 0.0033009999999999984,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.56e-37]",
+    "panels": 22,
+    "max_ratio": 0.6992991808971843,
+    "attempts": 40,
+    "seconds": 0.021580374999999985,
+    "replay_seconds": 0.0019396670000000338,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.97e-37]",
+    "panels": 20,
+    "max_ratio": 0.6992991808971843,
+    "attempts": 36,
+    "seconds": 0.030409332999999927,
+    "replay_seconds": 0.0019382079999999968,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.51e-37]",
+    "panels": 22,
+    "max_ratio": 0.6992991808971843,
+    "attempts": 40,
+    "seconds": 0.11426308299999999,
+    "replay_seconds": 0.001854833999999972,
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 70
+      },
+      {
+        "center": "-7/16",
+        "panels": 62
+      },
+      {
+        "center": "-3/8",
+        "panels": 46
+      },
+      {
+        "center": "-5/16",
+        "panels": 44
+      },
+      {
+        "center": "-1/4",
+        "panels": 38
+      },
+      {
+        "center": "-3/16",
+        "panels": 30
+      },
+      {
+        "center": "-1/8",
+        "panels": 24
+      },
+      {
+        "center": "-1/16",
+        "panels": 24
+      },
+      {
+        "center": "0",
+        "panels": 22
+      }
+    ]
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.11e-36]",
+    "panels": 40,
+    "max_ratio": 0.7755048581857097,
+    "attempts": 76,
+    "seconds": 0.012725917000000031,
+    "replay_seconds": 0.003499165999999887,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.59e-36]",
+    "panels": 48,
+    "max_ratio": 0.7775556692306992,
+    "attempts": 92,
+    "seconds": 0.015311124999999981,
+    "replay_seconds": 0.004232750000000118,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.15e-36]",
+    "panels": 40,
+    "max_ratio": 0.7589650295449737,
+    "attempts": 76,
+    "seconds": 0.042219833000000095,
+    "replay_seconds": 0.003510582999999956,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.47e-36]",
+    "panels": 38,
+    "max_ratio": 0.7589650295449737,
+    "attempts": 72,
+    "seconds": 0.06135370799999995,
+    "replay_seconds": 0.003605416999999944,
+    "trials": null
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.47e-36]",
+    "panels": 38,
+    "max_ratio": 0.790737568553358,
+    "attempts": 72,
+    "seconds": 0.146958417,
+    "replay_seconds": 0.0033979580000000897,
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 76
+      },
+      {
+        "center": "-7/16",
+        "panels": 68
+      },
+      {
+        "center": "-3/8",
+        "panels": 56
+      },
+      {
+        "center": "-5/16",
+        "panels": 50
+      },
+      {
+        "center": "-1/4",
+        "panels": 48
+      },
+      {
+        "center": "-3/16",
+        "panels": 42
+      },
+      {
+        "center": "-1/8",
+        "panels": 38
+      },
+      {
+        "center": "-1/16",
+        "panels": 40
+      },
+      {
+        "center": "0",
+        "panels": 40
+      }
+    ]
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.34e-37]",
+    "panels": 22,
+    "max_ratio": 0.64101916061757,
+    "attempts": 40,
+    "seconds": 0.006837709000000025,
+    "replay_seconds": 0.0020136669999999413,
+    "trials": null
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 7.26e-37]",
+    "panels": 72,
+    "max_ratio": 0.5759884976852667,
+    "attempts": 140,
+    "seconds": 0.023427332999999884,
+    "replay_seconds": 0.006336291999999855,
+    "trials": null
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.34e-37]",
+    "panels": 22,
+    "max_ratio": 0.64101916061757,
+    "attempts": 40,
+    "seconds": 0.022069125000000023,
+    "replay_seconds": 0.0019338330000000514,
+    "trials": null
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.79e-37]",
+    "panels": 22,
+    "max_ratio": 0.64101916061757,
+    "attempts": 40,
+    "seconds": 0.03473841599999994,
+    "replay_seconds": 0.002069291999999834,
+    "trials": null
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.34e-37]",
+    "panels": 22,
+    "max_ratio": 0.64101916061757,
+    "attempts": 40,
+    "seconds": 0.187785667,
+    "replay_seconds": 0.0018662500000001803,
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 136
+      },
+      {
+        "center": "-7/8",
+        "panels": 98
+      },
+      {
+        "center": "-3/4",
+        "panels": 80
+      },
+      {
+        "center": "-5/8",
+        "panels": 72
+      },
+      {
+        "center": "-1/2",
+        "panels": 72
+      },
+      {
+        "center": "-3/8",
+        "panels": 44
+      },
+      {
+        "center": "-1/4",
+        "panels": 36
+      },
+      {
+        "center": "-1/8",
+        "panels": 28
+      },
+      {
+        "center": "0",
+        "panels": 22
+      }
+    ]
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 4.02e-37]",
+    "panels": 38,
+    "max_ratio": 0.7825183782584781,
+    "attempts": 72,
+    "seconds": 0.011698874999999997,
+    "replay_seconds": 0.0031825410000001497,
+    "trials": null
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 9.95e-37]",
+    "panels": 72,
+    "max_ratio": 0.7797486159910937,
+    "attempts": 140,
+    "seconds": 0.023079625000000048,
+    "replay_seconds": 0.006232875000000027,
+    "trials": null
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 4.23e-37]",
+    "panels": 38,
+    "max_ratio": 0.7825183782584781,
+    "attempts": 72,
+    "seconds": 0.037228457999999964,
+    "replay_seconds": 0.003309749999999889,
+    "trials": null
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 5.05e-37]",
+    "panels": 38,
+    "max_ratio": 0.7825183782584781,
+    "attempts": 72,
+    "seconds": 0.05877441699999997,
+    "replay_seconds": 0.003940790999999777,
+    "trials": null
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 4.02e-37]",
+    "panels": 38,
+    "max_ratio": 0.7825183782584781,
+    "attempts": 72,
+    "seconds": 0.21256720799999984,
+    "replay_seconds": 0.0032151250000000964,
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 138
+      },
+      {
+        "center": "-7/8",
+        "panels": 108
+      },
+      {
+        "center": "-3/4",
+        "panels": 88
+      },
+      {
+        "center": "-5/8",
+        "panels": 74
+      },
+      {
+        "center": "-1/2",
+        "panels": 72
+      },
+      {
+        "center": "-3/8",
+        "panels": 54
+      },
+      {
+        "center": "-1/4",
+        "panels": 46
+      },
+      {
+        "center": "-1/8",
+        "panels": 42
+      },
+      {
+        "center": "0",
+        "panels": 38
+      }
+    ]
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 6.75e-37]",
+    "panels": 46,
+    "max_ratio": 0.7349882691071974,
+    "attempts": 88,
+    "seconds": 0.014509416999999747,
+    "replay_seconds": 0.0040157499999997626,
+    "trials": null
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.06e-36]",
+    "panels": 70,
+    "max_ratio": 0.726832877095094,
+    "attempts": 136,
+    "seconds": 0.022902082999999962,
+    "replay_seconds": 0.006228999999999818,
+    "trials": null
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 5.68e-37]",
+    "panels": 42,
+    "max_ratio": 0.7019823089389581,
+    "attempts": 80,
+    "seconds": 0.04172670800000011,
+    "replay_seconds": 0.003641207999999896,
+    "trials": null
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 6.79e-37]",
+    "panels": 40,
+    "max_ratio": 0.6745232662308587,
+    "attempts": 76,
+    "seconds": 0.06284704199999958,
+    "replay_seconds": 0.0038882499999997044,
+    "trials": null
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 6.75e-37]",
+    "panels": 46,
+    "max_ratio": 0.7349882691071974,
+    "attempts": 88,
+    "seconds": 0.20946187500000013,
+    "replay_seconds": 0.003978750000000364,
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 122
+      },
+      {
+        "center": "-7/8",
+        "panels": 100
+      },
+      {
+        "center": "-3/4",
+        "panels": 84
+      },
+      {
+        "center": "-5/8",
+        "panels": 72
+      },
+      {
+        "center": "-1/2",
+        "panels": 70
+      },
+      {
+        "center": "-3/8",
+        "panels": 52
+      },
+      {
+        "center": "-1/4",
+        "panels": 50
+      },
+      {
+        "center": "-1/8",
+        "panels": 48
+      },
+      {
+        "center": "0",
+        "panels": 46
+      }
+    ]
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 2.01e-37]",
+    "panels": 36,
+    "max_ratio": 0.7352836400019226,
+    "attempts": 68,
+    "seconds": 0.011305125000000249,
+    "replay_seconds": 0.0031695000000002693,
+    "trials": null
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.38e-36]",
+    "panels": 138,
+    "max_ratio": 0.6759559100431707,
+    "attempts": 272,
+    "seconds": 0.04566574999999995,
+    "replay_seconds": 0.012151625,
+    "trials": null
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 2.01e-37]",
+    "panels": 36,
+    "max_ratio": 0.7352836400019226,
+    "attempts": 68,
+    "seconds": 0.03644895800000025,
+    "replay_seconds": 0.003184791999999881,
+    "trials": null
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 2.30e-37]",
+    "panels": 34,
+    "max_ratio": 0.7352836400019226,
+    "attempts": 64,
+    "seconds": 0.05400537500000002,
+    "replay_seconds": 0.0031083340000002124,
+    "trials": null
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 2.01e-37]",
+    "panels": 36,
+    "max_ratio": 0.7352836400019226,
+    "attempts": 68,
+    "seconds": 0.36112679199999986,
+    "replay_seconds": 0.0031113340000001877,
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 272
+      },
+      {
+        "center": "-7/4",
+        "panels": 176
+      },
+      {
+        "center": "-3/2",
+        "panels": 140
+      },
+      {
+        "center": "-5/4",
+        "panels": 140
+      },
+      {
+        "center": "-1",
+        "panels": 138
+      },
+      {
+        "center": "-3/4",
+        "panels": 80
+      },
+      {
+        "center": "-1/2",
+        "panels": 72
+      },
+      {
+        "center": "-1/4",
+        "panels": 48
+      },
+      {
+        "center": "0",
+        "panels": 36
+      }
+    ]
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 9.03e-37]",
+    "panels": 62,
+    "max_ratio": 0.7558432108476877,
+    "attempts": 120,
+    "seconds": 0.02067929200000007,
+    "replay_seconds": 0.00529462500000033,
+    "trials": null
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.00e-36]",
+    "panels": 138,
+    "max_ratio": 0.7884194876347761,
+    "attempts": 272,
+    "seconds": 0.0452306250000003,
+    "replay_seconds": 0.011858167000000197,
+    "trials": null
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 8.21e-37]",
+    "panels": 58,
+    "max_ratio": 0.7509102027884099,
+    "attempts": 112,
+    "seconds": 0.05592804200000012,
+    "replay_seconds": 0.005106708000000015,
+    "trials": null
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 9.82e-37]",
+    "panels": 58,
+    "max_ratio": 0.691856984309039,
+    "attempts": 112,
+    "seconds": 0.09082337500000026,
+    "replay_seconds": 0.005533165999999756,
+    "trials": null
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.000000000000000000000000000000000000 +/- 9.03e-37]",
+    "panels": 62,
+    "max_ratio": 0.7558432108476877,
+    "attempts": 120,
+    "seconds": 0.3873796249999999,
+    "replay_seconds": 0.005454375000000233,
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 258
+      },
+      {
+        "center": "-7/4",
+        "panels": 188
+      },
+      {
+        "center": "-3/2",
+        "panels": 148
+      },
+      {
+        "center": "-5/4",
+        "panels": 144
+      },
+      {
+        "center": "-1",
+        "panels": 138
+      },
+      {
+        "center": "-3/4",
+        "panels": 94
+      },
+      {
+        "center": "-1/2",
+        "panels": 84
+      },
+      {
+        "center": "-1/4",
+        "panels": 70
+      },
+      {
+        "center": "0",
+        "panels": 62
+      }
+    ]
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.79e-36]",
+    "panels": 84,
+    "max_ratio": 0.7510374927757731,
+    "attempts": 164,
+    "seconds": 0.02648733300000039,
+    "replay_seconds": 0.007269041999999892,
+    "trials": null
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.94e-36]",
+    "panels": 142,
+    "max_ratio": 0.7858829348816397,
+    "attempts": 280,
+    "seconds": 0.04655320899999982,
+    "replay_seconds": 0.012353917000000436,
+    "trials": null
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.71e-36]",
+    "panels": 74,
+    "max_ratio": 0.7965135199076616,
+    "attempts": 144,
+    "seconds": 0.06884308299999997,
+    "replay_seconds": 0.006542957999999821,
+    "trials": null
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.05e-36]",
+    "panels": 72,
+    "max_ratio": 0.7510374927757731,
+    "attempts": 140,
+    "seconds": 0.10948154200000015,
+    "replay_seconds": 0.006797416999999584,
+    "trials": null
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.79e-36]",
+    "panels": 84,
+    "max_ratio": 0.7510374927757731,
+    "attempts": 164,
+    "seconds": 0.417670459,
+    "replay_seconds": 0.007237458999999724,
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 254
+      },
+      {
+        "center": "-7/4",
+        "panels": 194
+      },
+      {
+        "center": "-3/2",
+        "panels": 162
+      },
+      {
+        "center": "-5/4",
+        "panels": 152
+      },
+      {
+        "center": "-1",
+        "panels": 142
+      },
+      {
+        "center": "-3/4",
+        "panels": 110
+      },
+      {
+        "center": "-1/2",
+        "panels": 104
+      },
+      {
+        "center": "-1/4",
+        "panels": 92
+      },
+      {
+        "center": "0",
+        "panels": 84
+      }
+    ]
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 3.18e-37]",
+    "panels": 58,
+    "max_ratio": 0.7988483438636546,
+    "attempts": 112,
+    "seconds": 0.01858625000000025,
+    "replay_seconds": 0.005048541999999934,
+    "trials": null
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 2.77e-36]",
+    "panels": 276,
+    "max_ratio": 0.6110926812507986,
+    "attempts": 548,
+    "seconds": 0.08996058299999987,
+    "replay_seconds": 0.02439145799999931,
+    "trials": null
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 3.18e-37]",
+    "panels": 58,
+    "max_ratio": 0.7988483438636546,
+    "attempts": 112,
+    "seconds": 0.0573837079999997,
+    "replay_seconds": 0.00510658399999997,
+    "trials": null
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 4.18e-37]",
+    "panels": 58,
+    "max_ratio": 0.7988483438636546,
+    "attempts": 112,
+    "seconds": 0.09246141699999999,
+    "replay_seconds": 0.005456042000000494,
+    "trials": null
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 3.18e-37]",
+    "panels": 58,
+    "max_ratio": 0.7988483438636546,
+    "attempts": 112,
+    "seconds": 0.6929909589999994,
+    "replay_seconds": 0.005371625000000435,
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 542
+      },
+      {
+        "center": "-7/2",
+        "panels": 310
+      },
+      {
+        "center": "-3",
+        "panels": 278
+      },
+      {
+        "center": "-5/2",
+        "panels": 276
+      },
+      {
+        "center": "-2",
+        "panels": 276
+      },
+      {
+        "center": "-3/2",
+        "panels": 144
+      },
+      {
+        "center": "-1",
+        "panels": 142
+      },
+      {
+        "center": "-1/2",
+        "panels": 90
+      },
+      {
+        "center": "0",
+        "panels": 58
+      }
+    ]
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.54e-36]",
+    "panels": 108,
+    "max_ratio": 0.7706791038644413,
+    "attempts": 212,
+    "seconds": 0.03472241700000023,
+    "replay_seconds": 0.009545582999999525,
+    "trials": null
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 3.81e-36]",
+    "panels": 268,
+    "max_ratio": 0.7827080874031874,
+    "attempts": 532,
+    "seconds": 0.09002495800000077,
+    "replay_seconds": 0.024360749999999598,
+    "trials": null
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.40e-36]",
+    "panels": 98,
+    "max_ratio": 0.7918973009929464,
+    "attempts": 192,
+    "seconds": 0.0997362079999995,
+    "replay_seconds": 0.00902054200000002,
+    "trials": null
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.70e-36]",
+    "panels": 96,
+    "max_ratio": 0.7558659998727935,
+    "attempts": 188,
+    "seconds": 0.17339933299999988,
+    "replay_seconds": 0.009669374999999647,
+    "trials": null
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.54e-36]",
+    "panels": 108,
+    "max_ratio": 0.7706791038644413,
+    "attempts": 212,
+    "seconds": 0.8976577500000005,
+    "replay_seconds": 0.009811791000000625,
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 506
+      },
+      {
+        "center": "-7/2",
+        "panels": 330
+      },
+      {
+        "center": "-3",
+        "panels": 290
+      },
+      {
+        "center": "-5/2",
+        "panels": 280
+      },
+      {
+        "center": "-2",
+        "panels": 268
+      },
+      {
+        "center": "-3/2",
+        "panels": 168
+      },
+      {
+        "center": "-1",
+        "panels": 164
+      },
+      {
+        "center": "-1/2",
+        "panels": 134
+      },
+      {
+        "center": "0",
+        "panels": 108
+      }
+    ]
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "policy": "raw2",
+    "count": 6,
+    "turns": "[6.00000000000000000000000000000000000 +/- 4.71e-36]",
+    "panels": 144,
+    "max_ratio": 0.79476318390732,
+    "attempts": 284,
+    "seconds": 0.04796008299999954,
+    "replay_seconds": 0.01253879100000077,
+    "trials": null
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "policy": "global2",
+    "count": 6,
+    "turns": "[6.00000000000000000000000000000000000 +/- 6.62e-36]",
+    "panels": 274,
+    "max_ratio": 0.79122327100761,
+    "attempts": 544,
+    "seconds": 0.09416283299999861,
+    "replay_seconds": 0.02445108300000065,
+    "trials": null
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "policy": "local2",
+    "count": 6,
+    "turns": "[6.00000000000000000000000000000000000 +/- 4.04e-36]",
+    "panels": 120,
+    "max_ratio": 0.7847423522705056,
+    "attempts": 236,
+    "seconds": 0.11649366600000022,
+    "replay_seconds": 0.010836417000000154,
+    "trials": null
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "policy": "jet",
+    "count": 6,
+    "turns": "[6.00000000000000000000000000000000000 +/- 4.69e-36]",
+    "panels": 114,
+    "max_ratio": 0.7775957351696141,
+    "attempts": 224,
+    "seconds": 0.1776862500000007,
+    "replay_seconds": 0.01186954100000115,
+    "trials": null
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "policy": "oracle9_2",
+    "count": 6,
+    "turns": "[6.00000000000000000000000000000000000 +/- 4.71e-36]",
+    "panels": 144,
+    "max_ratio": 0.79476318390732,
+    "attempts": 284,
+    "seconds": 0.8077315840000008,
+    "replay_seconds": 0.01280737499999951,
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 496
+      },
+      {
+        "center": "-7/2",
+        "panels": 336
+      },
+      {
+        "center": "-3",
+        "panels": 302
+      },
+      {
+        "center": "-5/2",
+        "panels": 288
+      },
+      {
+        "center": "-2",
+        "panels": 274
+      },
+      {
+        "center": "-3/2",
+        "panels": 186
+      },
+      {
+        "center": "-1",
+        "panels": 192
+      },
+      {
+        "center": "-1/2",
+        "panels": 168
+      },
+      {
+        "center": "0",
+        "panels": 144
+      }
+    ]
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.53e-36]",
+    "panels": 34,
+    "max_ratio": 0.6855963923636305,
+    "attempts": 64,
+    "seconds": 0.013743665999999877,
+    "replay_seconds": 0.003910208999998943,
+    "trials": null
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.26e-36]",
+    "panels": 74,
+    "max_ratio": 0.7607845243961366,
+    "attempts": 144,
+    "seconds": 0.0337412920000002,
+    "replay_seconds": 0.00877629199999852,
+    "trials": null
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.46e-36]",
+    "panels": 32,
+    "max_ratio": 0.7549794353307943,
+    "attempts": 60,
+    "seconds": 0.035697958000000085,
+    "replay_seconds": 0.003804875000000152,
+    "trials": null
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.51e-36]",
+    "panels": 30,
+    "max_ratio": 0.7549794353307943,
+    "attempts": 56,
+    "seconds": 0.05469883399999986,
+    "replay_seconds": 0.0036641670000001625,
+    "trials": null
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.53e-36]",
+    "panels": 34,
+    "max_ratio": 0.6855963923636305,
+    "attempts": 64,
+    "seconds": 0.27471166700000005,
+    "replay_seconds": 0.004145333999998613,
+    "trials": [
+      {
+        "center": "-8/5",
+        "panels": 148
+      },
+      {
+        "center": "-7/5",
+        "panels": 92
+      },
+      {
+        "center": "-6/5",
+        "panels": 86
+      },
+      {
+        "center": "-1",
+        "panels": 86
+      },
+      {
+        "center": "-4/5",
+        "panels": 74
+      },
+      {
+        "center": "-3/5",
+        "panels": 50
+      },
+      {
+        "center": "-2/5",
+        "panels": 46
+      },
+      {
+        "center": "-1/5",
+        "panels": 38
+      },
+      {
+        "center": "0",
+        "panels": 34
+      }
+    ]
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.09e-36]",
+    "panels": 44,
+    "max_ratio": 0.7801312372884108,
+    "attempts": 84,
+    "seconds": 0.018307834000001577,
+    "replay_seconds": 0.004993916000000098,
+    "trials": null
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 3.32e-36]",
+    "panels": 162,
+    "max_ratio": 0.6176971267713839,
+    "attempts": 320,
+    "seconds": 0.07045654200000051,
+    "replay_seconds": 0.0180144999999996,
+    "trials": null
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.11e-36]",
+    "panels": 44,
+    "max_ratio": 0.7576761974380536,
+    "attempts": 84,
+    "seconds": 0.04821479099999948,
+    "replay_seconds": 0.004970333000001048,
+    "trials": null
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.19e-36]",
+    "panels": 42,
+    "max_ratio": 0.7068467519776159,
+    "attempts": 80,
+    "seconds": 0.08157058299999953,
+    "replay_seconds": 0.0054471669999998085,
+    "trials": null
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.09e-36]",
+    "panels": 44,
+    "max_ratio": 0.7801312372884108,
+    "attempts": 84,
+    "seconds": 0.6133424170000001,
+    "replay_seconds": 0.004754708000000107,
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 320
+      },
+      {
+        "center": "-7/2",
+        "panels": 286
+      },
+      {
+        "center": "-3",
+        "panels": 204
+      },
+      {
+        "center": "-5/2",
+        "panels": 162
+      },
+      {
+        "center": "-2",
+        "panels": 162
+      },
+      {
+        "center": "-3/2",
+        "panels": 130
+      },
+      {
+        "center": "-1",
+        "panels": 86
+      },
+      {
+        "center": "-1/2",
+        "panels": 62
+      },
+      {
+        "center": "0",
+        "panels": 44
+      }
+    ]
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.33e-36]",
+    "panels": 40,
+    "max_ratio": 0.7848788375957038,
+    "attempts": 76,
+    "seconds": 0.015937083999999047,
+    "replay_seconds": 0.0044803330000000585,
+    "trials": null
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 2.86e-36]",
+    "panels": 88,
+    "max_ratio": 0.7794341891048845,
+    "attempts": 172,
+    "seconds": 0.03735179199999905,
+    "replay_seconds": 0.010061625000000518,
+    "trials": null
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.61e-36]",
+    "panels": 42,
+    "max_ratio": 0.6488137161394432,
+    "attempts": 80,
+    "seconds": 0.0474599160000011,
+    "replay_seconds": 0.004968833000001283,
+    "trials": null
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.45e-36]",
+    "panels": 40,
+    "max_ratio": 0.7431523337706797,
+    "attempts": 76,
+    "seconds": 0.07619079200000023,
+    "replay_seconds": 0.0048724170000014055,
+    "trials": null
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.33e-36]",
+    "panels": 40,
+    "max_ratio": 0.7848788375957038,
+    "attempts": 76,
+    "seconds": 0.39216254199999945,
+    "replay_seconds": 0.004528833000000176,
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 172
+      },
+      {
+        "center": "-21/10",
+        "panels": 166
+      },
+      {
+        "center": "-9/5",
+        "panels": 150
+      },
+      {
+        "center": "-3/2",
+        "panels": 130
+      },
+      {
+        "center": "-6/5",
+        "panels": 88
+      },
+      {
+        "center": "-9/10",
+        "panels": 84
+      },
+      {
+        "center": "-3/5",
+        "panels": 60
+      },
+      {
+        "center": "-3/10",
+        "panels": 50
+      },
+      {
+        "center": "0",
+        "panels": 40
+      }
+    ]
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.92e-36]",
+    "panels": 34,
+    "max_ratio": 0.7939794824001499,
+    "attempts": 64,
+    "seconds": 0.013660999999999035,
+    "replay_seconds": 0.00375262500000062,
+    "trials": null
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 3.88e-36]",
+    "panels": 90,
+    "max_ratio": 0.7381086354616945,
+    "attempts": 176,
+    "seconds": 0.03771099999999983,
+    "replay_seconds": 0.010369209000000268,
+    "trials": null
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 2.09e-36]",
+    "panels": 34,
+    "max_ratio": 0.7895448071036499,
+    "attempts": 64,
+    "seconds": 0.035502415999999926,
+    "replay_seconds": 0.003911374999999495,
+    "trials": null
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 2.12e-36]",
+    "panels": 34,
+    "max_ratio": 0.7895448071036499,
+    "attempts": 64,
+    "seconds": 0.06063608400000042,
+    "replay_seconds": 0.004008708000000638,
+    "trials": null
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.92e-36]",
+    "panels": 34,
+    "max_ratio": 0.7939794824001499,
+    "attempts": 64,
+    "seconds": 0.3990112089999993,
+    "replay_seconds": 0.003744042000001002,
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 210
+      },
+      {
+        "center": "-21/10",
+        "panels": 166
+      },
+      {
+        "center": "-9/5",
+        "panels": 158
+      },
+      {
+        "center": "-3/2",
+        "panels": 132
+      },
+      {
+        "center": "-6/5",
+        "panels": 90
+      },
+      {
+        "center": "-9/10",
+        "panels": 88
+      },
+      {
+        "center": "-3/5",
+        "panels": 54
+      },
+      {
+        "center": "-3/10",
+        "panels": 44
+      },
+      {
+        "center": "0",
+        "panels": 34
+      }
+    ]
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.44e-34]",
+    "panels": 58,
+    "max_ratio": 0.7726949728882005,
+    "attempts": 112,
+    "seconds": 0.022652332999999913,
+    "replay_seconds": 0.006376790999999216,
+    "trials": null
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.57e-34]",
+    "panels": 106,
+    "max_ratio": 0.7156712587603956,
+    "attempts": 208,
+    "seconds": 0.04409062499999905,
+    "replay_seconds": 0.01208691699999953,
+    "trials": null
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.56e-34]",
+    "panels": 56,
+    "max_ratio": 0.7726949731813633,
+    "attempts": 108,
+    "seconds": 0.06624079199999855,
+    "replay_seconds": 0.006625167000001042,
+    "trials": null
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.45e-34]",
+    "panels": 54,
+    "max_ratio": 0.7440602828056686,
+    "attempts": 104,
+    "seconds": 0.10352820900000026,
+    "replay_seconds": 0.006460208000000023,
+    "trials": null
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.44e-34]",
+    "panels": 58,
+    "max_ratio": 0.7726949728882005,
+    "attempts": 112,
+    "seconds": 0.4116494579999994,
+    "replay_seconds": 0.006639208999999369,
+    "trials": [
+      {
+        "center": "-19/10",
+        "panels": 192
+      },
+      {
+        "center": "-133/80",
+        "panels": 160
+      },
+      {
+        "center": "-57/40",
+        "panels": 126
+      },
+      {
+        "center": "-19/16",
+        "panels": 110
+      },
+      {
+        "center": "-19/20",
+        "panels": 106
+      },
+      {
+        "center": "-57/80",
+        "panels": 92
+      },
+      {
+        "center": "-19/40",
+        "panels": 72
+      },
+      {
+        "center": "-19/80",
+        "panels": 60
+      },
+      {
+        "center": "0",
+        "panels": 58
+      }
+    ]
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 8.67e-36]",
+    "panels": 76,
+    "max_ratio": 0.779760616423411,
+    "attempts": 148,
+    "seconds": 0.030924416999999593,
+    "replay_seconds": 0.008400916000001146,
+    "trials": null
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.13e-35]",
+    "panels": 162,
+    "max_ratio": 0.795639503750174,
+    "attempts": 320,
+    "seconds": 0.06831033299999945,
+    "replay_seconds": 0.01859529099999868,
+    "trials": null
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 8.89e-36]",
+    "panels": 70,
+    "max_ratio": 0.7832901125902988,
+    "attempts": 136,
+    "seconds": 0.07761870799999926,
+    "replay_seconds": 0.008199917000000667,
+    "trials": null
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 8.82e-36]",
+    "panels": 70,
+    "max_ratio": 0.7832901125902988,
+    "attempts": 136,
+    "seconds": 0.13001516699999982,
+    "replay_seconds": 0.008291542000000263,
+    "trials": null
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 8.67e-36]",
+    "panels": 76,
+    "max_ratio": 0.779760616423411,
+    "attempts": 148,
+    "seconds": 0.625932624999999,
+    "replay_seconds": 0.008349416999999804,
+    "trials": [
+      {
+        "center": "-18/5",
+        "panels": 308
+      },
+      {
+        "center": "-63/20",
+        "panels": 276
+      },
+      {
+        "center": "-27/10",
+        "panels": 196
+      },
+      {
+        "center": "-9/4",
+        "panels": 184
+      },
+      {
+        "center": "-9/5",
+        "panels": 162
+      },
+      {
+        "center": "-27/20",
+        "panels": 120
+      },
+      {
+        "center": "-9/10",
+        "panels": 112
+      },
+      {
+        "center": "-9/20",
+        "panels": 92
+      },
+      {
+        "center": "0",
+        "panels": 76
+      }
+    ]
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 4.75e-37]",
+    "panels": 44,
+    "max_ratio": 0.6072369396178804,
+    "attempts": 84,
+    "seconds": 0.017310832999999803,
+    "replay_seconds": 0.0049912080000016346,
+    "trials": null
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 2.55e-36]",
+    "panels": 162,
+    "max_ratio": 0.6993498307665168,
+    "attempts": 320,
+    "seconds": 0.06687912499999982,
+    "replay_seconds": 0.017737000000000336,
+    "trials": null
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 4.82e-37]",
+    "panels": 44,
+    "max_ratio": 0.6072369396178804,
+    "attempts": 84,
+    "seconds": 0.05031699999999972,
+    "replay_seconds": 0.004777416999999673,
+    "trials": null
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 6.08e-37]",
+    "panels": 44,
+    "max_ratio": 0.57130305235141,
+    "attempts": 84,
+    "seconds": 0.08404841699999999,
+    "replay_seconds": 0.005284917000000888,
+    "trials": null
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 4.75e-37]",
+    "panels": 44,
+    "max_ratio": 0.6072369396178804,
+    "attempts": 84,
+    "seconds": 0.6131826250000003,
+    "replay_seconds": 0.0048695839999979285,
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 320
+      },
+      {
+        "center": "-7/2",
+        "panels": 288
+      },
+      {
+        "center": "-3",
+        "panels": 236
+      },
+      {
+        "center": "-5/2",
+        "panels": 166
+      },
+      {
+        "center": "-2",
+        "panels": 162
+      },
+      {
+        "center": "-3/2",
+        "panels": 142
+      },
+      {
+        "center": "-1",
+        "panels": 86
+      },
+      {
+        "center": "-1/2",
+        "panels": 62
+      },
+      {
+        "center": "0",
+        "panels": 44
+      }
+    ]
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.55e-36]",
+    "panels": 48,
+    "max_ratio": 0.6906262477331191,
+    "attempts": 92,
+    "seconds": 0.01928645799999984,
+    "replay_seconds": 0.005393791999999564,
+    "trials": null
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 3.93e-36]",
+    "panels": 138,
+    "max_ratio": 0.7577471175089849,
+    "attempts": 272,
+    "seconds": 0.05787975000000145,
+    "replay_seconds": 0.01607883399999821,
+    "trials": null
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.58e-36]",
+    "panels": 44,
+    "max_ratio": 0.7043110273877053,
+    "attempts": 84,
+    "seconds": 0.049321958000000166,
+    "replay_seconds": 0.005106624999999809,
+    "trials": null
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.61e-36]",
+    "panels": 44,
+    "max_ratio": 0.6488393756926324,
+    "attempts": 84,
+    "seconds": 0.083215083999999,
+    "replay_seconds": 0.005491207999998693,
+    "trials": null
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.55e-36]",
+    "panels": 48,
+    "max_ratio": 0.6906262477331191,
+    "attempts": 92,
+    "seconds": 0.49422970800000243,
+    "replay_seconds": 0.005346292000002251,
+    "trials": [
+      {
+        "center": "-31/10",
+        "panels": 284
+      },
+      {
+        "center": "-217/80",
+        "panels": 170
+      },
+      {
+        "center": "-93/40",
+        "panels": 166
+      },
+      {
+        "center": "-31/16",
+        "panels": 166
+      },
+      {
+        "center": "-31/20",
+        "panels": 138
+      },
+      {
+        "center": "-93/80",
+        "panels": 86
+      },
+      {
+        "center": "-31/40",
+        "panels": 78
+      },
+      {
+        "center": "-31/80",
+        "panels": 62
+      },
+      {
+        "center": "0",
+        "panels": 48
+      }
+    ]
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 4.41e-37]",
+    "panels": 36,
+    "max_ratio": 0.7800407120098604,
+    "attempts": 68,
+    "seconds": 0.014191833000001708,
+    "replay_seconds": 0.003885792000001942,
+    "trials": null
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.50e-36]",
+    "panels": 88,
+    "max_ratio": 0.7254969617675172,
+    "attempts": 172,
+    "seconds": 0.03660687499999682,
+    "replay_seconds": 0.009850291999999428,
+    "trials": null
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 4.58e-37]",
+    "panels": 36,
+    "max_ratio": 0.7843127897719294,
+    "attempts": 68,
+    "seconds": 0.03979462499999897,
+    "replay_seconds": 0.004034041000000599,
+    "trials": null
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 5.38e-37]",
+    "panels": 34,
+    "max_ratio": 0.7834900425371103,
+    "attempts": 64,
+    "seconds": 0.06212599999999924,
+    "replay_seconds": 0.004093832999998881,
+    "trials": null
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 4.41e-37]",
+    "panels": 36,
+    "max_ratio": 0.7800407120098604,
+    "attempts": 68,
+    "seconds": 0.3853754579999986,
+    "replay_seconds": 0.004037290999999499,
+    "trials": [
+      {
+        "center": "-5/2",
+        "panels": 168
+      },
+      {
+        "center": "-35/16",
+        "panels": 166
+      },
+      {
+        "center": "-15/8",
+        "panels": 160
+      },
+      {
+        "center": "-25/16",
+        "panels": 134
+      },
+      {
+        "center": "-5/4",
+        "panels": 88
+      },
+      {
+        "center": "-15/16",
+        "panels": 86
+      },
+      {
+        "center": "-5/8",
+        "panels": 56
+      },
+      {
+        "center": "-5/16",
+        "panels": 48
+      },
+      {
+        "center": "0",
+        "panels": 36
+      }
+    ]
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.28e-36]",
+    "panels": 40,
+    "max_ratio": 0.7223927698488166,
+    "attempts": 76,
+    "seconds": 0.01588429199999908,
+    "replay_seconds": 0.004411499999999791,
+    "trials": null
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.12e-36]",
+    "panels": 84,
+    "max_ratio": 0.730297140882966,
+    "attempts": 164,
+    "seconds": 0.03398066600000149,
+    "replay_seconds": 0.009128417000002997,
+    "trials": null
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.15e-36]",
+    "panels": 36,
+    "max_ratio": 0.7562143331077515,
+    "attempts": 68,
+    "seconds": 0.0391085000000011,
+    "replay_seconds": 0.004135541000000131,
+    "trials": null
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.29e-36]",
+    "panels": 36,
+    "max_ratio": 0.727336955562736,
+    "attempts": 68,
+    "seconds": 0.06972341700000229,
+    "replay_seconds": 0.004473832999998706,
+    "trials": null
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.28e-36]",
+    "panels": 40,
+    "max_ratio": 0.7223927698488166,
+    "attempts": 76,
+    "seconds": 0.3340295829999995,
+    "replay_seconds": 0.004402792000000488,
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 160
+      },
+      {
+        "center": "-7/4",
+        "panels": 142
+      },
+      {
+        "center": "-3/2",
+        "panels": 130
+      },
+      {
+        "center": "-5/4",
+        "panels": 90
+      },
+      {
+        "center": "-1",
+        "panels": 84
+      },
+      {
+        "center": "-3/4",
+        "panels": 74
+      },
+      {
+        "center": "-1/2",
+        "panels": 54
+      },
+      {
+        "center": "-1/4",
+        "panels": 46
+      },
+      {
+        "center": "0",
+        "panels": 40
+      }
+    ]
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 4.65e-37]",
+    "panels": 28,
+    "max_ratio": 0.7866891194737055,
+    "attempts": 52,
+    "seconds": 0.010757957999999235,
+    "replay_seconds": 0.003142958000001528,
+    "trials": null
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.91e-36]",
+    "panels": 84,
+    "max_ratio": 0.7763635330021287,
+    "attempts": 164,
+    "seconds": 0.0352028329999996,
+    "replay_seconds": 0.009848916999999346,
+    "trials": null
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 5.43e-37]",
+    "panels": 28,
+    "max_ratio": 0.7866891201550122,
+    "attempts": 52,
+    "seconds": 0.03118974999999935,
+    "replay_seconds": 0.0033474170000005188,
+    "trials": null
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 5.63e-37]",
+    "panels": 28,
+    "max_ratio": 0.7744957156593177,
+    "attempts": 52,
+    "seconds": 0.054736915999999525,
+    "replay_seconds": 0.0034652079999979435,
+    "trials": null
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 4.65e-37]",
+    "panels": 28,
+    "max_ratio": 0.7866891194737055,
+    "attempts": 52,
+    "seconds": 0.37296841600000263,
+    "replay_seconds": 0.003077208000000553,
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 192
+      },
+      {
+        "center": "-21/10",
+        "panels": 164
+      },
+      {
+        "center": "-9/5",
+        "panels": 144
+      },
+      {
+        "center": "-3/2",
+        "panels": 126
+      },
+      {
+        "center": "-6/5",
+        "panels": 84
+      },
+      {
+        "center": "-9/10",
+        "panels": 78
+      },
+      {
+        "center": "-3/5",
+        "panels": 50
+      },
+      {
+        "center": "-3/10",
+        "panels": 38
+      },
+      {
+        "center": "0",
+        "panels": 28
+      }
+    ]
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 3.39e-36]",
+    "panels": 50,
+    "max_ratio": 0.7081627820869699,
+    "attempts": 96,
+    "seconds": 0.02014649999999918,
+    "replay_seconds": 0.005697582999999895,
+    "trials": null
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 4.98e-36]",
+    "panels": 94,
+    "max_ratio": 0.7818054585524852,
+    "attempts": 184,
+    "seconds": 0.03950754100000253,
+    "replay_seconds": 0.010863749999998618,
+    "trials": null
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 3.51e-36]",
+    "panels": 48,
+    "max_ratio": 0.6852990296224349,
+    "attempts": 92,
+    "seconds": 0.05449645799999914,
+    "replay_seconds": 0.0056382910000003506,
+    "trials": null
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 3.53e-36]",
+    "panels": 46,
+    "max_ratio": 0.7128011589909976,
+    "attempts": 88,
+    "seconds": 0.08758158300000218,
+    "replay_seconds": 0.005580625000000339,
+    "trials": null
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 3.39e-36]",
+    "panels": 50,
+    "max_ratio": 0.7081627820869699,
+    "attempts": 96,
+    "seconds": 0.44787933300000304,
+    "replay_seconds": 0.005500707999999577,
+    "trials": [
+      {
+        "center": "-27/10",
+        "panels": 222
+      },
+      {
+        "center": "-189/80",
+        "panels": 174
+      },
+      {
+        "center": "-81/40",
+        "panels": 170
+      },
+      {
+        "center": "-27/16",
+        "panels": 144
+      },
+      {
+        "center": "-27/20",
+        "panels": 94
+      },
+      {
+        "center": "-81/80",
+        "panels": 92
+      },
+      {
+        "center": "-27/40",
+        "panels": 72
+      },
+      {
+        "center": "-27/80",
+        "panels": 60
+      },
+      {
+        "center": "0",
+        "panels": 50
+      }
+    ]
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 4.05e-37]",
+    "panels": 26,
+    "max_ratio": 0.7987093774994231,
+    "attempts": 48,
+    "seconds": 0.010019083999999623,
+    "replay_seconds": 0.002884292000000954,
+    "trials": null
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.77e-36]",
+    "panels": 84,
+    "max_ratio": 0.7147335398126223,
+    "attempts": 164,
+    "seconds": 0.03431699999999793,
+    "replay_seconds": 0.0099480000000014,
+    "trials": null
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 4.61e-37]",
+    "panels": 26,
+    "max_ratio": 0.7987093776659497,
+    "attempts": 48,
+    "seconds": 0.029025332999999875,
+    "replay_seconds": 0.0030591250000000514,
+    "trials": null
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 4.90e-37]",
+    "panels": 26,
+    "max_ratio": 0.7987093774994231,
+    "attempts": 48,
+    "seconds": 0.0495672909999989,
+    "replay_seconds": 0.0031343749999983572,
+    "trials": null
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 4.05e-37]",
+    "panels": 26,
+    "max_ratio": 0.7987093774994231,
+    "attempts": 48,
+    "seconds": 0.34120766699999905,
+    "replay_seconds": 0.002876707999998729,
+    "trials": [
+      {
+        "center": "-21/10",
+        "panels": 174
+      },
+      {
+        "center": "-147/80",
+        "panels": 160
+      },
+      {
+        "center": "-63/40",
+        "panels": 142
+      },
+      {
+        "center": "-21/16",
+        "panels": 88
+      },
+      {
+        "center": "-21/20",
+        "panels": 84
+      },
+      {
+        "center": "-63/80",
+        "panels": 72
+      },
+      {
+        "center": "-21/40",
+        "panels": 46
+      },
+      {
+        "center": "-21/80",
+        "panels": 36
+      },
+      {
+        "center": "0",
+        "panels": 26
+      }
+    ]
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 5.12e-36]",
+    "panels": 60,
+    "max_ratio": 0.7959934449038444,
+    "attempts": 116,
+    "seconds": 0.024692874999999503,
+    "replay_seconds": 0.006755083000001605,
+    "trials": null
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 6.91e-36]",
+    "panels": 118,
+    "max_ratio": 0.7959276602518711,
+    "attempts": 232,
+    "seconds": 0.05043024999999801,
+    "replay_seconds": 0.01390299999999911,
+    "trials": null
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 4.63e-36]",
+    "panels": 50,
+    "max_ratio": 0.6984701680735428,
+    "attempts": 96,
+    "seconds": 0.05351462499999826,
+    "replay_seconds": 0.005898833999999908,
+    "trials": null
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 4.61e-36]",
+    "panels": 50,
+    "max_ratio": 0.6286775246926619,
+    "attempts": 96,
+    "seconds": 0.09127900000000011,
+    "replay_seconds": 0.0059149159999982714,
+    "trials": null
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 5.12e-36]",
+    "panels": 60,
+    "max_ratio": 0.7959934449038444,
+    "attempts": 116,
+    "seconds": 0.4703326660000009,
+    "replay_seconds": 0.006580582999998086,
+    "trials": [
+      {
+        "center": "-29/10",
+        "panels": 208
+      },
+      {
+        "center": "-203/80",
+        "panels": 178
+      },
+      {
+        "center": "-87/40",
+        "panels": 170
+      },
+      {
+        "center": "-29/16",
+        "panels": 156
+      },
+      {
+        "center": "-29/20",
+        "panels": 118
+      },
+      {
+        "center": "-87/80",
+        "panels": 94
+      },
+      {
+        "center": "-29/40",
+        "panels": 84
+      },
+      {
+        "center": "-29/80",
+        "panels": 72
+      },
+      {
+        "center": "0",
+        "panels": 60
+      }
+    ]
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 4,
+    "turns": "[4.00000000000000000000000000000000000 +/- 9.13e-36]",
+    "panels": 84,
+    "max_ratio": 0.713518086269535,
+    "attempts": 164,
+    "seconds": 0.03345545899999891,
+    "replay_seconds": 0.009463749999998328,
+    "trials": null
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 1.12e-35]",
+    "panels": 178,
+    "max_ratio": 0.7953753529230111,
+    "attempts": 352,
+    "seconds": 0.07645054099999982,
+    "replay_seconds": 0.02082770799999878,
+    "trials": null
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 4,
+    "turns": "[4.00000000000000000000000000000000000 +/- 8.34e-36]",
+    "panels": 76,
+    "max_ratio": 0.7906973389531281,
+    "attempts": 148,
+    "seconds": 0.08095754200000016,
+    "replay_seconds": 0.008888791000000396,
+    "trials": null
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 4,
+    "turns": "[4.00000000000000000000000000000000000 +/- 8.30e-36]",
+    "panels": 76,
+    "max_ratio": 0.7796517307422813,
+    "attempts": 148,
+    "seconds": 0.14073379200000247,
+    "replay_seconds": 0.009682291000000731,
+    "trials": null
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 4,
+    "turns": "[4.00000000000000000000000000000000000 +/- 9.13e-36]",
+    "panels": 84,
+    "max_ratio": 0.713518086269535,
+    "attempts": 164,
+    "seconds": 0.6650147920000009,
+    "replay_seconds": 0.009317624999997776,
+    "trials": [
+      {
+        "center": "-19/5",
+        "panels": 334
+      },
+      {
+        "center": "-133/40",
+        "panels": 272
+      },
+      {
+        "center": "-57/20",
+        "panels": 192
+      },
+      {
+        "center": "-19/8",
+        "panels": 186
+      },
+      {
+        "center": "-19/10",
+        "panels": 178
+      },
+      {
+        "center": "-57/40",
+        "panels": 130
+      },
+      {
+        "center": "-19/20",
+        "panels": 118
+      },
+      {
+        "center": "-19/40",
+        "panels": 98
+      },
+      {
+        "center": "0",
+        "panels": 84
+      }
+    ]
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.58e-36]",
+    "panels": 48,
+    "max_ratio": 0.7073010011461732,
+    "attempts": 92,
+    "seconds": 0.018938083000001882,
+    "replay_seconds": 0.005334832999999151,
+    "trials": null
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 4.46e-36]",
+    "panels": 148,
+    "max_ratio": 0.7657463304484428,
+    "attempts": 292,
+    "seconds": 0.06230658299999803,
+    "replay_seconds": 0.017245208000002066,
+    "trials": null
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.63e-36]",
+    "panels": 46,
+    "max_ratio": 0.693816531536509,
+    "attempts": 88,
+    "seconds": 0.05347587500000017,
+    "replay_seconds": 0.005601291000001396,
+    "trials": null
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.69e-36]",
+    "panels": 46,
+    "max_ratio": 0.6938165315107228,
+    "attempts": 88,
+    "seconds": 0.09179533300000031,
+    "replay_seconds": 0.005665083000000237,
+    "trials": null
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.58e-36]",
+    "panels": 48,
+    "max_ratio": 0.7073010011461732,
+    "attempts": 92,
+    "seconds": 0.5510968749999989,
+    "replay_seconds": 0.005333333999999468,
+    "trials": [
+      {
+        "center": "-17/5",
+        "panels": 326
+      },
+      {
+        "center": "-119/40",
+        "panels": 214
+      },
+      {
+        "center": "-51/20",
+        "panels": 170
+      },
+      {
+        "center": "-17/8",
+        "panels": 164
+      },
+      {
+        "center": "-17/10",
+        "panels": 148
+      },
+      {
+        "center": "-51/40",
+        "panels": 88
+      },
+      {
+        "center": "-17/20",
+        "panels": 82
+      },
+      {
+        "center": "-17/40",
+        "panels": 64
+      },
+      {
+        "center": "0",
+        "panels": 48
+      }
+    ]
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.29e-36]",
+    "panels": 36,
+    "max_ratio": 0.7838539852173427,
+    "attempts": 68,
+    "seconds": 0.013933208000000974,
+    "replay_seconds": 0.004045624999999831,
+    "trials": null
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 2.75e-36]",
+    "panels": 88,
+    "max_ratio": 0.707416459303992,
+    "attempts": 172,
+    "seconds": 0.03669729099999941,
+    "replay_seconds": 0.010202041999999523,
+    "trials": null
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.31e-36]",
+    "panels": 34,
+    "max_ratio": 0.7949696384576147,
+    "attempts": 64,
+    "seconds": 0.03936504200000002,
+    "replay_seconds": 0.004042916999999591,
+    "trials": null
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.40e-36]",
+    "panels": 34,
+    "max_ratio": 0.7949696384576147,
+    "attempts": 64,
+    "seconds": 0.06618199999999774,
+    "replay_seconds": 0.004297165999997077,
+    "trials": null
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.29e-36]",
+    "panels": 36,
+    "max_ratio": 0.7838539852173427,
+    "attempts": 68,
+    "seconds": 0.33353483300000164,
+    "replay_seconds": 0.003987165999998155,
+    "trials": [
+      {
+        "center": "-19/10",
+        "panels": 180
+      },
+      {
+        "center": "-133/80",
+        "panels": 142
+      },
+      {
+        "center": "-57/40",
+        "panels": 106
+      },
+      {
+        "center": "-19/16",
+        "panels": 90
+      },
+      {
+        "center": "-19/20",
+        "panels": 88
+      },
+      {
+        "center": "-57/80",
+        "panels": 72
+      },
+      {
+        "center": "-19/40",
+        "panels": 52
+      },
+      {
+        "center": "-19/80",
+        "panels": 42
+      },
+      {
+        "center": "0",
+        "panels": 36
+      }
+    ]
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 1.83e-36]",
+    "panels": 48,
+    "max_ratio": 0.7941229495965998,
+    "attempts": 92,
+    "seconds": 0.019058125000000814,
+    "replay_seconds": 0.00554170799999909,
+    "trials": null
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 4.47e-36]",
+    "panels": 140,
+    "max_ratio": 0.7697874550012836,
+    "attempts": 276,
+    "seconds": 0.05978379200000106,
+    "replay_seconds": 0.016386958000001783,
+    "trials": null
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.86e-36]",
+    "panels": 46,
+    "max_ratio": 0.7939379788042488,
+    "attempts": 88,
+    "seconds": 0.052291124999999994,
+    "replay_seconds": 0.005363416999998094,
+    "trials": null
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.92e-36]",
+    "panels": 46,
+    "max_ratio": 0.6402299544711624,
+    "attempts": 88,
+    "seconds": 0.08809749999999994,
+    "replay_seconds": 0.005666500000000241,
+    "trials": null
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 1.83e-36]",
+    "panels": 48,
+    "max_ratio": 0.7941229495965998,
+    "attempts": 92,
+    "seconds": 0.5212743330000009,
+    "replay_seconds": 0.0053400830000001065,
+    "trials": [
+      {
+        "center": "-16/5",
+        "panels": 308
+      },
+      {
+        "center": "-14/5",
+        "panels": 184
+      },
+      {
+        "center": "-12/5",
+        "panels": 172
+      },
+      {
+        "center": "-2",
+        "panels": 164
+      },
+      {
+        "center": "-8/5",
+        "panels": 140
+      },
+      {
+        "center": "-6/5",
+        "panels": 90
+      },
+      {
+        "center": "-4/5",
+        "panels": 80
+      },
+      {
+        "center": "-2/5",
+        "panels": 62
+      },
+      {
+        "center": "0",
+        "panels": 48
+      }
+    ]
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 7.92e-37]",
+    "panels": 28,
+    "max_ratio": 0.7189976183683191,
+    "attempts": 52,
+    "seconds": 0.01112499999999983,
+    "replay_seconds": 0.0031976249999985384,
+    "trials": null
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 1.98e-36]",
+    "panels": 74,
+    "max_ratio": 0.7757627675832341,
+    "attempts": 144,
+    "seconds": 0.030993833000000137,
+    "replay_seconds": 0.008809458000001769,
+    "trials": null
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 8.48e-37]",
+    "panels": 26,
+    "max_ratio": 0.7720020493852157,
+    "attempts": 48,
+    "seconds": 0.025966959000001566,
+    "replay_seconds": 0.0030694159999988813,
+    "trials": null
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 8.73e-37]",
+    "panels": 26,
+    "max_ratio": 0.6954772548222489,
+    "attempts": 48,
+    "seconds": 0.04577429200000083,
+    "replay_seconds": 0.00324395799999877,
+    "trials": null
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 7.92e-37]",
+    "panels": 28,
+    "max_ratio": 0.7189976183683191,
+    "attempts": 52,
+    "seconds": 0.2820549579999998,
+    "replay_seconds": 0.003085000000002225,
+    "trials": [
+      {
+        "center": "-17/10",
+        "panels": 156
+      },
+      {
+        "center": "-119/80",
+        "panels": 126
+      },
+      {
+        "center": "-51/40",
+        "panels": 88
+      },
+      {
+        "center": "-17/16",
+        "panels": 84
+      },
+      {
+        "center": "-17/20",
+        "panels": 74
+      },
+      {
+        "center": "-51/80",
+        "panels": 52
+      },
+      {
+        "center": "-17/40",
+        "panels": 46
+      },
+      {
+        "center": "-17/80",
+        "panels": 32
+      },
+      {
+        "center": "0",
+        "panels": 28
+      }
+    ]
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.75e-36]",
+    "panels": 46,
+    "max_ratio": 0.6432459488294822,
+    "attempts": 88,
+    "seconds": 0.01788912499999995,
+    "replay_seconds": 0.005032916999997639,
+    "trials": null
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.68e-36]",
+    "panels": 84,
+    "max_ratio": 0.7928447507307812,
+    "attempts": 164,
+    "seconds": 0.0354338750000025,
+    "replay_seconds": 0.009691791999998145,
+    "trials": null
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.60e-36]",
+    "panels": 38,
+    "max_ratio": 0.7252925167563092,
+    "attempts": 72,
+    "seconds": 0.038261249999997915,
+    "replay_seconds": 0.0044775420000000565,
+    "trials": null
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.51e-36]",
+    "panels": 36,
+    "max_ratio": 0.643245948815832,
+    "attempts": 68,
+    "seconds": 0.06222945899999743,
+    "replay_seconds": 0.004460209000001214,
+    "trials": null
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 1.75e-36]",
+    "panels": 46,
+    "max_ratio": 0.6432459488294822,
+    "attempts": 88,
+    "seconds": 0.36089199999999977,
+    "replay_seconds": 0.0053936249999999575,
+    "trials": [
+      {
+        "center": "-11/5",
+        "panels": 168
+      },
+      {
+        "center": "-77/40",
+        "panels": 156
+      },
+      {
+        "center": "-33/20",
+        "panels": 132
+      },
+      {
+        "center": "-11/8",
+        "panels": 90
+      },
+      {
+        "center": "-11/10",
+        "panels": 84
+      },
+      {
+        "center": "-33/40",
+        "panels": 70
+      },
+      {
+        "center": "-11/20",
+        "panels": 54
+      },
+      {
+        "center": "-11/40",
+        "panels": 50
+      },
+      {
+        "center": "0",
+        "panels": 46
+      }
+    ]
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.79e-36]",
+    "panels": 56,
+    "max_ratio": 0.7815948476853057,
+    "attempts": 108,
+    "seconds": 0.022720415999998522,
+    "replay_seconds": 0.006159999999997723,
+    "trials": null
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 4.80e-36]",
+    "panels": 132,
+    "max_ratio": 0.796982255665575,
+    "attempts": 260,
+    "seconds": 0.056620834000000286,
+    "replay_seconds": 0.01569925000000083,
+    "trials": null
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.53e-36]",
+    "panels": 48,
+    "max_ratio": 0.789936375071799,
+    "attempts": 92,
+    "seconds": 0.05174512500000006,
+    "replay_seconds": 0.0056775420000008125,
+    "trials": null
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.58e-36]",
+    "panels": 48,
+    "max_ratio": 0.7282807608539498,
+    "attempts": 92,
+    "seconds": 0.08895387499999785,
+    "replay_seconds": 0.006013917000000646,
+    "trials": null
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 2,
+    "turns": "[2.00000000000000000000000000000000000 +/- 2.79e-36]",
+    "panels": 56,
+    "max_ratio": 0.7815948476853057,
+    "attempts": 108,
+    "seconds": 0.5244283749999994,
+    "replay_seconds": 0.006266166999999712,
+    "trials": [
+      {
+        "center": "-31/10",
+        "panels": 270
+      },
+      {
+        "center": "-217/80",
+        "panels": 176
+      },
+      {
+        "center": "-93/40",
+        "panels": 168
+      },
+      {
+        "center": "-31/16",
+        "panels": 164
+      },
+      {
+        "center": "-31/20",
+        "panels": 132
+      },
+      {
+        "center": "-93/80",
+        "panels": 96
+      },
+      {
+        "center": "-31/40",
+        "panels": 84
+      },
+      {
+        "center": "-31/80",
+        "panels": 68
+      },
+      {
+        "center": "0",
+        "panels": 56
+      }
+    ]
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 4.30e-35]",
+    "panels": 84,
+    "max_ratio": 0.7127597271740956,
+    "attempts": 164,
+    "seconds": 0.03465187500000155,
+    "replay_seconds": 0.009175166999998652,
+    "trials": null
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 5.00e-35]",
+    "panels": 118,
+    "max_ratio": 0.7636350733020681,
+    "attempts": 232,
+    "seconds": 0.04823687500000062,
+    "replay_seconds": 0.013564083999998644,
+    "trials": null
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 4.75e-35]",
+    "panels": 74,
+    "max_ratio": 0.7739019767509399,
+    "attempts": 144,
+    "seconds": 0.08738395900000029,
+    "replay_seconds": 0.008373791000000352,
+    "trials": null
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 4.79e-35]",
+    "panels": 74,
+    "max_ratio": 0.7739019767509399,
+    "attempts": 144,
+    "seconds": 0.15009225000000015,
+    "replay_seconds": 0.009099041999999002,
+    "trials": null
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 4,
+    "turns": "[4.0000000000000000000000000000000000 +/- 4.30e-35]",
+    "panels": 84,
+    "max_ratio": 0.7127597271740956,
+    "attempts": 164,
+    "seconds": 0.504592916,
+    "replay_seconds": 0.009171458000000854,
+    "trials": [
+      {
+        "center": "-5/2",
+        "panels": 194
+      },
+      {
+        "center": "-35/16",
+        "panels": 194
+      },
+      {
+        "center": "-15/8",
+        "panels": 184
+      },
+      {
+        "center": "-25/16",
+        "panels": 156
+      },
+      {
+        "center": "-5/4",
+        "panels": 118
+      },
+      {
+        "center": "-15/16",
+        "panels": 114
+      },
+      {
+        "center": "-5/8",
+        "panels": 90
+      },
+      {
+        "center": "-5/16",
+        "panels": 90
+      },
+      {
+        "center": "0",
+        "panels": 84
+      }
+    ]
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 9.83e-37]",
+    "panels": 46,
+    "max_ratio": 0.7998241978111179,
+    "attempts": 88,
+    "seconds": 0.019179832999999036,
+    "replay_seconds": 0.005349374999997991,
+    "trials": null
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 3.50e-36]",
+    "panels": 160,
+    "max_ratio": 0.7796668906847893,
+    "attempts": 316,
+    "seconds": 0.06959666599999892,
+    "replay_seconds": 0.0190728749999991,
+    "trials": null
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 1.08e-36]",
+    "panels": 46,
+    "max_ratio": 0.799824198065175,
+    "attempts": 88,
+    "seconds": 0.0561510829999996,
+    "replay_seconds": 0.005478457999998909,
+    "trials": null
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 1.09e-36]",
+    "panels": 44,
+    "max_ratio": 0.7998241978111179,
+    "attempts": 84,
+    "seconds": 0.08661212499999849,
+    "replay_seconds": 0.005515875000000392,
+    "trials": null
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 9.83e-37]",
+    "panels": 46,
+    "max_ratio": 0.7998241978111179,
+    "attempts": 88,
+    "seconds": 0.5914291670000011,
+    "replay_seconds": 0.005205750000001785,
+    "trials": [
+      {
+        "center": "-37/10",
+        "panels": 322
+      },
+      {
+        "center": "-259/80",
+        "panels": 284
+      },
+      {
+        "center": "-111/40",
+        "panels": 174
+      },
+      {
+        "center": "-37/16",
+        "panels": 168
+      },
+      {
+        "center": "-37/20",
+        "panels": 160
+      },
+      {
+        "center": "-111/80",
+        "panels": 96
+      },
+      {
+        "center": "-37/40",
+        "panels": 88
+      },
+      {
+        "center": "-37/80",
+        "panels": 64
+      },
+      {
+        "center": "0",
+        "panels": 46
+      }
+    ]
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "policy": "raw2",
+    "count": 0,
+    "turns": "[+/- 2.21e-36]",
+    "panels": 50,
+    "max_ratio": 0.7032046831515484,
+    "attempts": 96,
+    "seconds": 0.020049042000000128,
+    "replay_seconds": 0.005544374999999491,
+    "trials": null
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "policy": "global2",
+    "count": 0,
+    "turns": "[+/- 4.44e-36]",
+    "panels": 122,
+    "max_ratio": 0.7965277881399362,
+    "attempts": 240,
+    "seconds": 0.05187275000000113,
+    "replay_seconds": 0.014451083000000864,
+    "trials": null
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "policy": "local2",
+    "count": 0,
+    "turns": "[+/- 2.27e-36]",
+    "panels": 48,
+    "max_ratio": 0.7027823025018763,
+    "attempts": 92,
+    "seconds": 0.05528554099999994,
+    "replay_seconds": 0.005638375000000195,
+    "trials": null
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "policy": "jet",
+    "count": 0,
+    "turns": "[+/- 2.35e-36]",
+    "panels": 48,
+    "max_ratio": 0.6763603959639841,
+    "attempts": 92,
+    "seconds": 0.09310504100000117,
+    "replay_seconds": 0.0059088749999993695,
+    "trials": null
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "policy": "oracle9_2",
+    "count": 0,
+    "turns": "[+/- 2.21e-36]",
+    "panels": 50,
+    "max_ratio": 0.7032046831515484,
+    "attempts": 96,
+    "seconds": 0.4984039999999972,
+    "replay_seconds": 0.005784500000000747,
+    "trials": [
+      {
+        "center": "-29/10",
+        "panels": 272
+      },
+      {
+        "center": "-203/80",
+        "panels": 176
+      },
+      {
+        "center": "-87/40",
+        "panels": 168
+      },
+      {
+        "center": "-29/16",
+        "panels": 164
+      },
+      {
+        "center": "-29/20",
+        "panels": 122
+      },
+      {
+        "center": "-87/80",
+        "panels": 90
+      },
+      {
+        "center": "-29/40",
+        "panels": 82
+      },
+      {
+        "center": "-29/80",
+        "panels": 64
+      },
+      {
+        "center": "0",
+        "panels": 50
+      }
+    ]
+  }
+]

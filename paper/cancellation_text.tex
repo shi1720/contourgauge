@@ -1,0 +1,17 @@
+\subsection{Follow-up: cancellation and a stronger fixed-gauge comparison}
+The first study exposed small delay-family gains against Fixed-9. We therefore ran a follow-up ablation on all 36 delay problems, keeping the same contours, arithmetic precision, safety factor and reference counts. Each comparator may use the smaller of $B$ and $B_2$. The four policies are zero gauge, midrange, real local, and Jet; a fresh nine-center fixed sweep supplies a fifth comparison record. This follow-up is reported separately because it was motivated by the first study rather than specified before those results were inspected.
+
+Every follow-up count agrees with its reference and replays at 192 bits. Jet gives fewer panels than the second-order Fixed-9 comparator on 26 problems and ties on ten, with no losses in this suite. The median paired Fixed-9/Jet panel ratios are 1.06 for the single-delay family and 1.07 for the two-delay family; the largest ratio is 1.28. This is a modest additional reduction, rather than an order-of-magnitude improvement. The real-local and Jet family medians are reported in Table~\ref{tab:cancel}; equal medians need not mean equal paired results.
+
+The median fixed-certificate/Jet replay time ratios are 0.99 and 0.97. Thus the smaller Jet records do not produce a replay speedup on these examples: their more expensive enclosures outweigh the saved panels. This negative runtime result is part of the evidence. The second-order extension establishes an additional sound certificate and a small proof-length improvement on the tested delay models, while the simpler real-gauge certificate can remain the better computational choice.
+
+\begin{table}[t]
+\centering\small\input{cancellation_table.tex}
+\caption{Follow-up delay ablation. All policies receive the cancellation-preserving enclosure. Panel columns are family medians; ratio columns are medians of paired Fixed-9/Jet ratios. A ratio above one favors Jet. Replay times are medians of five runs per record at 192 bits.}
+\label{tab:cancel}
+\end{table}
+\begin{figure}[t]
+\centering\includegraphics[width=.82\linewidth]{../figures/cancellation.pdf}
+\caption{Second-order follow-up: Jet certificates versus the best of nine fixed real gauges, with the same two enclosure options supplied to both. The proof-length gain is small on many delay problems and does not translate into faster replay in the aggregate.}
+\label{fig:cancel}
+\end{figure}

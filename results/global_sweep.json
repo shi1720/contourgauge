@@ -1,0 +1,5017 @@
+[
+  {
+    "name": "dominance_1-2_1",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 36,
+        "seconds": 0.01737116700000002
+      },
+      {
+        "center": "3/16",
+        "panels": 34,
+        "seconds": 0.014210916000000018
+      },
+      {
+        "center": "3/8",
+        "panels": 22,
+        "seconds": 0.008929541999999957
+      },
+      {
+        "center": "9/16",
+        "panels": 20,
+        "seconds": 0.007965625000000032
+      },
+      {
+        "center": "3/4",
+        "panels": 24,
+        "seconds": 0.009905875000000008
+      },
+      {
+        "center": "15/16",
+        "panels": 32,
+        "seconds": 0.013454874999999977
+      },
+      {
+        "center": "9/8",
+        "panels": 42,
+        "seconds": 0.017628958000000028
+      },
+      {
+        "center": "21/16",
+        "panels": 46,
+        "seconds": 0.019741249999999988
+      },
+      {
+        "center": "3/2",
+        "panels": 52,
+        "seconds": 0.022198208000000053
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 8.12e-37]",
+      "panels": 20,
+      "max_ratio": 0.7212125112374487,
+      "attempts": 36,
+      "center": "9/16"
+    }
+  },
+  {
+    "name": "dominance_1-2_3",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 66,
+        "seconds": 0.028081957999999962
+      },
+      {
+        "center": "3/16",
+        "panels": 52,
+        "seconds": 0.021863541999999958
+      },
+      {
+        "center": "3/8",
+        "panels": 46,
+        "seconds": 0.019362250000000025
+      },
+      {
+        "center": "9/16",
+        "panels": 48,
+        "seconds": 0.020752667000000058
+      },
+      {
+        "center": "3/4",
+        "panels": 50,
+        "seconds": 0.02187162500000006
+      },
+      {
+        "center": "15/16",
+        "panels": 52,
+        "seconds": 0.022237167000000002
+      },
+      {
+        "center": "9/8",
+        "panels": 64,
+        "seconds": 0.02775150000000004
+      },
+      {
+        "center": "21/16",
+        "panels": 70,
+        "seconds": 0.03120345899999999
+      },
+      {
+        "center": "3/2",
+        "panels": 76,
+        "seconds": 0.03366995900000003
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 2.43e-36]",
+      "panels": 46,
+      "max_ratio": 0.7875395716223555,
+      "attempts": 88,
+      "center": "3/8"
+    }
+  },
+  {
+    "name": "dominance_1-2_6",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 80,
+        "seconds": 0.03629995800000008
+      },
+      {
+        "center": "3/16",
+        "panels": 54,
+        "seconds": 0.023558917000000013
+      },
+      {
+        "center": "3/8",
+        "panels": 50,
+        "seconds": 0.02306066699999998
+      },
+      {
+        "center": "9/16",
+        "panels": 52,
+        "seconds": 0.02320904200000007
+      },
+      {
+        "center": "3/4",
+        "panels": 58,
+        "seconds": 0.02510558399999996
+      },
+      {
+        "center": "15/16",
+        "panels": 50,
+        "seconds": 0.02185179100000001
+      },
+      {
+        "center": "9/8",
+        "panels": 58,
+        "seconds": 0.02498370900000002
+      },
+      {
+        "center": "21/16",
+        "panels": 56,
+        "seconds": 0.023937915999999948
+      },
+      {
+        "center": "3/2",
+        "panels": 60,
+        "seconds": 0.025714000000000015
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 1.86e-36]",
+      "panels": 50,
+      "max_ratio": 0.7619431556092631,
+      "attempts": 96,
+      "center": "3/8"
+    }
+  },
+  {
+    "name": "dominance_1_1",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 112,
+        "seconds": 0.04781195800000004
+      },
+      {
+        "center": "3/8",
+        "panels": 88,
+        "seconds": 0.03805383399999995
+      },
+      {
+        "center": "3/4",
+        "panels": 76,
+        "seconds": 0.03571516699999999
+      },
+      {
+        "center": "9/8",
+        "panels": 62,
+        "seconds": 0.02716658400000016
+      },
+      {
+        "center": "3/2",
+        "panels": 76,
+        "seconds": 0.03377470799999993
+      },
+      {
+        "center": "15/8",
+        "panels": 86,
+        "seconds": 0.037452709000000084
+      },
+      {
+        "center": "9/4",
+        "panels": 104,
+        "seconds": 0.04485925000000002
+      },
+      {
+        "center": "21/8",
+        "panels": 116,
+        "seconds": 0.04978708300000001
+      },
+      {
+        "center": "3",
+        "panels": 132,
+        "seconds": 0.05752287499999986
+      }
+    ],
+    "best": {
+      "count": 3,
+      "turns": "[3.00000000000000000000000000000000000 +/- 3.85e-36]",
+      "panels": 62,
+      "max_ratio": 0.7960786030394335,
+      "attempts": 120,
+      "center": "9/8"
+    }
+  },
+  {
+    "name": "dominance_1_3",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 118,
+        "seconds": 0.05092975000000011
+      },
+      {
+        "center": "3/8",
+        "panels": 82,
+        "seconds": 0.03591558299999997
+      },
+      {
+        "center": "3/4",
+        "panels": 78,
+        "seconds": 0.03330900000000003
+      },
+      {
+        "center": "9/8",
+        "panels": 84,
+        "seconds": 0.03674308400000004
+      },
+      {
+        "center": "3/2",
+        "panels": 102,
+        "seconds": 0.044710124999999934
+      },
+      {
+        "center": "15/8",
+        "panels": 92,
+        "seconds": 0.04023441700000019
+      },
+      {
+        "center": "9/4",
+        "panels": 114,
+        "seconds": 0.04988816699999998
+      },
+      {
+        "center": "21/8",
+        "panels": 124,
+        "seconds": 0.05444895800000005
+      },
+      {
+        "center": "3",
+        "panels": 138,
+        "seconds": 0.059497082999999895
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.00000000000000000000000000000000000 +/- 4.23e-36]",
+      "panels": 78,
+      "max_ratio": 0.7812041398731284,
+      "attempts": 152,
+      "center": "3/4"
+    }
+  },
+  {
+    "name": "dominance_1_6",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 130,
+        "seconds": 0.05627608400000006
+      },
+      {
+        "center": "3/8",
+        "panels": 102,
+        "seconds": 0.046797833000000066
+      },
+      {
+        "center": "3/4",
+        "panels": 104,
+        "seconds": 0.04499291700000008
+      },
+      {
+        "center": "9/8",
+        "panels": 108,
+        "seconds": 0.04695799999999983
+      },
+      {
+        "center": "3/2",
+        "panels": 126,
+        "seconds": 0.05505945899999998
+      },
+      {
+        "center": "15/8",
+        "panels": 116,
+        "seconds": 0.05020650000000004
+      },
+      {
+        "center": "9/4",
+        "panels": 130,
+        "seconds": 0.057544958999999896
+      },
+      {
+        "center": "21/8",
+        "panels": 130,
+        "seconds": 0.058724416
+      },
+      {
+        "center": "3",
+        "panels": 170,
+        "seconds": 0.07548375000000007
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.00000000000000000000000000000000000 +/- 4.95e-36]",
+      "panels": 102,
+      "max_ratio": 0.7496808613077475,
+      "attempts": 200,
+      "center": "3/8"
+    }
+  },
+  {
+    "name": "dominance_2_1",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 180,
+        "seconds": 0.08164537499999991
+      },
+      {
+        "center": "3/4",
+        "panels": 128,
+        "seconds": 0.062033667000000126
+      },
+      {
+        "center": "3/2",
+        "panels": 114,
+        "seconds": 0.05109629200000043
+      },
+      {
+        "center": "9/4",
+        "panels": 126,
+        "seconds": 0.05954033400000025
+      },
+      {
+        "center": "3",
+        "panels": 138,
+        "seconds": 0.07320445799999975
+      },
+      {
+        "center": "15/4",
+        "panels": 146,
+        "seconds": 0.15769212500000007
+      },
+      {
+        "center": "9/2",
+        "panels": 156,
+        "seconds": 0.11714495800000035
+      },
+      {
+        "center": "21/4",
+        "panels": 172,
+        "seconds": 0.083262167
+      },
+      {
+        "center": "6",
+        "panels": 196,
+        "seconds": 0.0933287909999998
+      }
+    ],
+    "best": {
+      "count": 14,
+      "turns": "[14.00000000000000000000000000000000000 +/- 9.01e-36]",
+      "panels": 114,
+      "max_ratio": 0.7960354911131475,
+      "attempts": 224,
+      "center": "3/2"
+    }
+  },
+  {
+    "name": "dominance_2_3",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 190,
+        "seconds": 0.0893791669999997
+      },
+      {
+        "center": "3/4",
+        "panels": 134,
+        "seconds": 0.07058879100000004
+      },
+      {
+        "center": "3/2",
+        "panels": 144,
+        "seconds": 0.06695854099999998
+      },
+      {
+        "center": "9/4",
+        "panels": 148,
+        "seconds": 0.06857087499999981
+      },
+      {
+        "center": "3",
+        "panels": 182,
+        "seconds": 0.08165124999999973
+      },
+      {
+        "center": "15/4",
+        "panels": 156,
+        "seconds": 0.07163891700000002
+      },
+      {
+        "center": "9/2",
+        "panels": 162,
+        "seconds": 0.07392049999999983
+      },
+      {
+        "center": "21/4",
+        "panels": 156,
+        "seconds": 0.07189441700000021
+      },
+      {
+        "center": "6",
+        "panels": 220,
+        "seconds": 0.10220795800000015
+      }
+    ],
+    "best": {
+      "count": 14,
+      "turns": "[14.00000000000000000000000000000000000 +/- 8.57e-36]",
+      "panels": 134,
+      "max_ratio": 0.7163986895537212,
+      "attempts": 264,
+      "center": "3/4"
+    }
+  },
+  {
+    "name": "dominance_2_6",
+    "family": "dominance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 222,
+        "seconds": 0.09944508299999999
+      },
+      {
+        "center": "3/4",
+        "panels": 170,
+        "seconds": 0.07991733300000003
+      },
+      {
+        "center": "3/2",
+        "panels": 184,
+        "seconds": 0.081028125
+      },
+      {
+        "center": "9/4",
+        "panels": 196,
+        "seconds": 0.08771370799999989
+      },
+      {
+        "center": "3",
+        "panels": 214,
+        "seconds": 0.09495008399999971
+      },
+      {
+        "center": "15/4",
+        "panels": 204,
+        "seconds": 0.09166183299999986
+      },
+      {
+        "center": "9/2",
+        "panels": 202,
+        "seconds": 0.0901539170000003
+      },
+      {
+        "center": "21/4",
+        "panels": 192,
+        "seconds": 0.08670400000000011
+      },
+      {
+        "center": "6",
+        "panels": 252,
+        "seconds": 0.1123754159999999
+      }
+    ],
+    "best": {
+      "count": 14,
+      "turns": "[14.0000000000000000000000000000000000 +/- 1.07e-35]",
+      "panels": 170,
+      "max_ratio": 0.760225908447597,
+      "attempts": 336,
+      "center": "3/4"
+    }
+  },
+  {
+    "name": "clearance_10",
+    "family": "clearance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 70,
+        "seconds": 0.02505366699999989
+      },
+      {
+        "center": "1/4",
+        "panels": 64,
+        "seconds": 0.02298112500000027
+      },
+      {
+        "center": "1/2",
+        "panels": 56,
+        "seconds": 0.020043666000000293
+      },
+      {
+        "center": "3/4",
+        "panels": 48,
+        "seconds": 0.017384500000000358
+      },
+      {
+        "center": "1",
+        "panels": 40,
+        "seconds": 0.014359332999999808
+      },
+      {
+        "center": "5/4",
+        "panels": 46,
+        "seconds": 0.016830333000000586
+      },
+      {
+        "center": "3/2",
+        "panels": 52,
+        "seconds": 0.019143542000000124
+      },
+      {
+        "center": "7/4",
+        "panels": 56,
+        "seconds": 0.020310124999999957
+      },
+      {
+        "center": "2",
+        "panels": 68,
+        "seconds": 0.024807374999999965
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 3.30e-36]",
+      "panels": 40,
+      "max_ratio": 0.7722983526038496,
+      "attempts": 76,
+      "center": "1"
+    }
+  },
+  {
+    "name": "clearance_100",
+    "family": "clearance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 96,
+        "seconds": 0.035595833000000354
+      },
+      {
+        "center": "1/4",
+        "panels": 86,
+        "seconds": 0.03250629199999988
+      },
+      {
+        "center": "1/2",
+        "panels": 72,
+        "seconds": 0.026690582999999712
+      },
+      {
+        "center": "3/4",
+        "panels": 64,
+        "seconds": 0.023658457999999882
+      },
+      {
+        "center": "1",
+        "panels": 52,
+        "seconds": 0.01869179100000018
+      },
+      {
+        "center": "5/4",
+        "panels": 60,
+        "seconds": 0.022074166999999534
+      },
+      {
+        "center": "3/2",
+        "panels": 72,
+        "seconds": 0.026648999999999923
+      },
+      {
+        "center": "7/4",
+        "panels": 84,
+        "seconds": 0.03115058299999962
+      },
+      {
+        "center": "2",
+        "panels": 96,
+        "seconds": 0.035282416999999455
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.0000000000000000000000000000000000 +/- 2.60e-35]",
+      "panels": 52,
+      "max_ratio": 0.7722983526038496,
+      "attempts": 100,
+      "center": "1"
+    }
+  },
+  {
+    "name": "clearance_1000",
+    "family": "clearance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 116,
+        "seconds": 0.04251812499999996
+      },
+      {
+        "center": "1/4",
+        "panels": 104,
+        "seconds": 0.038767707999999956
+      },
+      {
+        "center": "1/2",
+        "panels": 88,
+        "seconds": 0.03261674999999986
+      },
+      {
+        "center": "3/4",
+        "panels": 76,
+        "seconds": 0.028401249999999933
+      },
+      {
+        "center": "1",
+        "panels": 66,
+        "seconds": 0.02427766699999978
+      },
+      {
+        "center": "5/4",
+        "panels": 76,
+        "seconds": 0.027899792000000367
+      },
+      {
+        "center": "3/2",
+        "panels": 92,
+        "seconds": 0.03481249999999925
+      },
+      {
+        "center": "7/4",
+        "panels": 112,
+        "seconds": 0.04233783299999949
+      },
+      {
+        "center": "2",
+        "panels": 124,
+        "seconds": 0.04504995899999997
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.000000000000000000000000000000000 +/- 2.55e-34]",
+      "panels": 66,
+      "max_ratio": 0.7722983526038496,
+      "attempts": 128,
+      "center": "1"
+    }
+  },
+  {
+    "name": "clearance_10000",
+    "family": "clearance",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 138,
+        "seconds": 0.04960679199999962
+      },
+      {
+        "center": "1/4",
+        "panels": 124,
+        "seconds": 0.04455262500000057
+      },
+      {
+        "center": "1/2",
+        "panels": 106,
+        "seconds": 0.037847249999999555
+      },
+      {
+        "center": "3/4",
+        "panels": 90,
+        "seconds": 0.03221591600000018
+      },
+      {
+        "center": "1",
+        "panels": 78,
+        "seconds": 0.027372125000000302
+      },
+      {
+        "center": "5/4",
+        "panels": 96,
+        "seconds": 0.03463716599999955
+      },
+      {
+        "center": "3/2",
+        "panels": 114,
+        "seconds": 0.04150991699999995
+      },
+      {
+        "center": "7/4",
+        "panels": 140,
+        "seconds": 0.052303124999999895
+      },
+      {
+        "center": "2",
+        "panels": 150,
+        "seconds": 0.05474258400000043
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000 +/- 2.30e-33]",
+      "panels": 78,
+      "max_ratio": 0.7722983526038496,
+      "attempts": 152,
+      "center": "1"
+    }
+  },
+  {
+    "name": "lattice_00",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 478,
+        "seconds": 0.25052058300000013
+      },
+      {
+        "center": "65/4",
+        "panels": 420,
+        "seconds": 0.22983954100000048
+      },
+      {
+        "center": "33/2",
+        "panels": 301,
+        "seconds": 0.16375245800000027
+      },
+      {
+        "center": "67/4",
+        "panels": 265,
+        "seconds": 0.13893716699999992
+      },
+      {
+        "center": "17",
+        "panels": 236,
+        "seconds": 0.12370145799999932
+      },
+      {
+        "center": "69/4",
+        "panels": 219,
+        "seconds": 0.11487916700000067
+      },
+      {
+        "center": "35/2",
+        "panels": 186,
+        "seconds": 0.0978833339999996
+      },
+      {
+        "center": "71/4",
+        "panels": 258,
+        "seconds": 0.138399583
+      },
+      {
+        "center": "18",
+        "panels": 291,
+        "seconds": 0.15327016600000043
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000 +/- 1.52e-33]",
+      "panels": 186,
+      "max_ratio": 0.7987854684933748,
+      "attempts": 368,
+      "center": "35/2"
+    }
+  },
+  {
+    "name": "lattice_01",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 110,
+        "seconds": 0.056849999999999845
+      },
+      {
+        "center": "17/4",
+        "panels": 97,
+        "seconds": 0.049983916000000406
+      },
+      {
+        "center": "9/2",
+        "panels": 86,
+        "seconds": 0.043913958000000086
+      },
+      {
+        "center": "19/4",
+        "panels": 75,
+        "seconds": 0.03824700000000014
+      },
+      {
+        "center": "5",
+        "panels": 70,
+        "seconds": 0.03493062499999944
+      },
+      {
+        "center": "21/4",
+        "panels": 71,
+        "seconds": 0.036161958000000105
+      },
+      {
+        "center": "11/2",
+        "panels": 79,
+        "seconds": 0.03992687499999992
+      },
+      {
+        "center": "23/4",
+        "panels": 98,
+        "seconds": 0.05002849999999981
+      },
+      {
+        "center": "6",
+        "panels": 107,
+        "seconds": 0.05499454100000012
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.0000000000000000000000000000000000 +/- 2.23e-35]",
+      "panels": 70,
+      "max_ratio": 0.7893569903492867,
+      "attempts": 136,
+      "center": "5"
+    }
+  },
+  {
+    "name": "lattice_02",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 268,
+        "seconds": 0.15596766699999964
+      },
+      {
+        "center": "21/4",
+        "panels": 258,
+        "seconds": 0.15188558299999944
+      },
+      {
+        "center": "13/2",
+        "panels": 260,
+        "seconds": 0.15271245799999988
+      },
+      {
+        "center": "31/4",
+        "panels": 286,
+        "seconds": 0.1678886670000006
+      },
+      {
+        "center": "9",
+        "panels": 256,
+        "seconds": 0.14998704199999935
+      },
+      {
+        "center": "41/4",
+        "panels": 329,
+        "seconds": 0.19524687500000049
+      },
+      {
+        "center": "23/2",
+        "panels": 359,
+        "seconds": 0.2113734590000007
+      },
+      {
+        "center": "51/4",
+        "panels": 371,
+        "seconds": 0.21836066700000067
+      },
+      {
+        "center": "14",
+        "panels": 424,
+        "seconds": 0.2587073750000002
+      }
+    ],
+    "best": {
+      "count": 20,
+      "turns": "[20.000000000000000000000000000000000 +/- 2.54e-34]",
+      "panels": 256,
+      "max_ratio": 0.797265621771358,
+      "attempts": 508,
+      "center": "9"
+    }
+  },
+  {
+    "name": "lattice_03",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 325,
+        "seconds": 0.20074149999999946
+      },
+      {
+        "center": "5/8",
+        "panels": 272,
+        "seconds": 0.1642442079999995
+      },
+      {
+        "center": "5/4",
+        "panels": 245,
+        "seconds": 0.15063045900000027
+      },
+      {
+        "center": "15/8",
+        "panels": 212,
+        "seconds": 0.12725787499999974
+      },
+      {
+        "center": "5/2",
+        "panels": 187,
+        "seconds": 0.11263875000000034
+      },
+      {
+        "center": "25/8",
+        "panels": 182,
+        "seconds": 0.1119621249999998
+      },
+      {
+        "center": "15/4",
+        "panels": 173,
+        "seconds": 0.10542008300000028
+      },
+      {
+        "center": "35/8",
+        "panels": 182,
+        "seconds": 0.10993220900000011
+      },
+      {
+        "center": "5",
+        "panels": 197,
+        "seconds": 0.11650770800000032
+      }
+    ],
+    "best": {
+      "count": 10,
+      "turns": "[10.000000000000000000000000000000000 +/- 6.88e-35]",
+      "panels": 173,
+      "max_ratio": 0.7990662885984324,
+      "attempts": 342,
+      "center": "15/4"
+    }
+  },
+  {
+    "name": "lattice_04",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 58,
+        "seconds": 0.021800542000001144
+      },
+      {
+        "center": "65/4",
+        "panels": 57,
+        "seconds": 0.02092400000000083
+      },
+      {
+        "center": "33/2",
+        "panels": 42,
+        "seconds": 0.015256916000000231
+      },
+      {
+        "center": "67/4",
+        "panels": 43,
+        "seconds": 0.01593429099999888
+      },
+      {
+        "center": "17",
+        "panels": 51,
+        "seconds": 0.01886554199999857
+      },
+      {
+        "center": "69/4",
+        "panels": 43,
+        "seconds": 0.016256374999999323
+      },
+      {
+        "center": "35/2",
+        "panels": 43,
+        "seconds": 0.01575037499999965
+      },
+      {
+        "center": "71/4",
+        "panels": 55,
+        "seconds": 0.020074042000000958
+      },
+      {
+        "center": "18",
+        "panels": 62,
+        "seconds": 0.024769750000000812
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 7.50e-36]",
+      "panels": 42,
+      "max_ratio": 0.7913375463052121,
+      "attempts": 80,
+      "center": "33/2"
+    }
+  },
+  {
+    "name": "lattice_05",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 199,
+        "seconds": 0.11927550000000053
+      },
+      {
+        "center": "5",
+        "panels": 191,
+        "seconds": 0.18325837499999942
+      },
+      {
+        "center": "6",
+        "panels": 146,
+        "seconds": 0.11386604199999972
+      },
+      {
+        "center": "7",
+        "panels": 144,
+        "seconds": 0.078451041000001
+      },
+      {
+        "center": "8",
+        "panels": 182,
+        "seconds": 0.09668954200000002
+      },
+      {
+        "center": "9",
+        "panels": 147,
+        "seconds": 0.08391487500000139
+      },
+      {
+        "center": "10",
+        "panels": 144,
+        "seconds": 0.07617012499999909
+      },
+      {
+        "center": "11",
+        "panels": 194,
+        "seconds": 0.10436929199999945
+      },
+      {
+        "center": "12",
+        "panels": 211,
+        "seconds": 0.11356383299999884
+      }
+    ],
+    "best": {
+      "count": 16,
+      "turns": "[16.0000000000000000000000000000000000 +/- 1.83e-35]",
+      "panels": 144,
+      "max_ratio": 0.7607793079277576,
+      "attempts": 284,
+      "center": "7"
+    }
+  },
+  {
+    "name": "lattice_06",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 62,
+        "seconds": 0.022703665999999956
+      },
+      {
+        "center": "1/4",
+        "panels": 55,
+        "seconds": 0.020133208000000735
+      },
+      {
+        "center": "1/2",
+        "panels": 50,
+        "seconds": 0.019046291000000437
+      },
+      {
+        "center": "3/4",
+        "panels": 45,
+        "seconds": 0.016971958000000953
+      },
+      {
+        "center": "1",
+        "panels": 54,
+        "seconds": 0.020464417000001234
+      },
+      {
+        "center": "5/4",
+        "panels": 48,
+        "seconds": 0.017605915999999056
+      },
+      {
+        "center": "3/2",
+        "panels": 49,
+        "seconds": 0.018884291999999192
+      },
+      {
+        "center": "7/4",
+        "panels": 65,
+        "seconds": 0.024512624999999844
+      },
+      {
+        "center": "2",
+        "panels": 67,
+        "seconds": 0.024919125000000264
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 3.94e-36]",
+      "panels": 45,
+      "max_ratio": 0.7941721839706839,
+      "attempts": 86,
+      "center": "3/4"
+    }
+  },
+  {
+    "name": "lattice_07",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 199,
+        "seconds": 0.10580062499999876
+      },
+      {
+        "center": "9/2",
+        "panels": 183,
+        "seconds": 0.09497587499999938
+      },
+      {
+        "center": "5",
+        "panels": 166,
+        "seconds": 0.0862820830000004
+      },
+      {
+        "center": "11/2",
+        "panels": 157,
+        "seconds": 0.08141441600000121
+      },
+      {
+        "center": "6",
+        "panels": 159,
+        "seconds": 0.08323741600000112
+      },
+      {
+        "center": "13/2",
+        "panels": 162,
+        "seconds": 0.0863168750000014
+      },
+      {
+        "center": "7",
+        "panels": 178,
+        "seconds": 0.09557662499999964
+      },
+      {
+        "center": "15/2",
+        "panels": 232,
+        "seconds": 0.12840120899999974
+      },
+      {
+        "center": "8",
+        "panels": 265,
+        "seconds": 0.14241141599999985
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.000000000000000000000000000000000 +/- 4.27e-34]",
+      "panels": 157,
+      "max_ratio": 0.7996315472026472,
+      "attempts": 310,
+      "center": "11/2"
+    }
+  },
+  {
+    "name": "lattice_08",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 37,
+        "seconds": 0.01629691599999994
+      },
+      {
+        "center": "259/16",
+        "panels": 33,
+        "seconds": 0.014664166000001089
+      },
+      {
+        "center": "131/8",
+        "panels": 26,
+        "seconds": 0.011518624999999005
+      },
+      {
+        "center": "265/16",
+        "panels": 25,
+        "seconds": 0.01070949999999904
+      },
+      {
+        "center": "67/4",
+        "panels": 30,
+        "seconds": 0.013334000000000401
+      },
+      {
+        "center": "271/16",
+        "panels": 38,
+        "seconds": 0.016436208000000008
+      },
+      {
+        "center": "137/8",
+        "panels": 43,
+        "seconds": 0.018977915999998984
+      },
+      {
+        "center": "277/16",
+        "panels": 59,
+        "seconds": 0.026233833000000928
+      },
+      {
+        "center": "35/2",
+        "panels": 71,
+        "seconds": 0.03186841600000001
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 4.41e-36]",
+      "panels": 25,
+      "max_ratio": 0.7553819940893368,
+      "attempts": 46,
+      "center": "265/16"
+    }
+  },
+  {
+    "name": "lattice_09",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 79,
+        "seconds": 0.035437500000000455
+      },
+      {
+        "center": "35/8",
+        "panels": 67,
+        "seconds": 0.03035970800000065
+      },
+      {
+        "center": "19/4",
+        "panels": 65,
+        "seconds": 0.02860908300000098
+      },
+      {
+        "center": "41/8",
+        "panels": 70,
+        "seconds": 0.030730916999999636
+      },
+      {
+        "center": "11/2",
+        "panels": 63,
+        "seconds": 0.0276217919999997
+      },
+      {
+        "center": "47/8",
+        "panels": 68,
+        "seconds": 0.029940375000000685
+      },
+      {
+        "center": "25/4",
+        "panels": 73,
+        "seconds": 0.031972166999999274
+      },
+      {
+        "center": "53/8",
+        "panels": 69,
+        "seconds": 0.030655625000001407
+      },
+      {
+        "center": "7",
+        "panels": 84,
+        "seconds": 0.03727145800000109
+      }
+    ],
+    "best": {
+      "count": 6,
+      "turns": "[6.00000000000000000000000000000000000 +/- 7.67e-36]",
+      "panels": 63,
+      "max_ratio": 0.797726298450048,
+      "attempts": 122,
+      "center": "11/2"
+    }
+  },
+  {
+    "name": "lattice_10",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 111,
+        "seconds": 0.058146958000000026
+      },
+      {
+        "center": "1/2",
+        "panels": 100,
+        "seconds": 0.05241899999999866
+      },
+      {
+        "center": "1",
+        "panels": 87,
+        "seconds": 0.04584916700000008
+      },
+      {
+        "center": "3/2",
+        "panels": 88,
+        "seconds": 0.04601283299999892
+      },
+      {
+        "center": "2",
+        "panels": 88,
+        "seconds": 0.04606937500000008
+      },
+      {
+        "center": "5/2",
+        "panels": 84,
+        "seconds": 0.04448262499999878
+      },
+      {
+        "center": "3",
+        "panels": 99,
+        "seconds": 0.05131924999999882
+      },
+      {
+        "center": "7/2",
+        "panels": 115,
+        "seconds": 0.06055700000000108
+      },
+      {
+        "center": "4",
+        "panels": 123,
+        "seconds": 0.065504958
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.00000000000000000000000000000000000 +/- 9.14e-36]",
+      "panels": 84,
+      "max_ratio": 0.7918161392451734,
+      "attempts": 164,
+      "center": "5/2"
+    }
+  },
+  {
+    "name": "lattice_11",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 212,
+        "seconds": 0.11210454200000086
+      },
+      {
+        "center": "5",
+        "panels": 197,
+        "seconds": 0.10311879200000007
+      },
+      {
+        "center": "6",
+        "panels": 143,
+        "seconds": 0.07526062499999853
+      },
+      {
+        "center": "7",
+        "panels": 148,
+        "seconds": 0.07853250000000145
+      },
+      {
+        "center": "8",
+        "panels": 182,
+        "seconds": 0.09652216699999983
+      },
+      {
+        "center": "9",
+        "panels": 143,
+        "seconds": 0.07575458300000015
+      },
+      {
+        "center": "10",
+        "panels": 165,
+        "seconds": 0.0870027499999999
+      },
+      {
+        "center": "11",
+        "panels": 193,
+        "seconds": 0.10078633300000028
+      },
+      {
+        "center": "12",
+        "panels": 197,
+        "seconds": 0.10479587500000065
+      }
+    ],
+    "best": {
+      "count": 16,
+      "turns": "[16.0000000000000000000000000000000000 +/- 1.90e-35]",
+      "panels": 143,
+      "max_ratio": 0.7984609454647391,
+      "attempts": 282,
+      "center": "6"
+    }
+  },
+  {
+    "name": "lattice_12",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 315,
+        "seconds": 0.14399220900000032
+      },
+      {
+        "center": "131/8",
+        "panels": 258,
+        "seconds": 0.11811362500000122
+      },
+      {
+        "center": "67/4",
+        "panels": 212,
+        "seconds": 0.09676925000000125
+      },
+      {
+        "center": "137/8",
+        "panels": 185,
+        "seconds": 0.0845352909999999
+      },
+      {
+        "center": "35/2",
+        "panels": 176,
+        "seconds": 0.08643849999999986
+      },
+      {
+        "center": "143/8",
+        "panels": 177,
+        "seconds": 0.08029200000000003
+      },
+      {
+        "center": "73/4",
+        "panels": 202,
+        "seconds": 0.09224558300000041
+      },
+      {
+        "center": "149/8",
+        "panels": 245,
+        "seconds": 0.11007254200000105
+      },
+      {
+        "center": "19",
+        "panels": 298,
+        "seconds": 0.1337822089999996
+      }
+    ],
+    "best": {
+      "count": 6,
+      "turns": "[6.000000000000000000000000000000000 +/- 2.60e-34]",
+      "panels": 176,
+      "max_ratio": 0.7995280835377371,
+      "attempts": 348,
+      "center": "35/2"
+    }
+  },
+  {
+    "name": "lattice_13",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 33,
+        "seconds": 0.011717959000000278
+      },
+      {
+        "center": "129/8",
+        "panels": 31,
+        "seconds": 0.011205708000000314
+      },
+      {
+        "center": "65/4",
+        "panels": 26,
+        "seconds": 0.009416832999999514
+      },
+      {
+        "center": "131/8",
+        "panels": 21,
+        "seconds": 0.007278250000000597
+      },
+      {
+        "center": "33/2",
+        "panels": 22,
+        "seconds": 0.007796750000000685
+      },
+      {
+        "center": "133/8",
+        "panels": 23,
+        "seconds": 0.008260041999999856
+      },
+      {
+        "center": "67/4",
+        "panels": 26,
+        "seconds": 0.009548791000000278
+      },
+      {
+        "center": "135/8",
+        "panels": 29,
+        "seconds": 0.010186666999999261
+      },
+      {
+        "center": "17",
+        "panels": 36,
+        "seconds": 0.012911750000000666
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 2.93e-36]",
+      "panels": 21,
+      "max_ratio": 0.7993973630903415,
+      "attempts": 38,
+      "center": "131/8"
+    }
+  },
+  {
+    "name": "lattice_14",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 86,
+        "seconds": 0.03745404100000016
+      },
+      {
+        "center": "3/8",
+        "panels": 72,
+        "seconds": 0.032202041999999764
+      },
+      {
+        "center": "3/4",
+        "panels": 69,
+        "seconds": 0.030059375000000443
+      },
+      {
+        "center": "9/8",
+        "panels": 66,
+        "seconds": 0.028840750000000526
+      },
+      {
+        "center": "3/2",
+        "panels": 64,
+        "seconds": 0.02748320800000137
+      },
+      {
+        "center": "15/8",
+        "panels": 66,
+        "seconds": 0.028591249999999846
+      },
+      {
+        "center": "9/4",
+        "panels": 65,
+        "seconds": 0.02849658400000088
+      },
+      {
+        "center": "21/8",
+        "panels": 71,
+        "seconds": 0.031397583000000395
+      },
+      {
+        "center": "3",
+        "panels": 87,
+        "seconds": 0.03899704200000009
+      }
+    ],
+    "best": {
+      "count": 6,
+      "turns": "[6.00000000000000000000000000000000000 +/- 4.15e-36]",
+      "panels": 64,
+      "max_ratio": 0.7996439317188049,
+      "attempts": 124,
+      "center": "3/2"
+    }
+  },
+  {
+    "name": "lattice_15",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 158,
+        "seconds": 0.0696990839999998
+      },
+      {
+        "center": "3/4",
+        "panels": 152,
+        "seconds": 0.06834412499999942
+      },
+      {
+        "center": "3/2",
+        "panels": 158,
+        "seconds": 0.06995633300000037
+      },
+      {
+        "center": "9/4",
+        "panels": 178,
+        "seconds": 0.07890612500000138
+      },
+      {
+        "center": "3",
+        "panels": 135,
+        "seconds": 0.05921595799999935
+      },
+      {
+        "center": "15/4",
+        "panels": 179,
+        "seconds": 0.07868558300000039
+      },
+      {
+        "center": "9/2",
+        "panels": 163,
+        "seconds": 0.07171499999999931
+      },
+      {
+        "center": "21/4",
+        "panels": 158,
+        "seconds": 0.07027616599999931
+      },
+      {
+        "center": "6",
+        "panels": 163,
+        "seconds": 0.07117612500000092
+      }
+    ],
+    "best": {
+      "count": 12,
+      "turns": "[12.000000000000000000000000000000000 +/- 1.57e-34]",
+      "panels": 135,
+      "max_ratio": 0.7799550797783437,
+      "attempts": 266,
+      "center": "3"
+    }
+  },
+  {
+    "name": "lattice_16",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 392,
+        "seconds": 0.20247783299999966
+      },
+      {
+        "center": "1/4",
+        "panels": 314,
+        "seconds": 0.1649834169999984
+      },
+      {
+        "center": "1/2",
+        "panels": 245,
+        "seconds": 0.12712912499999973
+      },
+      {
+        "center": "3/4",
+        "panels": 193,
+        "seconds": 0.09988816699999958
+      },
+      {
+        "center": "1",
+        "panels": 134,
+        "seconds": 0.06838904199999973
+      },
+      {
+        "center": "5/4",
+        "panels": 136,
+        "seconds": 0.06989112500000161
+      },
+      {
+        "center": "3/2",
+        "panels": 133,
+        "seconds": 0.06932991700000102
+      },
+      {
+        "center": "7/4",
+        "panels": 196,
+        "seconds": 0.10527379100000189
+      },
+      {
+        "center": "2",
+        "panels": 259,
+        "seconds": 0.13615420800000066
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.000000000000000000000000000000000 +/- 2.03e-34]",
+      "panels": 133,
+      "max_ratio": 0.7998487455366489,
+      "attempts": 262,
+      "center": "3/2"
+    }
+  },
+  {
+    "name": "lattice_17",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 93,
+        "seconds": 0.04756295800000032
+      },
+      {
+        "center": "17/4",
+        "panels": 83,
+        "seconds": 0.043191082999999963
+      },
+      {
+        "center": "9/2",
+        "panels": 75,
+        "seconds": 0.038995666999998235
+      },
+      {
+        "center": "19/4",
+        "panels": 69,
+        "seconds": 0.03549200000000141
+      },
+      {
+        "center": "5",
+        "panels": 74,
+        "seconds": 0.037375000000000824
+      },
+      {
+        "center": "21/4",
+        "panels": 84,
+        "seconds": 0.04302712499999828
+      },
+      {
+        "center": "11/2",
+        "panels": 108,
+        "seconds": 0.0561071670000004
+      },
+      {
+        "center": "23/4",
+        "panels": 133,
+        "seconds": 0.07361116699999926
+      },
+      {
+        "center": "6",
+        "panels": 157,
+        "seconds": 0.08246600000000015
+      }
+    ],
+    "best": {
+      "count": 3,
+      "turns": "[3.0000000000000000000000000000000000 +/- 3.96e-35]",
+      "panels": 69,
+      "max_ratio": 0.7868777036053477,
+      "attempts": 134,
+      "center": "19/4"
+    }
+  },
+  {
+    "name": "lattice_18",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 127,
+        "seconds": 0.07875300000000252
+      },
+      {
+        "center": "69/16",
+        "panels": 100,
+        "seconds": 0.06239695800000078
+      },
+      {
+        "center": "37/8",
+        "panels": 85,
+        "seconds": 0.05188041699999957
+      },
+      {
+        "center": "79/16",
+        "panels": 75,
+        "seconds": 0.04675754100000162
+      },
+      {
+        "center": "21/4",
+        "panels": 66,
+        "seconds": 0.03966404200000184
+      },
+      {
+        "center": "89/16",
+        "panels": 71,
+        "seconds": 0.04226058400000099
+      },
+      {
+        "center": "47/8",
+        "panels": 71,
+        "seconds": 0.042560832999999576
+      },
+      {
+        "center": "99/16",
+        "panels": 83,
+        "seconds": 0.050223042000002494
+      },
+      {
+        "center": "13/2",
+        "panels": 97,
+        "seconds": 0.057934582999997986
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.0000000000000000000000000000000000 +/- 1.36e-35]",
+      "panels": 66,
+      "max_ratio": 0.7962537336333997,
+      "attempts": 128,
+      "center": "21/4"
+    }
+  },
+  {
+    "name": "lattice_19",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 101,
+        "seconds": 0.038991165999998856
+      },
+      {
+        "center": "33/2",
+        "panels": 97,
+        "seconds": 0.034910458999998895
+      },
+      {
+        "center": "17",
+        "panels": 76,
+        "seconds": 0.027652667000001685
+      },
+      {
+        "center": "35/2",
+        "panels": 76,
+        "seconds": 0.02752783299999706
+      },
+      {
+        "center": "18",
+        "panels": 99,
+        "seconds": 0.037379292000000675
+      },
+      {
+        "center": "37/2",
+        "panels": 77,
+        "seconds": 0.028693374999999577
+      },
+      {
+        "center": "19",
+        "panels": 77,
+        "seconds": 0.029397291999998743
+      },
+      {
+        "center": "39/2",
+        "panels": 101,
+        "seconds": 0.03742170800000011
+      },
+      {
+        "center": "20",
+        "panels": 111,
+        "seconds": 0.04103154100000239
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.0000000000000000000000000000000000 +/- 1.11e-35]",
+      "panels": 76,
+      "max_ratio": 0.7573881174145645,
+      "attempts": 148,
+      "center": "17"
+    }
+  },
+  {
+    "name": "lattice_20",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 511,
+        "seconds": 0.3137535000000007
+      },
+      {
+        "center": "69/16",
+        "panels": 416,
+        "seconds": 0.25380133400000204
+      },
+      {
+        "center": "37/8",
+        "panels": 292,
+        "seconds": 0.18950666699999985
+      },
+      {
+        "center": "79/16",
+        "panels": 216,
+        "seconds": 0.13966691599999947
+      },
+      {
+        "center": "21/4",
+        "panels": 215,
+        "seconds": 0.2538722910000004
+      },
+      {
+        "center": "89/16",
+        "panels": 245,
+        "seconds": 0.19832237500000005
+      },
+      {
+        "center": "47/8",
+        "panels": 340,
+        "seconds": 0.22270445799999905
+      },
+      {
+        "center": "99/16",
+        "panels": 442,
+        "seconds": 0.2813299580000006
+      },
+      {
+        "center": "13/2",
+        "panels": 542,
+        "seconds": 0.34604545899999906
+      }
+    ],
+    "best": {
+      "count": 3,
+      "turns": "[3.000000000000000000000000000000000 +/- 8.70e-34]",
+      "panels": 215,
+      "max_ratio": 0.796162684981914,
+      "attempts": 426,
+      "center": "21/4"
+    }
+  },
+  {
+    "name": "lattice_21",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 51,
+        "seconds": 0.019471125000002587
+      },
+      {
+        "center": "1/4",
+        "panels": 41,
+        "seconds": 0.01531666700000045
+      },
+      {
+        "center": "1/2",
+        "panels": 43,
+        "seconds": 0.016056917000000226
+      },
+      {
+        "center": "3/4",
+        "panels": 41,
+        "seconds": 0.015119834000000054
+      },
+      {
+        "center": "1",
+        "panels": 40,
+        "seconds": 0.014644624999998967
+      },
+      {
+        "center": "5/4",
+        "panels": 41,
+        "seconds": 0.015141917000001115
+      },
+      {
+        "center": "3/2",
+        "panels": 46,
+        "seconds": 0.017098290999999932
+      },
+      {
+        "center": "7/4",
+        "panels": 56,
+        "seconds": 0.02065579199999945
+      },
+      {
+        "center": "2",
+        "panels": 59,
+        "seconds": 0.02221687500000158
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 1.53e-36]",
+      "panels": 40,
+      "max_ratio": 0.7890195997955778,
+      "attempts": 76,
+      "center": "1"
+    }
+  },
+  {
+    "name": "lattice_22",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 1223,
+        "seconds": 0.7495999999999974
+      },
+      {
+        "center": "21/4",
+        "panels": 1080,
+        "seconds": 0.6729676670000018
+      },
+      {
+        "center": "13/2",
+        "panels": 944,
+        "seconds": 0.584121249999999
+      },
+      {
+        "center": "31/4",
+        "panels": 800,
+        "seconds": 0.4978380419999979
+      },
+      {
+        "center": "9",
+        "panels": 869,
+        "seconds": 0.5356171249999981
+      },
+      {
+        "center": "41/4",
+        "panels": 1045,
+        "seconds": 0.6500628339999999
+      },
+      {
+        "center": "23/2",
+        "panels": 1162,
+        "seconds": 0.7197192919999971
+      },
+      {
+        "center": "51/4",
+        "panels": 1254,
+        "seconds": 0.7836560410000004
+      },
+      {
+        "center": "14",
+        "panels": 1637,
+        "seconds": 1.0231456660000013
+      }
+    ],
+    "best": {
+      "count": 20,
+      "turns": "[20.0000000000000000000000000000000 +/- 4.30e-32]",
+      "panels": 800,
+      "max_ratio": 0.7998789956702209,
+      "attempts": 1596,
+      "center": "31/4"
+    }
+  },
+  {
+    "name": "lattice_23",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 112,
+        "seconds": 0.07061904199999702
+      },
+      {
+        "center": "261/16",
+        "panels": 99,
+        "seconds": 0.06390425000000022
+      },
+      {
+        "center": "133/8",
+        "panels": 89,
+        "seconds": 0.05702237499999896
+      },
+      {
+        "center": "271/16",
+        "panels": 85,
+        "seconds": 0.05333629100000081
+      },
+      {
+        "center": "69/4",
+        "panels": 97,
+        "seconds": 0.0594659170000007
+      },
+      {
+        "center": "281/16",
+        "panels": 123,
+        "seconds": 0.07685575
+      },
+      {
+        "center": "143/8",
+        "panels": 148,
+        "seconds": 0.09286716699999786
+      },
+      {
+        "center": "291/16",
+        "panels": 168,
+        "seconds": 0.10296149999999926
+      },
+      {
+        "center": "37/2",
+        "panels": 206,
+        "seconds": 0.12413266699999781
+      }
+    ],
+    "best": {
+      "count": 1,
+      "turns": "[1.00000000000000000000000000000000 +/- 1.34e-34]",
+      "panels": 85,
+      "max_ratio": 0.7870000307616352,
+      "attempts": 166,
+      "center": "271/16"
+    }
+  },
+  {
+    "name": "lattice_24",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 143,
+        "seconds": 0.08693479199999743
+      },
+      {
+        "center": "133/8",
+        "panels": 128,
+        "seconds": 0.07708808299999959
+      },
+      {
+        "center": "69/4",
+        "panels": 129,
+        "seconds": 0.07812200000000047
+      },
+      {
+        "center": "143/8",
+        "panels": 131,
+        "seconds": 0.0791343330000025
+      },
+      {
+        "center": "37/2",
+        "panels": 114,
+        "seconds": 0.06929874999999797
+      },
+      {
+        "center": "153/8",
+        "panels": 132,
+        "seconds": 0.07981312500000115
+      },
+      {
+        "center": "79/4",
+        "panels": 138,
+        "seconds": 0.08331554200000113
+      },
+      {
+        "center": "163/8",
+        "panels": 139,
+        "seconds": 0.08446883399999905
+      },
+      {
+        "center": "21",
+        "panels": 144,
+        "seconds": 0.0865700839999981
+      }
+    ],
+    "best": {
+      "count": 10,
+      "turns": "[10.000000000000000000000000000000000 +/- 2.81e-35]",
+      "panels": 114,
+      "max_ratio": 0.7850066865038393,
+      "attempts": 224,
+      "center": "37/2"
+    }
+  },
+  {
+    "name": "lattice_25",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 89,
+        "seconds": 0.03462245899999772
+      },
+      {
+        "center": "17/4",
+        "panels": 82,
+        "seconds": 0.0317960829999997
+      },
+      {
+        "center": "9/2",
+        "panels": 70,
+        "seconds": 0.026466583000001265
+      },
+      {
+        "center": "19/4",
+        "panels": 67,
+        "seconds": 0.02507720800000257
+      },
+      {
+        "center": "5",
+        "panels": 60,
+        "seconds": 0.022440207999999018
+      },
+      {
+        "center": "21/4",
+        "panels": 63,
+        "seconds": 0.023817541999999747
+      },
+      {
+        "center": "11/2",
+        "panels": 77,
+        "seconds": 0.028990374999999347
+      },
+      {
+        "center": "23/4",
+        "panels": 91,
+        "seconds": 0.0344976250000002
+      },
+      {
+        "center": "6",
+        "panels": 97,
+        "seconds": 0.03677066699999898
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.0000000000000000000000000000000000 +/- 1.22e-35]",
+      "panels": 60,
+      "max_ratio": 0.764545699247593,
+      "attempts": 116,
+      "center": "5"
+    }
+  },
+  {
+    "name": "lattice_26",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 205,
+        "seconds": 0.12496304200000097
+      },
+      {
+        "center": "5/4",
+        "panels": 207,
+        "seconds": 0.12363004099999841
+      },
+      {
+        "center": "5/2",
+        "panels": 216,
+        "seconds": 0.1382984580000013
+      },
+      {
+        "center": "15/4",
+        "panels": 216,
+        "seconds": 0.13064725000000266
+      },
+      {
+        "center": "5",
+        "panels": 182,
+        "seconds": 0.10951404100000062
+      },
+      {
+        "center": "25/4",
+        "panels": 222,
+        "seconds": 0.1351365830000013
+      },
+      {
+        "center": "15/2",
+        "panels": 223,
+        "seconds": 0.13471195800000046
+      },
+      {
+        "center": "35/4",
+        "panels": 220,
+        "seconds": 0.1342026249999968
+      },
+      {
+        "center": "10",
+        "panels": 218,
+        "seconds": 0.1322594170000002
+      }
+    ],
+    "best": {
+      "count": 20,
+      "turns": "[20.0000000000000000000000000000000000 +/- 1.82e-35]",
+      "panels": 182,
+      "max_ratio": 0.7861340734449164,
+      "attempts": 360,
+      "center": "5"
+    }
+  },
+  {
+    "name": "lattice_27",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 318,
+        "seconds": 0.14610262500000104
+      },
+      {
+        "center": "259/16",
+        "panels": 269,
+        "seconds": 0.12584804100000113
+      },
+      {
+        "center": "131/8",
+        "panels": 191,
+        "seconds": 0.08987079099999917
+      },
+      {
+        "center": "265/16",
+        "panels": 165,
+        "seconds": 0.07665766599999913
+      },
+      {
+        "center": "67/4",
+        "panels": 156,
+        "seconds": 0.07156575000000132
+      },
+      {
+        "center": "271/16",
+        "panels": 146,
+        "seconds": 0.06895441700000049
+      },
+      {
+        "center": "137/8",
+        "panels": 179,
+        "seconds": 0.08082691699999955
+      },
+      {
+        "center": "277/16",
+        "panels": 214,
+        "seconds": 0.09586762500000034
+      },
+      {
+        "center": "35/2",
+        "panels": 276,
+        "seconds": 0.13528849999999792
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.000000000000000000000000000000000 +/- 1.76e-34]",
+      "panels": 146,
+      "max_ratio": 0.7998680039736004,
+      "attempts": 288,
+      "center": "271/16"
+    }
+  },
+  {
+    "name": "lattice_28",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 112,
+        "seconds": 0.06234099999999998
+      },
+      {
+        "center": "65/4",
+        "panels": 81,
+        "seconds": 0.04474299999999687
+      },
+      {
+        "center": "33/2",
+        "panels": 68,
+        "seconds": 0.036514416999999355
+      },
+      {
+        "center": "67/4",
+        "panels": 64,
+        "seconds": 0.034067666000002106
+      },
+      {
+        "center": "17",
+        "panels": 51,
+        "seconds": 0.02713279199999974
+      },
+      {
+        "center": "69/4",
+        "panels": 56,
+        "seconds": 0.02946666699999767
+      },
+      {
+        "center": "35/2",
+        "panels": 58,
+        "seconds": 0.030345207999999957
+      },
+      {
+        "center": "71/4",
+        "panels": 73,
+        "seconds": 0.03858445899999907
+      },
+      {
+        "center": "18",
+        "panels": 96,
+        "seconds": 0.05044816700000254
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.0000000000000000000000000000000000 +/- 2.35e-35]",
+      "panels": 51,
+      "max_ratio": 0.7900365108777534,
+      "attempts": 98,
+      "center": "17"
+    }
+  },
+  {
+    "name": "lattice_29",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 210,
+        "seconds": 0.1274520420000016
+      },
+      {
+        "center": "21/4",
+        "panels": 218,
+        "seconds": 0.1342136659999973
+      },
+      {
+        "center": "13/2",
+        "panels": 221,
+        "seconds": 0.1376437079999988
+      },
+      {
+        "center": "31/4",
+        "panels": 218,
+        "seconds": 0.1342832499999993
+      },
+      {
+        "center": "9",
+        "panels": 191,
+        "seconds": 0.11571929100000133
+      },
+      {
+        "center": "41/4",
+        "panels": 225,
+        "seconds": 0.13946525000000065
+      },
+      {
+        "center": "23/2",
+        "panels": 229,
+        "seconds": 0.14179837500000048
+      },
+      {
+        "center": "51/4",
+        "panels": 224,
+        "seconds": 0.13770187499999764
+      },
+      {
+        "center": "14",
+        "panels": 216,
+        "seconds": 0.12954454199999788
+      }
+    ],
+    "best": {
+      "count": 20,
+      "turns": "[20.0000000000000000000000000000000000 +/- 3.17e-35]",
+      "panels": 191,
+      "max_ratio": 0.6929712172669743,
+      "attempts": 378,
+      "center": "9"
+    }
+  },
+  {
+    "name": "lattice_30",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 103,
+        "seconds": 0.05352866699999481
+      },
+      {
+        "center": "9/2",
+        "panels": 97,
+        "seconds": 0.051065790999999194
+      },
+      {
+        "center": "5",
+        "panels": 90,
+        "seconds": 0.04730179099999532
+      },
+      {
+        "center": "11/2",
+        "panels": 91,
+        "seconds": 0.04682570800000008
+      },
+      {
+        "center": "6",
+        "panels": 88,
+        "seconds": 0.04507545899999599
+      },
+      {
+        "center": "13/2",
+        "panels": 87,
+        "seconds": 0.044822791999997946
+      },
+      {
+        "center": "7",
+        "panels": 94,
+        "seconds": 0.04799195900000086
+      },
+      {
+        "center": "15/2",
+        "panels": 105,
+        "seconds": 0.05391404200000238
+      },
+      {
+        "center": "8",
+        "panels": 116,
+        "seconds": 0.05957691700000112
+      }
+    ],
+    "best": {
+      "count": 8,
+      "turns": "[8.0000000000000000000000000000000000 +/- 1.15e-35]",
+      "panels": 87,
+      "max_ratio": 0.7772065841317547,
+      "attempts": 170,
+      "center": "13/2"
+    }
+  },
+  {
+    "name": "lattice_31",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "0",
+        "panels": 180,
+        "seconds": 0.11002925000000374
+      },
+      {
+        "center": "5/16",
+        "panels": 146,
+        "seconds": 0.0895030410000004
+      },
+      {
+        "center": "5/8",
+        "panels": 114,
+        "seconds": 0.06813999999999965
+      },
+      {
+        "center": "15/16",
+        "panels": 105,
+        "seconds": 0.06311837499999484
+      },
+      {
+        "center": "5/4",
+        "panels": 105,
+        "seconds": 0.06209083299999918
+      },
+      {
+        "center": "25/16",
+        "panels": 136,
+        "seconds": 0.08159633300000024
+      },
+      {
+        "center": "15/8",
+        "panels": 171,
+        "seconds": 0.10426983300000359
+      },
+      {
+        "center": "35/16",
+        "panels": 213,
+        "seconds": 0.1293876659999995
+      },
+      {
+        "center": "5/2",
+        "panels": 260,
+        "seconds": 0.15519145800000445
+      }
+    ],
+    "best": {
+      "count": 3,
+      "turns": "[3.000000000000000000000000000000000 +/- 2.88e-34]",
+      "panels": 105,
+      "max_ratio": 0.7959147693549661,
+      "attempts": 206,
+      "center": "15/16"
+    }
+  },
+  {
+    "name": "lattice_32",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 55,
+        "seconds": 0.020526750000001925
+      },
+      {
+        "center": "65/4",
+        "panels": 53,
+        "seconds": 0.01974854200000209
+      },
+      {
+        "center": "33/2",
+        "panels": 45,
+        "seconds": 0.016439208999997845
+      },
+      {
+        "center": "67/4",
+        "panels": 38,
+        "seconds": 0.013750915999999336
+      },
+      {
+        "center": "17",
+        "panels": 40,
+        "seconds": 0.014588332999998954
+      },
+      {
+        "center": "69/4",
+        "panels": 41,
+        "seconds": 0.014932542000003934
+      },
+      {
+        "center": "35/2",
+        "panels": 42,
+        "seconds": 0.015243541000003802
+      },
+      {
+        "center": "71/4",
+        "panels": 48,
+        "seconds": 0.01753545799999756
+      },
+      {
+        "center": "18",
+        "panels": 48,
+        "seconds": 0.017399541999999713
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 5.16e-36]",
+      "panels": 38,
+      "max_ratio": 0.7678386474589145,
+      "attempts": 72,
+      "center": "67/4"
+    }
+  },
+  {
+    "name": "lattice_33",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "4",
+        "panels": 3287,
+        "seconds": 2.093012625
+      },
+      {
+        "center": "37/8",
+        "panels": 2665,
+        "seconds": 1.7339837079999967
+      },
+      {
+        "center": "21/4",
+        "panels": 1735,
+        "seconds": 1.0913428750000023
+      },
+      {
+        "center": "47/8",
+        "panels": 1422,
+        "seconds": 0.8725723749999972
+      },
+      {
+        "center": "13/2",
+        "panels": 1526,
+        "seconds": 0.9333349159999997
+      },
+      {
+        "center": "57/8",
+        "panels": 1879,
+        "seconds": 1.1457842920000019
+      },
+      {
+        "center": "31/4",
+        "panels": 2798,
+        "seconds": 1.7142137089999991
+      },
+      {
+        "center": "67/8",
+        "panels": 3426,
+        "seconds": 2.0978751250000016
+      },
+      {
+        "center": "9",
+        "panels": 4307,
+        "seconds": 2.6221137080000005
+      }
+    ],
+    "best": {
+      "count": 10,
+      "turns": "[10.00000000000000000000000000000 +/- 4.19e-31]",
+      "panels": 1422,
+      "max_ratio": 0.7999863774026844,
+      "attempts": 2840,
+      "center": "47/8"
+    }
+  },
+  {
+    "name": "lattice_34",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 186,
+        "seconds": 0.11226487500000104
+      },
+      {
+        "center": "133/8",
+        "panels": 165,
+        "seconds": 0.10013970900000402
+      },
+      {
+        "center": "69/4",
+        "panels": 155,
+        "seconds": 0.09323924999999633
+      },
+      {
+        "center": "143/8",
+        "panels": 153,
+        "seconds": 0.09099095799999901
+      },
+      {
+        "center": "37/2",
+        "panels": 154,
+        "seconds": 0.09268845899999434
+      },
+      {
+        "center": "153/8",
+        "panels": 163,
+        "seconds": 0.10027845800000534
+      },
+      {
+        "center": "79/4",
+        "panels": 170,
+        "seconds": 0.10379279200000013
+      },
+      {
+        "center": "163/8",
+        "panels": 192,
+        "seconds": 0.11729512499999828
+      },
+      {
+        "center": "21",
+        "panels": 215,
+        "seconds": 0.13018358299999733
+      }
+    ],
+    "best": {
+      "count": 10,
+      "turns": "[10.000000000000000000000000000000000 +/- 3.95e-35]",
+      "panels": 153,
+      "max_ratio": 0.7990320801326308,
+      "attempts": 302,
+      "center": "143/8"
+    }
+  },
+  {
+    "name": "lattice_35",
+    "family": "lattice",
+    "trials": [
+      {
+        "center": "16",
+        "panels": 83,
+        "seconds": 0.03771137500000066
+      },
+      {
+        "center": "131/8",
+        "panels": 78,
+        "seconds": 0.03491520899999756
+      },
+      {
+        "center": "67/4",
+        "panels": 73,
+        "seconds": 0.03217766699999913
+      },
+      {
+        "center": "137/8",
+        "panels": 75,
+        "seconds": 0.0331658329999982
+      },
+      {
+        "center": "35/2",
+        "panels": 65,
+        "seconds": 0.029559042000002478
+      },
+      {
+        "center": "143/8",
+        "panels": 74,
+        "seconds": 0.03277270799999599
+      },
+      {
+        "center": "73/4",
+        "panels": 80,
+        "seconds": 0.035140249999997764
+      },
+      {
+        "center": "149/8",
+        "panels": 83,
+        "seconds": 0.03741983300000129
+      },
+      {
+        "center": "19",
+        "panels": 88,
+        "seconds": 0.03981299999999521
+      }
+    ],
+    "best": {
+      "count": 6,
+      "turns": "[6.0000000000000000000000000000000000 +/- 1.46e-35]",
+      "panels": 65,
+      "max_ratio": 0.7911151673373252,
+      "attempts": 126,
+      "center": "35/2"
+    }
+  },
+  {
+    "name": "delay_1-2_1-2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 72,
+        "seconds": 0.022740999999996347
+      },
+      {
+        "center": "-7/16",
+        "panels": 68,
+        "seconds": 0.02122708400000306
+      },
+      {
+        "center": "-3/8",
+        "panels": 50,
+        "seconds": 0.01551433400000235
+      },
+      {
+        "center": "-5/16",
+        "panels": 42,
+        "seconds": 0.013355165999996643
+      },
+      {
+        "center": "-1/4",
+        "panels": 38,
+        "seconds": 0.011666832999999599
+      },
+      {
+        "center": "-3/16",
+        "panels": 38,
+        "seconds": 0.01157324999999787
+      },
+      {
+        "center": "-1/8",
+        "panels": 26,
+        "seconds": 0.007834166999998615
+      },
+      {
+        "center": "-1/16",
+        "panels": 24,
+        "seconds": 0.0073477500000009854
+      },
+      {
+        "center": "0",
+        "panels": 18,
+        "seconds": 0.005232333000002143
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.30e-37]",
+      "panels": 18,
+      "max_ratio": 0.726508018413058,
+      "attempts": 32,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_1-2_2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 72,
+        "seconds": 0.022516334000002303
+      },
+      {
+        "center": "-7/16",
+        "panels": 72,
+        "seconds": 0.02260270800000086
+      },
+      {
+        "center": "-3/8",
+        "panels": 54,
+        "seconds": 0.01669641599999494
+      },
+      {
+        "center": "-5/16",
+        "panels": 46,
+        "seconds": 0.013986457999997981
+      },
+      {
+        "center": "-1/4",
+        "panels": 40,
+        "seconds": 0.012101416999996673
+      },
+      {
+        "center": "-3/16",
+        "panels": 40,
+        "seconds": 0.012199625000000935
+      },
+      {
+        "center": "-1/8",
+        "panels": 34,
+        "seconds": 0.010185583000001941
+      },
+      {
+        "center": "-1/16",
+        "panels": 30,
+        "seconds": 0.008958958000000905
+      },
+      {
+        "center": "0",
+        "panels": 26,
+        "seconds": 0.007884791999998697
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.84e-37]",
+      "panels": 26,
+      "max_ratio": 0.7796145513878412,
+      "attempts": 48,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_1-2_4",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1/2",
+        "panels": 80,
+        "seconds": 0.025171958000001382
+      },
+      {
+        "center": "-7/16",
+        "panels": 78,
+        "seconds": 0.024452916999997854
+      },
+      {
+        "center": "-3/8",
+        "panels": 66,
+        "seconds": 0.020891250000005357
+      },
+      {
+        "center": "-5/16",
+        "panels": 62,
+        "seconds": 0.019961833000003537
+      },
+      {
+        "center": "-1/4",
+        "panels": 54,
+        "seconds": 0.016851041999998984
+      },
+      {
+        "center": "-3/16",
+        "panels": 52,
+        "seconds": 0.01612558300000444
+      },
+      {
+        "center": "-1/8",
+        "panels": 48,
+        "seconds": 0.014953292000001284
+      },
+      {
+        "center": "-1/16",
+        "panels": 46,
+        "seconds": 0.014182458999997039
+      },
+      {
+        "center": "0",
+        "panels": 46,
+        "seconds": 0.014131917000000271
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.63e-36]",
+      "panels": 46,
+      "max_ratio": 0.7088618901357033,
+      "attempts": 88,
+      "center": "-1/16"
+    }
+  },
+  {
+    "name": "delay_1_1-2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 136,
+        "seconds": 0.042821416999998974
+      },
+      {
+        "center": "-7/8",
+        "panels": 118,
+        "seconds": 0.03730537499999542
+      },
+      {
+        "center": "-3/4",
+        "panels": 82,
+        "seconds": 0.02563354200000134
+      },
+      {
+        "center": "-5/8",
+        "panels": 74,
+        "seconds": 0.023928540999996528
+      },
+      {
+        "center": "-1/2",
+        "panels": 72,
+        "seconds": 0.02240175000000022
+      },
+      {
+        "center": "-3/8",
+        "panels": 58,
+        "seconds": 0.01799695800000478
+      },
+      {
+        "center": "-1/4",
+        "panels": 42,
+        "seconds": 0.013034584000003235
+      },
+      {
+        "center": "-1/8",
+        "panels": 28,
+        "seconds": 0.008677999999996189
+      },
+      {
+        "center": "0",
+        "panels": 22,
+        "seconds": 0.006411249999999313
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.34e-37]",
+      "panels": 22,
+      "max_ratio": 0.7333299232990897,
+      "attempts": 40,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_1_2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 144,
+        "seconds": 0.045680457999999646
+      },
+      {
+        "center": "-7/8",
+        "panels": 122,
+        "seconds": 0.03893391599999774
+      },
+      {
+        "center": "-3/4",
+        "panels": 94,
+        "seconds": 0.029553124999999625
+      },
+      {
+        "center": "-5/8",
+        "panels": 82,
+        "seconds": 0.025608249999997668
+      },
+      {
+        "center": "-1/2",
+        "panels": 80,
+        "seconds": 0.024904792000000953
+      },
+      {
+        "center": "-3/8",
+        "panels": 72,
+        "seconds": 0.02216391700000031
+      },
+      {
+        "center": "-1/4",
+        "panels": 56,
+        "seconds": 0.01717458299999919
+      },
+      {
+        "center": "-1/8",
+        "panels": 50,
+        "seconds": 0.015437000000005696
+      },
+      {
+        "center": "0",
+        "panels": 46,
+        "seconds": 0.014525666000004378
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 5.28e-37]",
+      "panels": 46,
+      "max_ratio": 0.7825183782584781,
+      "attempts": 88,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_1_4",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-1",
+        "panels": 126,
+        "seconds": 0.04030504100000343
+      },
+      {
+        "center": "-7/8",
+        "panels": 114,
+        "seconds": 0.035602167000000406
+      },
+      {
+        "center": "-3/4",
+        "panels": 90,
+        "seconds": 0.02856962500000293
+      },
+      {
+        "center": "-5/8",
+        "panels": 80,
+        "seconds": 0.025213958999998454
+      },
+      {
+        "center": "-1/2",
+        "panels": 76,
+        "seconds": 0.02376666700000385
+      },
+      {
+        "center": "-3/8",
+        "panels": 68,
+        "seconds": 0.022169499999996845
+      },
+      {
+        "center": "-1/4",
+        "panels": 54,
+        "seconds": 0.017210208000001614
+      },
+      {
+        "center": "-1/8",
+        "panels": 50,
+        "seconds": 0.015458375000001467
+      },
+      {
+        "center": "0",
+        "panels": 48,
+        "seconds": 0.014810957999998209
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.000000000000000000000000000000000000 +/- 6.87e-37]",
+      "panels": 48,
+      "max_ratio": 0.7349882691071974,
+      "attempts": 92,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_2_1-2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 272,
+        "seconds": 0.0852093339999982
+      },
+      {
+        "center": "-7/4",
+        "panels": 192,
+        "seconds": 0.06074587500000206
+      },
+      {
+        "center": "-3/2",
+        "panels": 144,
+        "seconds": 0.0451582080000037
+      },
+      {
+        "center": "-5/4",
+        "panels": 140,
+        "seconds": 0.04408329199999628
+      },
+      {
+        "center": "-1",
+        "panels": 138,
+        "seconds": 0.042921167000002924
+      },
+      {
+        "center": "-3/4",
+        "panels": 90,
+        "seconds": 0.028080332999998348
+      },
+      {
+        "center": "-1/2",
+        "panels": 76,
+        "seconds": 0.024097333000000276
+      },
+      {
+        "center": "-1/4",
+        "panels": 50,
+        "seconds": 0.015605290999999966
+      },
+      {
+        "center": "0",
+        "panels": 36,
+        "seconds": 0.010726874999996028
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 2.01e-37]",
+      "panels": 36,
+      "max_ratio": 0.7721732428047337,
+      "attempts": 68,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_2_2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 258,
+        "seconds": 0.08098954199999753
+      },
+      {
+        "center": "-7/4",
+        "panels": 198,
+        "seconds": 0.0635488329999987
+      },
+      {
+        "center": "-3/2",
+        "panels": 152,
+        "seconds": 0.049472707999996146
+      },
+      {
+        "center": "-5/4",
+        "panels": 146,
+        "seconds": 0.049983375000003605
+      },
+      {
+        "center": "-1",
+        "panels": 144,
+        "seconds": 0.04846170900000146
+      },
+      {
+        "center": "-3/4",
+        "panels": 110,
+        "seconds": 0.03683295799999797
+      },
+      {
+        "center": "-1/2",
+        "panels": 90,
+        "seconds": 0.029134833000000526
+      },
+      {
+        "center": "-1/4",
+        "panels": 70,
+        "seconds": 0.022767166999997812
+      },
+      {
+        "center": "0",
+        "panels": 62,
+        "seconds": 0.01941695899999729
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.000000000000000000000000000000000000 +/- 9.03e-37]",
+      "panels": 62,
+      "max_ratio": 0.7591294825628451,
+      "attempts": 120,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_2_4",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 256,
+        "seconds": 0.08562725000000171
+      },
+      {
+        "center": "-7/4",
+        "panels": 208,
+        "seconds": 0.06757962500000048
+      },
+      {
+        "center": "-3/2",
+        "panels": 166,
+        "seconds": 0.05385541599999755
+      },
+      {
+        "center": "-5/4",
+        "panels": 156,
+        "seconds": 0.04984358299999769
+      },
+      {
+        "center": "-1",
+        "panels": 156,
+        "seconds": 0.049685584000002336
+      },
+      {
+        "center": "-3/4",
+        "panels": 126,
+        "seconds": 0.04223050000000228
+      },
+      {
+        "center": "-1/2",
+        "panels": 112,
+        "seconds": 0.03705866600000007
+      },
+      {
+        "center": "-1/4",
+        "panels": 92,
+        "seconds": 0.030241415999995525
+      },
+      {
+        "center": "0",
+        "panels": 88,
+        "seconds": 0.028833540999997354
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.84e-36]",
+      "panels": 88,
+      "max_ratio": 0.7510374927757731,
+      "attempts": 172,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_4_1-2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 544,
+        "seconds": 0.17367658300000244
+      },
+      {
+        "center": "-7/2",
+        "panels": 314,
+        "seconds": 0.10405920800000246
+      },
+      {
+        "center": "-3",
+        "panels": 278,
+        "seconds": 0.09075520800000447
+      },
+      {
+        "center": "-5/2",
+        "panels": 278,
+        "seconds": 0.08845841699999824
+      },
+      {
+        "center": "-2",
+        "panels": 276,
+        "seconds": 0.08925295899999952
+      },
+      {
+        "center": "-3/2",
+        "panels": 158,
+        "seconds": 0.049947207999998966
+      },
+      {
+        "center": "-1",
+        "panels": 144,
+        "seconds": 0.045121916999995904
+      },
+      {
+        "center": "-1/2",
+        "panels": 90,
+        "seconds": 0.028124333999997475
+      },
+      {
+        "center": "0",
+        "panels": 58,
+        "seconds": 0.01766091700000061
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 3.18e-37]",
+      "panels": 58,
+      "max_ratio": 0.7988483438636546,
+      "attempts": 112,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_4_2",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 508,
+        "seconds": 0.15975470800000124
+      },
+      {
+        "center": "-7/2",
+        "panels": 344,
+        "seconds": 0.10707933400000513
+      },
+      {
+        "center": "-3",
+        "panels": 294,
+        "seconds": 0.09356470899999891
+      },
+      {
+        "center": "-5/2",
+        "panels": 290,
+        "seconds": 0.09148695900000092
+      },
+      {
+        "center": "-2",
+        "panels": 286,
+        "seconds": 0.08974454199999826
+      },
+      {
+        "center": "-3/2",
+        "panels": 196,
+        "seconds": 0.06273312500000117
+      },
+      {
+        "center": "-1",
+        "panels": 172,
+        "seconds": 0.05439808299999527
+      },
+      {
+        "center": "-1/2",
+        "panels": 136,
+        "seconds": 0.04240591700000351
+      },
+      {
+        "center": "0",
+        "panels": 108,
+        "seconds": 0.03440320800000052
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.54e-36]",
+      "panels": 108,
+      "max_ratio": 0.7706791038644413,
+      "attempts": 212,
+      "center": "0"
+    }
+  },
+  {
+    "name": "delay_4_4",
+    "family": "delay",
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 498,
+        "seconds": 0.1560367499999984
+      },
+      {
+        "center": "-7/2",
+        "panels": 354,
+        "seconds": 0.11233720799999958
+      },
+      {
+        "center": "-3",
+        "panels": 310,
+        "seconds": 0.09761420899999962
+      },
+      {
+        "center": "-5/2",
+        "panels": 302,
+        "seconds": 0.09479379199999727
+      },
+      {
+        "center": "-2",
+        "panels": 298,
+        "seconds": 0.09266449999999793
+      },
+      {
+        "center": "-3/2",
+        "panels": 222,
+        "seconds": 0.07095908300000531
+      },
+      {
+        "center": "-1",
+        "panels": 210,
+        "seconds": 0.06661979199999735
+      },
+      {
+        "center": "-1/2",
+        "panels": 170,
+        "seconds": 0.05414962500000087
+      },
+      {
+        "center": "0",
+        "panels": 146,
+        "seconds": 0.04556754200000057
+      }
+    ],
+    "best": {
+      "count": 6,
+      "turns": "[6.00000000000000000000000000000000000 +/- 4.74e-36]",
+      "panels": 146,
+      "max_ratio": 0.7988924415273185,
+      "attempts": 288,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_00",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-8/5",
+        "panels": 148,
+        "seconds": 0.059708749999998645
+      },
+      {
+        "center": "-7/5",
+        "panels": 102,
+        "seconds": 0.039997125000006406
+      },
+      {
+        "center": "-6/5",
+        "panels": 96,
+        "seconds": 0.03861249999999927
+      },
+      {
+        "center": "-1",
+        "panels": 88,
+        "seconds": 0.035456000000003485
+      },
+      {
+        "center": "-4/5",
+        "panels": 80,
+        "seconds": 0.03263591600000382
+      },
+      {
+        "center": "-3/5",
+        "panels": 60,
+        "seconds": 0.023093582999997864
+      },
+      {
+        "center": "-2/5",
+        "panels": 58,
+        "seconds": 0.02242375000000152
+      },
+      {
+        "center": "-1/5",
+        "panels": 46,
+        "seconds": 0.01873524999999887
+      },
+      {
+        "center": "0",
+        "panels": 38,
+        "seconds": 0.014202541999999596
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.64e-36]",
+      "panels": 38,
+      "max_ratio": 0.7761627826778352,
+      "attempts": 72,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_01",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 362,
+        "seconds": 0.14116662500000388
+      },
+      {
+        "center": "-7/2",
+        "panels": 306,
+        "seconds": 0.11974024999999955
+      },
+      {
+        "center": "-3",
+        "panels": 242,
+        "seconds": 0.09339504200000448
+      },
+      {
+        "center": "-5/2",
+        "panels": 198,
+        "seconds": 0.07926850000000485
+      },
+      {
+        "center": "-2",
+        "panels": 178,
+        "seconds": 0.06941849999999761
+      },
+      {
+        "center": "-3/2",
+        "panels": 142,
+        "seconds": 0.05591508300000214
+      },
+      {
+        "center": "-1",
+        "panels": 90,
+        "seconds": 0.03499370899999832
+      },
+      {
+        "center": "-1/2",
+        "panels": 64,
+        "seconds": 0.025084124999999347
+      },
+      {
+        "center": "0",
+        "panels": 52,
+        "seconds": 0.019781625000000247
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.43e-36]",
+      "panels": 52,
+      "max_ratio": 0.791325901528641,
+      "attempts": 100,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_02",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 172,
+        "seconds": 0.06869825000000418
+      },
+      {
+        "center": "-21/10",
+        "panels": 170,
+        "seconds": 0.06916729099999941
+      },
+      {
+        "center": "-9/5",
+        "panels": 154,
+        "seconds": 0.06151420800000551
+      },
+      {
+        "center": "-3/2",
+        "panels": 148,
+        "seconds": 0.060379875000002414
+      },
+      {
+        "center": "-6/5",
+        "panels": 104,
+        "seconds": 0.041740624999995646
+      },
+      {
+        "center": "-9/10",
+        "panels": 90,
+        "seconds": 0.03564000000000078
+      },
+      {
+        "center": "-3/5",
+        "panels": 66,
+        "seconds": 0.026788584000001947
+      },
+      {
+        "center": "-3/10",
+        "panels": 56,
+        "seconds": 0.021937666999995997
+      },
+      {
+        "center": "0",
+        "panels": 44,
+        "seconds": 0.0171734999999984
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.53e-36]",
+      "panels": 44,
+      "max_ratio": 0.7071565156777794,
+      "attempts": 84,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_03",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 210,
+        "seconds": 0.08368404200000157
+      },
+      {
+        "center": "-21/10",
+        "panels": 196,
+        "seconds": 0.0794679589999987
+      },
+      {
+        "center": "-9/5",
+        "panels": 188,
+        "seconds": 0.07506833300000437
+      },
+      {
+        "center": "-3/2",
+        "panels": 158,
+        "seconds": 0.0637641670000022
+      },
+      {
+        "center": "-6/5",
+        "panels": 108,
+        "seconds": 0.043310624999996605
+      },
+      {
+        "center": "-9/10",
+        "panels": 96,
+        "seconds": 0.038161457999997594
+      },
+      {
+        "center": "-3/5",
+        "panels": 64,
+        "seconds": 0.024939834000001326
+      },
+      {
+        "center": "-3/10",
+        "panels": 52,
+        "seconds": 0.020164583000003233
+      },
+      {
+        "center": "0",
+        "panels": 40,
+        "seconds": 0.015483125000002929
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 2.59e-36]",
+      "panels": 40,
+      "max_ratio": 0.7650184847279717,
+      "attempts": 76,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_04",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-19/10",
+        "panels": 192,
+        "seconds": 0.07682108299999868
+      },
+      {
+        "center": "-133/80",
+        "panels": 170,
+        "seconds": 0.06808575000000161
+      },
+      {
+        "center": "-57/40",
+        "panels": 132,
+        "seconds": 0.05331791599999747
+      },
+      {
+        "center": "-19/16",
+        "panels": 114,
+        "seconds": 0.04929316699999475
+      },
+      {
+        "center": "-19/20",
+        "panels": 110,
+        "seconds": 0.045679874999997594
+      },
+      {
+        "center": "-57/80",
+        "panels": 100,
+        "seconds": 0.03973399999999572
+      },
+      {
+        "center": "-19/40",
+        "panels": 82,
+        "seconds": 0.03471929200000545
+      },
+      {
+        "center": "-19/80",
+        "panels": 66,
+        "seconds": 0.026625624999994102
+      },
+      {
+        "center": "0",
+        "panels": 62,
+        "seconds": 0.02439195800000249
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.44e-34]",
+      "panels": 62,
+      "max_ratio": 0.7920076124275877,
+      "attempts": 120,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_05",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-18/5",
+        "panels": 308,
+        "seconds": 0.1239590409999991
+      },
+      {
+        "center": "-63/20",
+        "panels": 294,
+        "seconds": 0.11890912500000184
+      },
+      {
+        "center": "-27/10",
+        "panels": 208,
+        "seconds": 0.08332654200000178
+      },
+      {
+        "center": "-9/4",
+        "panels": 196,
+        "seconds": 0.07811245799999966
+      },
+      {
+        "center": "-9/5",
+        "panels": 174,
+        "seconds": 0.0689885419999996
+      },
+      {
+        "center": "-27/20",
+        "panels": 134,
+        "seconds": 0.05275729099999893
+      },
+      {
+        "center": "-9/10",
+        "panels": 126,
+        "seconds": 0.05118437499999828
+      },
+      {
+        "center": "-9/20",
+        "panels": 98,
+        "seconds": 0.03965395799999527
+      },
+      {
+        "center": "0",
+        "panels": 78,
+        "seconds": 0.030209708000001
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 9.16e-36]",
+      "panels": 78,
+      "max_ratio": 0.779760616423411,
+      "attempts": 152,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_06",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-4",
+        "panels": 320,
+        "seconds": 0.12911116599999417
+      },
+      {
+        "center": "-7/2",
+        "panels": 296,
+        "seconds": 0.11702987500000006
+      },
+      {
+        "center": "-3",
+        "panels": 288,
+        "seconds": 0.11364029199999948
+      },
+      {
+        "center": "-5/2",
+        "panels": 182,
+        "seconds": 0.07211133300000228
+      },
+      {
+        "center": "-2",
+        "panels": 166,
+        "seconds": 0.0659159169999981
+      },
+      {
+        "center": "-3/2",
+        "panels": 144,
+        "seconds": 0.05719591700000137
+      },
+      {
+        "center": "-1",
+        "panels": 94,
+        "seconds": 0.03715458300000307
+      },
+      {
+        "center": "-1/2",
+        "panels": 62,
+        "seconds": 0.03297662500000342
+      },
+      {
+        "center": "0",
+        "panels": 44,
+        "seconds": 0.02314004199999431
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 4.75e-37]",
+      "panels": 44,
+      "max_ratio": 0.6072369396178804,
+      "attempts": 84,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_07",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-31/10",
+        "panels": 284,
+        "seconds": 0.11486729100000304
+      },
+      {
+        "center": "-217/80",
+        "panels": 196,
+        "seconds": 0.08033454099999915
+      },
+      {
+        "center": "-93/40",
+        "panels": 174,
+        "seconds": 0.0701750830000023
+      },
+      {
+        "center": "-31/16",
+        "panels": 168,
+        "seconds": 0.06765391699999412
+      },
+      {
+        "center": "-31/20",
+        "panels": 150,
+        "seconds": 0.059759707999994305
+      },
+      {
+        "center": "-93/80",
+        "panels": 102,
+        "seconds": 0.04076666699999976
+      },
+      {
+        "center": "-31/40",
+        "panels": 84,
+        "seconds": 0.033132917000003204
+      },
+      {
+        "center": "-31/80",
+        "panels": 66,
+        "seconds": 0.027045708000002833
+      },
+      {
+        "center": "0",
+        "panels": 50,
+        "seconds": 0.02007524999999788
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.65e-36]",
+      "panels": 50,
+      "max_ratio": 0.6906262477331191,
+      "attempts": 96,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_08",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-5/2",
+        "panels": 174,
+        "seconds": 0.0728000410000007
+      },
+      {
+        "center": "-35/16",
+        "panels": 168,
+        "seconds": 0.06642991600000414
+      },
+      {
+        "center": "-15/8",
+        "panels": 166,
+        "seconds": 0.06646370800000057
+      },
+      {
+        "center": "-25/16",
+        "panels": 148,
+        "seconds": 0.05856749999999522
+      },
+      {
+        "center": "-5/4",
+        "panels": 104,
+        "seconds": 0.04029845799999521
+      },
+      {
+        "center": "-15/16",
+        "panels": 92,
+        "seconds": 0.03677654199999836
+      },
+      {
+        "center": "-5/8",
+        "panels": 64,
+        "seconds": 0.024886416999997607
+      },
+      {
+        "center": "-5/16",
+        "panels": 54,
+        "seconds": 0.022098416999995152
+      },
+      {
+        "center": "0",
+        "panels": 40,
+        "seconds": 0.01551116600000313
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 4.92e-37]",
+      "panels": 40,
+      "max_ratio": 0.7864661100987977,
+      "attempts": 76,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_09",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-2",
+        "panels": 164,
+        "seconds": 0.06443550000000187
+      },
+      {
+        "center": "-7/4",
+        "panels": 144,
+        "seconds": 0.060695291999998346
+      },
+      {
+        "center": "-3/2",
+        "panels": 136,
+        "seconds": 0.05410195800000395
+      },
+      {
+        "center": "-5/4",
+        "panels": 96,
+        "seconds": 0.03763825000000054
+      },
+      {
+        "center": "-1",
+        "panels": 88,
+        "seconds": 0.03358183400000314
+      },
+      {
+        "center": "-3/4",
+        "panels": 78,
+        "seconds": 0.03034470800000122
+      },
+      {
+        "center": "-1/2",
+        "panels": 62,
+        "seconds": 0.024070041000001652
+      },
+      {
+        "center": "-1/4",
+        "panels": 48,
+        "seconds": 0.018435416999999177
+      },
+      {
+        "center": "0",
+        "panels": 42,
+        "seconds": 0.01597233300000056
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 1.32e-36]",
+      "panels": 42,
+      "max_ratio": 0.785442582458188,
+      "attempts": 80,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_10",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-12/5",
+        "panels": 192,
+        "seconds": 0.07607254199999858
+      },
+      {
+        "center": "-21/10",
+        "panels": 180,
+        "seconds": 0.07226379099999747
+      },
+      {
+        "center": "-9/5",
+        "panels": 164,
+        "seconds": 0.06479133299999518
+      },
+      {
+        "center": "-3/2",
+        "panels": 146,
+        "seconds": 0.05760304200000377
+      },
+      {
+        "center": "-6/5",
+        "panels": 98,
+        "seconds": 0.03963625000000093
+      },
+      {
+        "center": "-9/10",
+        "panels": 90,
+        "seconds": 0.03557620899999847
+      },
+      {
+        "center": "-3/5",
+        "panels": 52,
+        "seconds": 0.020178125000001046
+      },
+      {
+        "center": "-3/10",
+        "panels": 44,
+        "seconds": 0.0169777089999954
+      },
+      {
+        "center": "0",
+        "panels": 30,
+        "seconds": 0.011347125000000347
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 5.16e-37]",
+      "panels": 30,
+      "max_ratio": 0.7866891194737055,
+      "attempts": 56,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_11",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-27/10",
+        "panels": 222,
+        "seconds": 0.08885300000000029
+      },
+      {
+        "center": "-189/80",
+        "panels": 214,
+        "seconds": 0.0865425829999964
+      },
+      {
+        "center": "-81/40",
+        "panels": 198,
+        "seconds": 0.07958991699999984
+      },
+      {
+        "center": "-27/16",
+        "panels": 174,
+        "seconds": 0.06965974999999958
+      },
+      {
+        "center": "-27/20",
+        "panels": 120,
+        "seconds": 0.04808299999999832
+      },
+      {
+        "center": "-81/80",
+        "panels": 110,
+        "seconds": 0.043841792000002044
+      },
+      {
+        "center": "-27/40",
+        "panels": 88,
+        "seconds": 0.03491841700000009
+      },
+      {
+        "center": "-27/80",
+        "panels": 68,
+        "seconds": 0.026924499999999796
+      },
+      {
+        "center": "0",
+        "panels": 56,
+        "seconds": 0.021504084000000034
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 3.71e-36]",
+      "panels": 56,
+      "max_ratio": 0.7234264660045346,
+      "attempts": 108,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_12",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-21/10",
+        "panels": 174,
+        "seconds": 0.06881820800000327
+      },
+      {
+        "center": "-147/80",
+        "panels": 164,
+        "seconds": 0.06655145899999582
+      },
+      {
+        "center": "-63/40",
+        "panels": 144,
+        "seconds": 0.057908540999996205
+      },
+      {
+        "center": "-21/16",
+        "panels": 92,
+        "seconds": 0.03694966699999469
+      },
+      {
+        "center": "-21/20",
+        "panels": 88,
+        "seconds": 0.03544733300000047
+      },
+      {
+        "center": "-63/80",
+        "panels": 76,
+        "seconds": 0.030518832999995027
+      },
+      {
+        "center": "-21/40",
+        "panels": 46,
+        "seconds": 0.01920195800000357
+      },
+      {
+        "center": "-21/80",
+        "panels": 36,
+        "seconds": 0.014168041000004905
+      },
+      {
+        "center": "0",
+        "panels": 26,
+        "seconds": 0.009912124999999605
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 4.05e-37]",
+      "panels": 26,
+      "max_ratio": 0.7987093774994231,
+      "attempts": 48,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_13",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-29/10",
+        "panels": 208,
+        "seconds": 0.08369241700000174
+      },
+      {
+        "center": "-203/80",
+        "panels": 190,
+        "seconds": 0.0759876669999997
+      },
+      {
+        "center": "-87/40",
+        "panels": 186,
+        "seconds": 0.07328470799999565
+      },
+      {
+        "center": "-29/16",
+        "panels": 172,
+        "seconds": 0.06892204199999696
+      },
+      {
+        "center": "-29/20",
+        "panels": 128,
+        "seconds": 0.05060729199999514
+      },
+      {
+        "center": "-87/80",
+        "panels": 110,
+        "seconds": 0.04462799999999589
+      },
+      {
+        "center": "-29/40",
+        "panels": 104,
+        "seconds": 0.04063312499999938
+      },
+      {
+        "center": "-29/80",
+        "panels": 88,
+        "seconds": 0.035132290999996485
+      },
+      {
+        "center": "0",
+        "panels": 72,
+        "seconds": 0.028477666000000568
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 6.29e-36]",
+      "panels": 72,
+      "max_ratio": 0.7414486675044446,
+      "attempts": 140,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_14",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-19/5",
+        "panels": 334,
+        "seconds": 0.13193233300000173
+      },
+      {
+        "center": "-133/40",
+        "panels": 294,
+        "seconds": 0.11952608299999667
+      },
+      {
+        "center": "-57/20",
+        "panels": 212,
+        "seconds": 0.08660741699999619
+      },
+      {
+        "center": "-19/8",
+        "panels": 194,
+        "seconds": 0.07665745799999968
+      },
+      {
+        "center": "-19/10",
+        "panels": 184,
+        "seconds": 0.07347454099999595
+      },
+      {
+        "center": "-57/40",
+        "panels": 146,
+        "seconds": 0.05709191599999741
+      },
+      {
+        "center": "-19/20",
+        "panels": 130,
+        "seconds": 0.05165695799999526
+      },
+      {
+        "center": "-19/40",
+        "panels": 100,
+        "seconds": 0.03883950000000169
+      },
+      {
+        "center": "0",
+        "panels": 84,
+        "seconds": 0.03244737500000383
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.00000000000000000000000000000000000 +/- 9.13e-36]",
+      "panels": 84,
+      "max_ratio": 0.7521094606628314,
+      "attempts": 164,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_15",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-17/5",
+        "panels": 326,
+        "seconds": 0.12833274999999844
+      },
+      {
+        "center": "-119/40",
+        "panels": 250,
+        "seconds": 0.09825195800000586
+      },
+      {
+        "center": "-51/20",
+        "panels": 198,
+        "seconds": 0.07887383299999584
+      },
+      {
+        "center": "-17/8",
+        "panels": 186,
+        "seconds": 0.07462433300000271
+      },
+      {
+        "center": "-17/10",
+        "panels": 166,
+        "seconds": 0.06577754099999567
+      },
+      {
+        "center": "-51/40",
+        "panels": 108,
+        "seconds": 0.04392483299999839
+      },
+      {
+        "center": "-17/20",
+        "panels": 90,
+        "seconds": 0.03518733300000321
+      },
+      {
+        "center": "-17/40",
+        "panels": 70,
+        "seconds": 0.027309667000004367
+      },
+      {
+        "center": "0",
+        "panels": 52,
+        "seconds": 0.01966387499999911
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.80e-36]",
+      "panels": 52,
+      "max_ratio": 0.7946636869004129,
+      "attempts": 100,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_16",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-19/10",
+        "panels": 180,
+        "seconds": 0.07299729100000008
+      },
+      {
+        "center": "-133/80",
+        "panels": 156,
+        "seconds": 0.06273354199999659
+      },
+      {
+        "center": "-57/40",
+        "panels": 140,
+        "seconds": 0.05583354200000201
+      },
+      {
+        "center": "-19/16",
+        "panels": 108,
+        "seconds": 0.04222550000000069
+      },
+      {
+        "center": "-19/20",
+        "panels": 102,
+        "seconds": 0.041296875000000455
+      },
+      {
+        "center": "-57/80",
+        "panels": 84,
+        "seconds": 0.0327714169999993
+      },
+      {
+        "center": "-19/40",
+        "panels": 62,
+        "seconds": 0.023990916999999
+      },
+      {
+        "center": "-19/80",
+        "panels": 46,
+        "seconds": 0.017677750000004266
+      },
+      {
+        "center": "0",
+        "panels": 38,
+        "seconds": 0.014219291000003409
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.33e-36]",
+      "panels": 38,
+      "max_ratio": 0.7838539852173427,
+      "attempts": 72,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_17",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-16/5",
+        "panels": 308,
+        "seconds": 0.12318395800000559
+      },
+      {
+        "center": "-14/5",
+        "panels": 242,
+        "seconds": 0.09563537500000052
+      },
+      {
+        "center": "-12/5",
+        "panels": 206,
+        "seconds": 0.08198083299999581
+      },
+      {
+        "center": "-2",
+        "panels": 194,
+        "seconds": 0.07788370799999456
+      },
+      {
+        "center": "-8/5",
+        "panels": 160,
+        "seconds": 0.063346082999999
+      },
+      {
+        "center": "-6/5",
+        "panels": 114,
+        "seconds": 0.0447209579999992
+      },
+      {
+        "center": "-4/5",
+        "panels": 92,
+        "seconds": 0.03602912500000599
+      },
+      {
+        "center": "-2/5",
+        "panels": 68,
+        "seconds": 0.027105542000001037
+      },
+      {
+        "center": "0",
+        "panels": 50,
+        "seconds": 0.01923379199999431
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 1.95e-36]",
+      "panels": 50,
+      "max_ratio": 0.7431259663856526,
+      "attempts": 96,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_18",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-17/10",
+        "panels": 156,
+        "seconds": 0.0618678339999974
+      },
+      {
+        "center": "-119/80",
+        "panels": 142,
+        "seconds": 0.05560112500000258
+      },
+      {
+        "center": "-51/40",
+        "panels": 102,
+        "seconds": 0.04003879199999716
+      },
+      {
+        "center": "-17/16",
+        "panels": 94,
+        "seconds": 0.03709187500000155
+      },
+      {
+        "center": "-17/20",
+        "panels": 84,
+        "seconds": 0.03431604200000038
+      },
+      {
+        "center": "-51/80",
+        "panels": 62,
+        "seconds": 0.02421237499999762
+      },
+      {
+        "center": "-17/40",
+        "panels": 50,
+        "seconds": 0.019515334000004714
+      },
+      {
+        "center": "-17/80",
+        "panels": 38,
+        "seconds": 0.014599416999999448
+      },
+      {
+        "center": "0",
+        "panels": 32,
+        "seconds": 0.012140750000000367
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 9.12e-37]",
+      "panels": 32,
+      "max_ratio": 0.7386649776104796,
+      "attempts": 60,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_19",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-11/5",
+        "panels": 168,
+        "seconds": 0.06602445900000475
+      },
+      {
+        "center": "-77/40",
+        "panels": 158,
+        "seconds": 0.0627039159999967
+      },
+      {
+        "center": "-33/20",
+        "panels": 136,
+        "seconds": 0.0530919580000031
+      },
+      {
+        "center": "-11/8",
+        "panels": 100,
+        "seconds": 0.038485041999997804
+      },
+      {
+        "center": "-11/10",
+        "panels": 94,
+        "seconds": 0.03706712500000009
+      },
+      {
+        "center": "-33/40",
+        "panels": 86,
+        "seconds": 0.03381720899999863
+      },
+      {
+        "center": "-11/20",
+        "panels": 70,
+        "seconds": 0.027213083000006577
+      },
+      {
+        "center": "-11/40",
+        "panels": 62,
+        "seconds": 0.024309250000001725
+      },
+      {
+        "center": "0",
+        "panels": 52,
+        "seconds": 0.019660500000000525
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 2.00e-36]",
+      "panels": 52,
+      "max_ratio": 0.7976523333285878,
+      "attempts": 100,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_20",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-31/10",
+        "panels": 270,
+        "seconds": 0.10631687500000453
+      },
+      {
+        "center": "-217/80",
+        "panels": 190,
+        "seconds": 0.07544695800000056
+      },
+      {
+        "center": "-93/40",
+        "panels": 178,
+        "seconds": 0.06964787500000114
+      },
+      {
+        "center": "-31/16",
+        "panels": 170,
+        "seconds": 0.06738545800000395
+      },
+      {
+        "center": "-31/20",
+        "panels": 150,
+        "seconds": 0.05991300000000166
+      },
+      {
+        "center": "-93/80",
+        "panels": 110,
+        "seconds": 0.04356574999999907
+      },
+      {
+        "center": "-31/40",
+        "panels": 96,
+        "seconds": 0.039310042000003875
+      },
+      {
+        "center": "-31/80",
+        "panels": 76,
+        "seconds": 0.030249875000002646
+      },
+      {
+        "center": "0",
+        "panels": 64,
+        "seconds": 0.02480208299999731
+      }
+    ],
+    "best": {
+      "count": 2,
+      "turns": "[2.00000000000000000000000000000000000 +/- 3.17e-36]",
+      "panels": 64,
+      "max_ratio": 0.7907333226390744,
+      "attempts": 124,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_21",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-5/2",
+        "panels": 222,
+        "seconds": 0.08720183299999462
+      },
+      {
+        "center": "-35/16",
+        "panels": 214,
+        "seconds": 0.08543495800000045
+      },
+      {
+        "center": "-15/8",
+        "panels": 208,
+        "seconds": 0.08125199999999921
+      },
+      {
+        "center": "-25/16",
+        "panels": 184,
+        "seconds": 0.07276904100000081
+      },
+      {
+        "center": "-5/4",
+        "panels": 142,
+        "seconds": 0.05686808400000132
+      },
+      {
+        "center": "-15/16",
+        "panels": 134,
+        "seconds": 0.05213874999999746
+      },
+      {
+        "center": "-5/8",
+        "panels": 104,
+        "seconds": 0.041175999999992996
+      },
+      {
+        "center": "-5/16",
+        "panels": 94,
+        "seconds": 0.037138874999996574
+      },
+      {
+        "center": "0",
+        "panels": 84,
+        "seconds": 0.03304854200000307
+      }
+    ],
+    "best": {
+      "count": 4,
+      "turns": "[4.0000000000000000000000000000000000 +/- 4.30e-35]",
+      "panels": 84,
+      "max_ratio": 0.7812832946651154,
+      "attempts": 164,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_22",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-37/10",
+        "panels": 322,
+        "seconds": 0.127899124999999
+      },
+      {
+        "center": "-259/80",
+        "panels": 288,
+        "seconds": 0.11535458300001267
+      },
+      {
+        "center": "-111/40",
+        "panels": 202,
+        "seconds": 0.08012649999999155
+      },
+      {
+        "center": "-37/16",
+        "panels": 184,
+        "seconds": 0.07146820800001308
+      },
+      {
+        "center": "-37/20",
+        "panels": 170,
+        "seconds": 0.06603741700000398
+      },
+      {
+        "center": "-111/80",
+        "panels": 110,
+        "seconds": 0.04261200000000542
+      },
+      {
+        "center": "-37/40",
+        "panels": 96,
+        "seconds": 0.03788358399999936
+      },
+      {
+        "center": "-37/80",
+        "panels": 68,
+        "seconds": 0.027097499999996444
+      },
+      {
+        "center": "0",
+        "panels": 46,
+        "seconds": 0.01809254100000146
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 9.83e-37]",
+      "panels": 46,
+      "max_ratio": 0.7998241978111179,
+      "attempts": 88,
+      "center": "0"
+    }
+  },
+  {
+    "name": "multidelay_23",
+    "family": "multidelay",
+    "trials": [
+      {
+        "center": "-29/10",
+        "panels": 272,
+        "seconds": 0.1094637500000033
+      },
+      {
+        "center": "-203/80",
+        "panels": 216,
+        "seconds": 0.08680866699999967
+      },
+      {
+        "center": "-87/40",
+        "panels": 196,
+        "seconds": 0.0787551250000007
+      },
+      {
+        "center": "-29/16",
+        "panels": 178,
+        "seconds": 0.07010387500000093
+      },
+      {
+        "center": "-29/20",
+        "panels": 156,
+        "seconds": 0.060995332999993934
+      },
+      {
+        "center": "-87/80",
+        "panels": 118,
+        "seconds": 0.0452556249999958
+      },
+      {
+        "center": "-29/40",
+        "panels": 92,
+        "seconds": 0.03571825000000217
+      },
+      {
+        "center": "-29/80",
+        "panels": 64,
+        "seconds": 0.024492874999992864
+      },
+      {
+        "center": "0",
+        "panels": 50,
+        "seconds": 0.01876300000000697
+      }
+    ],
+    "best": {
+      "count": 0,
+      "turns": "[+/- 2.21e-36]",
+      "panels": 50,
+      "max_ratio": 0.7554201209373475,
+      "attempts": 96,
+      "center": "0"
+    }
+  }
+]
